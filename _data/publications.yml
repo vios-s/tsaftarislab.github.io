@@ -1,0 +1,53 @@
+# Database of our publications.
+journals:
+  -
+    authors: "R. Boloix-Tortosa, J.J. Murillo-Fuentes, S.A. Tsaftaris"
+    title: "The Generalized Complex Kernel Least-Mean-Square Algorithm"
+    journal: "IEEE Transactions on Signal Processing"
+    edition: "to appear, 2019"
+    preprint: "https://arxiv.org/abs/1902.08692"
+    pdf: "../preprints/Tortosa2019.pdf"
+  -
+    authors: "A. Chartsias, T. Joyce, G. Papanastasiou, S. Semple, M. Williams, D. Newby, R. Dharmakumar, S.A. Tsaftaris"
+    title: "Disentangled Representation Learning in Cardiac Image Analysis"
+    journal: "Medical Image Analysis"
+    edition: "Volume 58, December 2019"
+    preprint: "https://arxiv.org/abs/1903.09467v3"
+    pdf: "https://www.sciencedirect.com/science/article/abs/pii/S1361841519300684"
+    code: "https://github.com/agis85/anatomy_modality_decomposition"
+    homepage: True
+
+books:
+  -
+    authors: "S.A. Tsaftaris, A. Gooya, A Frangi, J. Prince"
+    title: "Simulation and Synthesis in Medical Imaging: First International Workshop, SASHIMI 2017, Held in Conjunction with MICCAI 2017, Quebec City, Canada, September 10, 2017"
+    type: "Proceedings"
+    published: "Lecture Notes in Computer Science, vol. 10557, Springer."
+    year: "2017"
+    text: "http://www.springer.com/la/book/9783319681269"
+  -
+    authors: "S.A. Tsaftaris, A. Gooya, A Frangi, J. Prince"
+    title: "Simulation and Synthesis in Medical Imaging: First International Workshop, SASHIMI 2016, Held in Conjunction with MICCAI 2016, Athens, Greece, October 21, 2016"
+    type: "Proceedings"
+    published: "Lecture Notes in Computer Science, vol. 10557, Springer."
+    year: "2016"
+    text: "http://www.springer.com/la/book/9783319466293"
+
+chapters:
+  -
+    authors: "S.A. Tsaftaris, F. Casadio, G. Gautier, J.-L. Andral, A.K. Katsaggelos"
+    title: "La Joie De Vivre: The Evolution of a Masterpiece"
+    book: "Picasso Express, J.-L. Andral (ed.)"
+    published: "May 2011"
+
+conferences:
+  -
+    authors: "T. Xia, A. Chartsias, S.A. Tsaftaris"
+    title: "Consistent Brain Ageing Synthesis"
+    conference: "MICCAI 2019"
+    homepage: True
+  -
+    authors: "G. Jacenkow, A. Chartsias, B. Mohr, S.A. Tsaftaris"
+    title: "Conditioning Convolutional Segmentation Architectures with Non-Imaging Data"
+    conference: "Medical Imaging with Deep Learning (MIDL) 2019"
+    pdf: "https://openreview.net/pdf?id=BklGUoAEcE"

@@ -2,15 +2,12 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+The following is a chronologically sorted but possibly incomplete publication
+list. Additional resources are available via
+[Google Scholar](https://scholar.google.com/citations?user=jC1uFnYAAAAJ&hl=en)
+or
+[The University's repository](https://www.research.ed.ac.uk/portal/en/persons/sotirios-tsaftaris(d6f5033c-5d8a-4414-a956-680c1380741d)/publications.html).
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include publications/publications.html %}

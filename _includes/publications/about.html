@@ -1,0 +1,15 @@
+<div>
+  {% for journal in site.data.publications.journals %}
+    {% if journal.homepage == True %}
+      {% include publications/entry.html %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+<div>
+  {% for conference in site.data.publications.conferences %}
+    {% if conference.homepage == True %}
+      {% include publications/entry.html %}
+    {% endif %}
+  {% endfor %}
+</div>

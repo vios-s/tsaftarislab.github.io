@@ -1,0 +1,16 @@
+<p>
+  {% if journal %}
+    <b>{{ forloop.index }}. {{ journal.title }}</b>
+    <br />
+    <em>{{ journal.authors }}</em>
+    <br />
+    {{ journal.journal }}, {{ journal.edition }}
+  {% endif %}
+  {% if conference %}
+    <b>{{ forloop.index }}. {{ conference.title }}</b>
+    <br />
+    <em>{{ conference.authors }}</em>
+    <br />
+    {{ conference.conference }}
+  {% endif %}
+</p>
