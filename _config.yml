@@ -67,10 +67,10 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  projects:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  publications:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -120,6 +120,12 @@ defaults:
   - scope:
       path: ""
       type: join_us
+    values:
+      layout: single
+# _projects
+  - scope:
+      path: ""
+      type: projects
     values:
       layout: single
 

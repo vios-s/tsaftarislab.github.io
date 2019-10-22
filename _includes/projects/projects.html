@@ -1,0 +1,9 @@
+{% assign title = project.title %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope>
+    <h2 class="archive__item-title" itemprop="headline"><a href="{{ base_path }}{{ project.url }}" rel="permalink">{{ title }}</a></h2>
+    <p><i class="fa fa-fw fa-building" aria-hidden="true"></i> <strong>Funder:</strong> {{ project.funder }} <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <strong>Project status:</strong> {{ project.status }}</p>
+    <p class="archive__item-excerpt" itemprop="description"><p>{{ project.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ project.url }}" rel="permalink"> Read more</a></strong></p></p>
+  </article>
+</div>
