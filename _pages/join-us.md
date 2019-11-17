@@ -2,7 +2,6 @@
 title: "Join us"
 permalink: /join_us/
 ---
-
 If you wish the join the group as a PhD student or a postdoc, read below about
 open positions and funding opportunities.
 

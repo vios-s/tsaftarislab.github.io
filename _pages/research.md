@@ -2,7 +2,6 @@
 title: "Research"
 permalink: /research/
 ---
-
 The population increase exerts tremendous pressure on our healthcare systems and
 agricultural needs. Imaging methodologies are increasingly used to aid diagnoses
 and to build image-driven physiological models in the natural and life sciences.

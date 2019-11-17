@@ -1,11 +1,16 @@
 ---
 title: "Team"
-permalink: /team
+permalink: /team/
 ---
 If you want to join the team as a PhD student or a PostDoc, read about open
 positions [here]({{ base_path }}/join_us/). If you wish to join the group as an
 MSc or undergraduate student, drop Prof. Tsaftaris an email so we can arrange to
 chat.
+
+{% for post in site.team %}
+  {% include archive-single.html %}
+{% endfor %}
+
 
 ## Alumni
 

@@ -9,7 +9,6 @@ status: "Ongoing"
 collection: project
 permalink: /projects/raeng
 ---
-
 In the UK alone, currently 7 million people live with cardiovascular disease and
 this number will increase as the population ages. Under-resourced and
 under-staffed healthcare systems are struggling with the rising caseload and the

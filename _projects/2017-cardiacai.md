@@ -9,7 +9,6 @@ status: "Completed"
 collection: project
 permalink: /projects/cardiacai
 ---
-
 A sedentary lifestyle, poor diet, smoking, and genetic and other health factors
 are major contributors to coronary heart disease (CHD). Despite recent medical
 advances that have lowered the number of deaths compared to the past decades,

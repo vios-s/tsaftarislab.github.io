@@ -62,22 +62,19 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Collections
+# Collections. TODO: What is that?
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   projects:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  talks:
+  team:
     output: true
     permalink: /:collection/:path/
 
-# Defaults
+# Defaults. TODO: What is that?
 defaults:
   # _posts
   - scope:
@@ -122,10 +119,16 @@ defaults:
       type: join_us
     values:
       layout: single
-# _projects
+  # _projects
   - scope:
       path: ""
       type: projects
+    values:
+      layout: single
+  # _team
+  - scope:
+      path: ""
+      type: team
     values:
       layout: single
 

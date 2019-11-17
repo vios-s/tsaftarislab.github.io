@@ -2,7 +2,6 @@
 title: "About"
 permalink: /
 ---
-
 Tsaftaris' laboratory is part of the Institute for Digital Communications in The
 School of Engineering at The University of Edinburgh.
 
