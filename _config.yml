@@ -1,6 +1,6 @@
 # Site Settings
 locale                   : "en-UK"
-title                    : "Tsaftaris' Laboratory"
+title                    : "Tsaftaris' Collaboratory"
 title_separator          : "-"
 name                     : &name "Sotirios A Tsaftaris"
 description              : &description "personal description"

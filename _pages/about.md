@@ -40,8 +40,7 @@ indoor farming).
 
 * **Paper in Science Translational Medicine for BOLD MRI:** After almost 8 years
   of work, our paper setting the new way to do BOLD in the heart is out in
-  (Science Translational
-  Medicine)[https://stm.sciencemag.org/content/11/494/eaat4407.abstract].
+  [Science Translational Medicine](https://stm.sciencemag.org/content/11/494/eaat4407.abstract).
 
 * **Recruiting PhD students and PostDocs:** We are growing the team. If you have
   a strong profile please email me and attach a CV. Check

@@ -2,6 +2,8 @@
 title: "Team"
 permalink: /team/
 ---
+![Team]({{ base_path }}/assets/images/team.jpg)
+
 If you want to join the team as a PhD student or a PostDoc, read about open
 positions [here]({{ base_path }}/join_us/). If you wish to join the group as an
 MSc or undergraduate student, drop Prof. Tsaftaris an email so we can arrange to

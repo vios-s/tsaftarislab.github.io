@@ -1,21 +1,105 @@
 # Database of our publications.
 journals:
   -
+    authors: "V. Giuffrida, S.A. Tsaftaris"
+    title: "Unsupervised Rotation Factorization in Restricted Boltzmann Machines"
+    journal: "IEEE Transactions on Image Processing"
+    edition: "vol. 29, no. 1, pp. 2166-2175, 2020"
+    text: "https://ieeexplore.ieee.org/abstract/document/8870198"
+    pdf: "assets/pdf/Giuffrida_2020.pdf"
+    code: "https://bitbucket.org/tuttoweb/rotinvrbm/src/master/"
+  -
+    authors: "H. Chen, M.V. Giuffrida, P. Doerner, S.A. Tsaftaris"
+    title: "Blind Inpainting of Large-scale Masks of Thin Structures with Adversarial and Reinforcement Learning"
+    journal: "TBA"
+    edition: "submitted"
+    preprint: "https://arxiv.org/abs/1912.02470"
+    homepage: False
+  -
+    authors: "A. Chartsias, G. Papanastasiou, C. Wang, S. Semple, D. Newby, R. Dharmakumar, S.A. Tsaftaris"
+    title: "Disentangle, align and fuse for multimodal and zero-shot image segmentation"
+    journal: "TBA"
+    edition: "submitted"
+    preprint: "https://arxiv.org/pdf/1911.04417.pdf"
+    homepage: False
+  -
+    authors: "T. Xia, A. Chartsias,  C. Wang,  S.A. Tsaftaris"
+    title: "Learning to synthesise the ageing brain without longitudinal data"
+    journal: "TBA"
+    edition: "submitted"
+    preprint: "https://arxiv.org/abs/1912.02620"
+    homepage: False
+  -
     authors: "R. Boloix-Tortosa, J.J. Murillo-Fuentes, S.A. Tsaftaris"
     title: "The Generalized Complex Kernel Least-Mean-Square Algorithm"
     journal: "IEEE Transactions on Signal Processing"
-    edition: "to appear, 2019"
+    edition: "vol. 67, no. 20, pp. 5213 - 5222, Oct 2019"
+    text: "https://ieeexplore.ieee.org/document/8811602"
     preprint: "https://arxiv.org/abs/1902.08692"
-    pdf: "../preprints/Tortosa2019.pdf"
+    pdf: "assets/pdfs/Tortosa2019.pdf"
+    homepage: null
   -
     authors: "A. Chartsias, T. Joyce, G. Papanastasiou, S. Semple, M. Williams, D. Newby, R. Dharmakumar, S.A. Tsaftaris"
     title: "Disentangled Representation Learning in Cardiac Image Analysis"
     journal: "Medical Image Analysis"
-    edition: "Volume 58, December 2019"
+    edition: "vol. 58, December 2019"
+    text: "https://www.sciencedirect.com/science/article/abs/pii/S1361841519300684"
     preprint: "https://arxiv.org/abs/1903.09467v3"
-    pdf: "https://www.sciencedirect.com/science/article/abs/pii/S1361841519300684"
     code: "https://github.com/agis85/anatomy_modality_decomposition"
-    homepage: True
+    homepage: False
+  -
+    authors: "Hsin-Jung Yang, Ilkay Oksuz, Damini Dey, Jane Sykes, Michael Klein, John Butler, Michael S. Kovacs, Olivia Sobczyk, Ivan Cokic, Piotr J. Slomka, Xiaoming Bi, Debiao Li, Mourad Tighiouart, Sotirios A. Tsaftaris, Frank S. Prato, Joseph A. Fisher and Rohan Dharmakumar"
+    title: "Accurate needle-free assessment of myocardial oxygenation for ischemic heart disease in canines using magnetic resonance imaging"
+    journal: "Science Translational Medicine"
+    edition: "Vol. 11, Issue 494, eaat4407, 29 May 2019"
+    text: "https://stm.sciencemag.org/content/11/494/eaat4407.abstract"
+    homepage: False
+  -
+    authors: "T. Bontpart, C. Concha, M.V. Giuffrida, I. Robertson, K. Admkie, T. Degefu, N. Girma, K. Tesfaye, T. Haileselassie, A. Fikre, M. Fetene, S.A. Tsaftaris, P. Doerner"
+    title: "Affordable and robust phenotyping framework to analyse root system architecture of soil-grown plants"
+    journal: "TBA"
+    edition: "submitted"
+    preprint: "https://www.biorxiv.org/content/10.1101/573139v1"
+    homepage: False
+  -
+    authors: "S.A Tsaftaris, H. Scharr"
+    title: "Sharing the Right Data Right: A Symbiosis with Machine Learning"
+    journal: "Trends in Plant Science"
+    edition: "vol. 24, no. 2, pp 99-102, Feb 2019"
+    text: "https://www.sciencedirect.com/science/article/pii/S1360138518302498"
+    url: "https://www.plant-phenotyping.org/datasets-impact"
+    homepage: False
+  -
+    authors: "Ö.N. Gerek, B. Boashash, M. Leszczuk, S.A. Tsaftaris, W. Armour, D. Wallom"
+    title: "Editorial for Special Issue on Reproducible Research"
+    journal: "Digital Signal Processing"
+    edition: "vol. 77, pp 1-4, June 2018"
+    text: "https://www.sciencedirect.com/science/article/pii/S105120041830112X"
+    homepage: False
+  -
+    authors: "M.V. Giuffrida, P. Doerner, S.A. Tsaftaris"
+    title: "Pheno‐Deep Counter: a unified and versatile deep learning architecture for leaf counting"
+    journal: "The Plant Journal"
+    edition: "In Press. 2018"
+    text: "https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.14064"
+    pdf: "assets/pdfs/Giuffrida_et_al-2018-The_Plant_Journal.pdf"
+    homepage: False
+  -
+    authors: "A. Frangi, S.A. Tsaftaris, J. Prince"
+    title: "EDITORIAL: Simulation and Synthesis in Medical Imaging"
+    journal: "IEEE Trans. on Medical Imaging"
+    edition: "vol. 37, no. 3, pp. 673-679, March 2018"
+    text: "https://ieeexplore.ieee.org/document/8305584"
+    homepage: False
+  -
+    authors: "A. Chartsias, T. Joyce, V. Giuffrida, and S. A. Tsaftaris"
+    title: "Multimodal MR Synthesis via Modality-Invariant Latent Representation"
+    journal: "IEEE Trans on Medical Imaging"
+    edition: "vol. 37, no. 3, pp. 803-814, Mar. 2018"
+    text: "https://doi.org/10.1109/TMI.2017.2764326"
+    pdf: "assets/pdf/TMI_Synthesis_final.pdf"
+    code: "https://github.com/agis85/multimodal_brain_synthesis"
+    homepage: False
 
 books:
   -
@@ -25,6 +109,7 @@ books:
     published: "Lecture Notes in Computer Science, vol. 10557, Springer."
     year: "2017"
     text: "http://www.springer.com/la/book/9783319681269"
+    homepage: False
   -
     authors: "S.A. Tsaftaris, A. Gooya, A Frangi, J. Prince"
     title: "Simulation and Synthesis in Medical Imaging: First International Workshop, SASHIMI 2016, Held in Conjunction with MICCAI 2016, Athens, Greece, October 21, 2016"
@@ -32,6 +117,7 @@ books:
     published: "Lecture Notes in Computer Science, vol. 10557, Springer."
     year: "2016"
     text: "http://www.springer.com/la/book/9783319466293"
+    homepage: False
 
 chapters:
   -
@@ -39,15 +125,17 @@ chapters:
     title: "La Joie De Vivre: The Evolution of a Masterpiece"
     book: "Picasso Express, J.-L. Andral (ed.)"
     published: "May 2011"
+    homepage: False
 
 conferences:
   -
     authors: "T. Xia, A. Chartsias, S.A. Tsaftaris"
     title: "Consistent Brain Ageing Synthesis"
     conference: "MICCAI 2019"
-    homepage: True
+    homepage: False
   -
     authors: "G. Jacenkow, A. Chartsias, B. Mohr, S.A. Tsaftaris"
     title: "Conditioning Convolutional Segmentation Architectures with Non-Imaging Data"
     conference: "Medical Imaging with Deep Learning (MIDL) 2019"
-    pdf: "https://openreview.net/pdf?id=BklGUoAEcE"
+    text: "https://openreview.net/pdf?id=BklGUoAEcE"
+    homepage: False

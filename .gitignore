@@ -3,3 +3,6 @@ _site/
 
 # PyCharm.
 .idea
+
+# Mac OS.
+.DS_Store
