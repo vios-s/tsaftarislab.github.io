@@ -1,7 +1,7 @@
 ---
-Name: "Tian Xia"
-Title: "Mr"
-Role: "PhD Student"
+title: "Tian Xia"
+role: "phd"
+subtitle: "PhD Student"
 
 collection: team
 permalink: /team/xia

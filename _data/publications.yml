@@ -1,141 +1,755 @@
-# Database of our publications.
 journals:
-  -
+-
+    authors: "H. Chen, M.V. Giuffrida, P. Doerner, S.A. Tsaftaris"
+    title: "Blind Inpainting of Large-scale Masks of Thin Structures with Adversarial and Reinforcement Learning"
+    journal: "TBA"
+    edition: "submitted"
+    text: null
+    preprint: "https://arxiv.org/abs/1912.02470"
+    pdf: null
+    code: null
+    url: null
+    published: 2019-12-05
+    homepage: True
+    other: null
+-
+    authors: "T. Xia, A. Chartsias,  C. Wang,  S.A. Tsaftaris"
+    title: "Learning to synthesise the ageing brain without longitudinal data"
+    journal: "TBA"
+    edition: "submitted"
+    text: null
+    preprint: "https://arxiv.org/abs/1912.02620"
+    pdf: null
+    code: null
+    url: null
+    published: 2019-12-04
+    homepage: True
+    other: null
+-
+    authors: "A. Chartsias, G. Papanastasiou, C. Wang, S. Semple, D. Newby, R. Dharmakumar, S.A. Tsaftaris"
+    title: "Disentangle, align and fuse for multimodal and zero-shot image segmentation"
+    journal: "TBA"
+    edition: "submitted"
+    text: null
+    preprint: "https://arxiv.org/pdf/1911.04417.pdf"
+    pdf: null
+    code: null
+    url: null
+    published: 2019-11-12
+    homepage: False
+    other: null
+-
     authors: "V. Giuffrida, S.A. Tsaftaris"
     title: "Unsupervised Rotation Factorization in Restricted Boltzmann Machines"
     journal: "IEEE Transactions on Image Processing"
     edition: "vol. 29, no. 1, pp. 2166-2175, 2020"
     text: "https://ieeexplore.ieee.org/abstract/document/8870198"
-    pdf: "assets/pdf/Giuffrida_2020.pdf"
+    preprint: null
+    pdf: "Giuffrida_2020.pdf"
     code: "https://bitbucket.org/tuttoweb/rotinvrbm/src/master/"
-  -
-    authors: "H. Chen, M.V. Giuffrida, P. Doerner, S.A. Tsaftaris"
-    title: "Blind Inpainting of Large-scale Masks of Thin Structures with Adversarial and Reinforcement Learning"
-    journal: "TBA"
-    edition: "submitted"
-    preprint: "https://arxiv.org/abs/1912.02470"
+    url: null
+    published: 2019-10-15
     homepage: False
-  -
-    authors: "A. Chartsias, G. Papanastasiou, C. Wang, S. Semple, D. Newby, R. Dharmakumar, S.A. Tsaftaris"
-    title: "Disentangle, align and fuse for multimodal and zero-shot image segmentation"
-    journal: "TBA"
-    edition: "submitted"
-    preprint: "https://arxiv.org/pdf/1911.04417.pdf"
-    homepage: False
-  -
-    authors: "T. Xia, A. Chartsias,  C. Wang,  S.A. Tsaftaris"
-    title: "Learning to synthesise the ageing brain without longitudinal data"
-    journal: "TBA"
-    edition: "submitted"
-    preprint: "https://arxiv.org/abs/1912.02620"
-    homepage: False
-  -
-    authors: "R. Boloix-Tortosa, J.J. Murillo-Fuentes, S.A. Tsaftaris"
-    title: "The Generalized Complex Kernel Least-Mean-Square Algorithm"
-    journal: "IEEE Transactions on Signal Processing"
-    edition: "vol. 67, no. 20, pp. 5213 - 5222, Oct 2019"
-    text: "https://ieeexplore.ieee.org/document/8811602"
-    preprint: "https://arxiv.org/abs/1902.08692"
-    pdf: "assets/pdfs/Tortosa2019.pdf"
-    homepage: null
-  -
+    other: null
+-
     authors: "A. Chartsias, T. Joyce, G. Papanastasiou, S. Semple, M. Williams, D. Newby, R. Dharmakumar, S.A. Tsaftaris"
     title: "Disentangled Representation Learning in Cardiac Image Analysis"
     journal: "Medical Image Analysis"
-    edition: "vol. 58, December 2019"
+    edition: "vol. 58, 2019"
     text: "https://www.sciencedirect.com/science/article/abs/pii/S1361841519300684"
     preprint: "https://arxiv.org/abs/1903.09467v3"
+    pdf: null
     code: "https://github.com/agis85/anatomy_modality_decomposition"
+    url: null
+    published: 2019-09-16
     homepage: False
-  -
-    authors: "Hsin-Jung Yang, Ilkay Oksuz, Damini Dey, Jane Sykes, Michael Klein, John Butler, Michael S. Kovacs, Olivia Sobczyk, Ivan Cokic, Piotr J. Slomka, Xiaoming Bi, Debiao Li, Mourad Tighiouart, Sotirios A. Tsaftaris, Frank S. Prato, Joseph A. Fisher and Rohan Dharmakumar"
+    other: null
+-
+    authors: "H.J. Yang, I. Oksuz, D. Dey, J. Sykes, M. Klein, J. Butler, M. S. Kovacs, O. Sobczyk, I. Cokic, P. J. Slomka, X. Bi, D. Li, M. Tighiouart, S.A. Tsaftaris, F.S. Prato, J. A. Fisher and R. Dharmakumar"
     title: "Accurate needle-free assessment of myocardial oxygenation for ischemic heart disease in canines using magnetic resonance imaging"
     journal: "Science Translational Medicine"
-    edition: "Vol. 11, Issue 494, eaat4407, 29 May 2019"
+    edition: "vol. 11, Issue 494, eaat4407, 2019"
     text: "https://stm.sciencemag.org/content/11/494/eaat4407.abstract"
+    preprint: null
+    pdf: null
+    code: null
+    url: null
+    published: 2019-05-29
     homepage: False
-  -
+    other: null
+-
     authors: "T. Bontpart, C. Concha, M.V. Giuffrida, I. Robertson, K. Admkie, T. Degefu, N. Girma, K. Tesfaye, T. Haileselassie, A. Fikre, M. Fetene, S.A. Tsaftaris, P. Doerner"
     title: "Affordable and robust phenotyping framework to analyse root system architecture of soil-grown plants"
     journal: "TBA"
     edition: "submitted"
+    text: null
     preprint: "https://www.biorxiv.org/content/10.1101/573139v1"
+    pdf: null
+    code: null
+    url: null
+    published: 2019-03-11
     homepage: False
-  -
+    other: null
+-
+    authors: "R. Boloix-Tortosa, J.J. Murillo-Fuentes, S.A. Tsaftaris"
+    title: "The Generalized Complex Kernel Least-Mean-Square Algorithm"
+    journal: "IEEE Transactions on Signal Processing"
+    edition: "vol. 67, no. 20, pp. 5213 - 5222, 2019"
+    text: "https://ieeexplore.ieee.org/document/8811602"
+    preprint: "https://arxiv.org/abs/1902.08692"
+    pdf: "Tortosa2019.pdf"
+    code: null
+    url: null
+    published: 2019-02-22
+    homepage: False
+    other: null
+-
     authors: "S.A Tsaftaris, H. Scharr"
     title: "Sharing the Right Data Right: A Symbiosis with Machine Learning"
     journal: "Trends in Plant Science"
-    edition: "vol. 24, no. 2, pp 99-102, Feb 2019"
+    edition: "vol. 24, no. 2, pp. 99-102, 2019"
     text: "https://www.sciencedirect.com/science/article/pii/S1360138518302498"
+    preprint: null
+    pdf: null
+    code: null
     url: "https://www.plant-phenotyping.org/datasets-impact"
+    published: 2019-02-01
     homepage: False
-  -
-    authors: "Ö.N. Gerek, B. Boashash, M. Leszczuk, S.A. Tsaftaris, W. Armour, D. Wallom"
-    title: "Editorial for Special Issue on Reproducible Research"
-    journal: "Digital Signal Processing"
-    edition: "vol. 77, pp 1-4, June 2018"
-    text: "https://www.sciencedirect.com/science/article/pii/S105120041830112X"
-    homepage: False
-  -
+    other: null
+-
     authors: "M.V. Giuffrida, P. Doerner, S.A. Tsaftaris"
-    title: "Pheno‐Deep Counter: a unified and versatile deep learning architecture for leaf counting"
+    title: "Pheno-Deep Counter: a unified and versatile deep learning architecture for leaf counting"
     journal: "The Plant Journal"
     edition: "In Press. 2018"
     text: "https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.14064"
-    pdf: "assets/pdfs/Giuffrida_et_al-2018-The_Plant_Journal.pdf"
+    preprint: null
+    pdf: "Giuffrida_et_al-2018-The_Plant_Journal.pdf"
+    code: null
+    url: null
+    published: 2018-08-12
     homepage: False
-  -
+    other: null
+-
+    authors: "Ö.N. Gerek, B. Boashash, M. Leszczuk, S.A. Tsaftaris, W. Armour, D. Wallom"
+    title: "Editorial for Special Issue on Reproducible Research"
+    journal: "Digital Signal Processing"
+    edition: "vol. 77, pp. 1-4, 2018"
+    text: "https://www.sciencedirect.com/science/article/pii/S105120041830112X"
+    preprint: null
+    pdf: null
+    code: null
+    url: null
+    published: 2018-06-01
+    homepage: False
+    other: null
+-
     authors: "A. Frangi, S.A. Tsaftaris, J. Prince"
-    title: "EDITORIAL: Simulation and Synthesis in Medical Imaging"
-    journal: "IEEE Trans. on Medical Imaging"
-    edition: "vol. 37, no. 3, pp. 673-679, March 2018"
+    title: "Editorial for Simulation and Synthesis in Medical Imaging"
+    journal: "IEEE Transactions on Medical Imaging"
+    edition: "vol. 37, no. 3, pp. 673-679, 2018"
     text: "https://ieeexplore.ieee.org/document/8305584"
+    preprint: null
+    pdf: null
+    code: null
+    url: null
+    published: 2018-03-01
     homepage: False
-  -
+    other: null
+-
+    authors: "V. Giuffrida, F. Chen, H. Scharr, S.A. Tsaftaris"
+    title: "Citizen crowds and experts: observer variability in image-based plant phenotyping"
+    journal: "Plant Methods"
+    edition: "vol. 14, no. 12, 2018"
+    text: "https://plantmethods.biomedcentral.com/articles/10.1186/s13007-018-0278-7"
+    preprint: null
+    pdf: null
+    code: null
+    url: "https://www.zooniverse.org/projects/venchen/leaf-targeting"
+    published: 2018-02-09
+    homepage: False
+    other: null
+-
+    authors: "A. Dobrescu, L.C.T. Scorza, S.A. Tsaftaris, and A. McCormick"
+    title: "A 'Do-It-Yourself' phenotyping system: measuring growth and morphology throughout the diel cycle in rosette shaped plants"
+    journal: "Plant Methods"
+    edition: "13:95, 2017"
+    text: "https://plantmethods.biomedcentral.com/articles/10.1186/s13007-017-0247-6"
+    preprint: null
+    pdf: "Andrei_PLM_2017.pdf"
+    code: null
+    url: null
+    published: 2017-11-08
+    homepage: False
+    other: null
+-
     authors: "A. Chartsias, T. Joyce, V. Giuffrida, and S. A. Tsaftaris"
     title: "Multimodal MR Synthesis via Modality-Invariant Latent Representation"
-    journal: "IEEE Trans on Medical Imaging"
-    edition: "vol. 37, no. 3, pp. 803-814, Mar. 2018"
+    journal: "IEEE Transactions on Medical Imaging"
+    edition: "vol. 37, no. 3, pp. 803-814, 2018"
     text: "https://doi.org/10.1109/TMI.2017.2764326"
-    pdf: "assets/pdf/TMI_Synthesis_final.pdf"
+    preprint: null
+    pdf: "TMI_Synthesis_final.pdf"
     code: "https://github.com/agis85/multimodal_brain_synthesis"
+    url: null
+    published: 2017-10-18
     homepage: False
-
-books:
-  -
-    authors: "S.A. Tsaftaris, A. Gooya, A Frangi, J. Prince"
-    title: "Simulation and Synthesis in Medical Imaging: First International Workshop, SASHIMI 2017, Held in Conjunction with MICCAI 2017, Quebec City, Canada, September 10, 2017"
-    type: "Proceedings"
-    published: "Lecture Notes in Computer Science, vol. 10557, Springer."
-    year: "2017"
-    text: "http://www.springer.com/la/book/9783319681269"
+    other: null
+-
+    authors: "I. Oksuz, A. Mukhopadhyay, R. Dharmakumar and S.A. Tsaftaris"
+    title: "Unsupervised Myocardial Segmentation for Cardiac BOLD"
+    journal: "IEEE Transactions on Medical Imaging"
+    edition: "vol. 36, no. 11, pp. 2228-2238, 2017"
+    text: "http://dx.doi.org/10.1109/TMI.2017.2726112"
+    preprint: null
+    pdf: "Oksuz_TMI_2017.pdf"
+    code: null
+    url: null
+    published: 2017-07-12
     homepage: False
-  -
-    authors: "S.A. Tsaftaris, A. Gooya, A Frangi, J. Prince"
-    title: "Simulation and Synthesis in Medical Imaging: First International Workshop, SASHIMI 2016, Held in Conjunction with MICCAI 2016, Athens, Greece, October 21, 2016"
-    type: "Proceedings"
-    published: "Lecture Notes in Computer Science, vol. 10557, Springer."
-    year: "2016"
-    text: "http://www.springer.com/la/book/9783319466293"
+    other: null
+-
+    authors: "H.J. Yang, D. Dey, J. Sykes, M. Klein, J. Butler, M. Kovacs, O. Sobczyk, B. Sharif, X. Bi, A. Kali, I. Cokic, R. Tang, R. Yumul, A. Conte, S.A. Tsaftaris, M. Tighiouart, D. Li, P.J. Slomka, D. Berman, F. Prato, J. Fisher, R. Dharmakumar"
+    title: "Arterial CO2 Can Potentiate Myocardial Blood Flow to the Same Extent as Adenosine"
+    journal: "Journal of Nuclear Medicine"
+    edition: "vol. 58. no. 6, pp. 953-960, 2017"
+    text: "http://dx.doi.org/10.2967/jnumed.116.185991"
+    preprint: null
+    pdf: null
+    code: null
+    url: null
+    published: 2017-06-01
     homepage: False
-
-chapters:
-  -
-    authors: "S.A. Tsaftaris, F. Casadio, G. Gautier, J.-L. Andral, A.K. Katsaggelos"
-    title: "La Joie De Vivre: The Evolution of a Masterpiece"
-    book: "Picasso Express, J.-L. Andral (ed.)"
-    published: "May 2011"
+    other: null
+-
+    authors: "A. Suinesiaputra, P. Ablin, X. Alba, M. Alessandrini, J. Allen, W. Bai, S. Cimen, P. Claes, B. Cowan, J. D''hooge, N. Duchateau, J. Ehrhardt, A. Frangi, A. Gooya, V. Grau, K. Lekadir, A. Lu, A. Mukhopadhyay, I. Oksuz, N. Parajuli, X. Pennec, M. Pereanez, C. Pinto, P. Piras, M.M. Rohe, D. Rueckert, D. Saring, M. Sermesant, K. Siddiqi, M. Tabassian, L. Teresi, S.A. Tsaftaris, M. Wilms, A. Young, X. Zhang, P. Medrano-Gracia"
+    title: "Statistical shape modeling of the left ventricle: myocardial infarct classification challenge"
+    journal: "IEEE Journal of Biomedical and Health Informatics"
+    edition: "vol. 22, no. 2, pp. 503-515, 2018"
+    text: "http://dx.doi.org/10.1109/JBHI.2017.2652449"
+    preprint: null
+    pdf: "Avan_2017_jbhi.pdf"
+    code: null
+    url: null
+    published: 2017-01-17
     homepage: False
-
-conferences:
-  -
-    authors: "T. Xia, A. Chartsias, S.A. Tsaftaris"
-    title: "Consistent Brain Ageing Synthesis"
-    conference: "MICCAI 2019"
+    other: null
+-
+    authors: "M. Minervini, V. Giuffrida, P. Perata, S.A. Tsaftaris"
+    title: "Phenotiki: An open software and hardware platform for affordable and easy image-based phenotyping of rosette-shaped plants"
+    journal: "The Plant Journal"
+    edition: "vol. 90, no. 1, pp. 204-216, 2017"
+    text: "http://onlinelibrary.wiley.com/doi/10.1111/tpj.13472/abstract"
+    preprint: null
+    pdf: null
+    code: null
+    url: null
+    published: 2017-01-09
     homepage: False
-  -
-    authors: "G. Jacenkow, A. Chartsias, B. Mohr, S.A. Tsaftaris"
-    title: "Conditioning Convolutional Segmentation Architectures with Non-Imaging Data"
-    conference: "Medical Imaging with Deep Learning (MIDL) 2019"
-    text: "https://openreview.net/pdf?id=BklGUoAEcE"
+    other: null
+-
+    authors: "S.A. Tsaftaris, M. Minervini, H. Scharr"
+    title: "Machine Learning for Plant Phenotyping Needs Image Processing"
+    journal: "Trends in Plant Science"
+    edition: "vol. 21, no. 12, pp. 989-991, 2016"
+    text: "http://dx.doi.org/10.1016/j.tplants.2016.10.002"
+    preprint: null
+    pdf: "Tsaftaris_TiPS_Letter.pdf"
+    code: null
+    url: null
+    published: 2016-10-31
     homepage: False
+    other: null
+-
+    authors: "M. Minervini, A. Fischbach, H. Scharr, S. A. Tsaftaris"
+    title: "Finely-grained annotated datasets for image-based plant phenotyping"
+    journal: "Pattern Recognition Letters"
+    edition: "vol. 81, no. 1, pp. 80-89, 2016"
+    text: "https://www.sciencedirect.com/science/article/abs/pii/S0167865515003645"
+    preprint: null
+    pdf: "Minervini_PRL2015.pdf"
+    code: null
+    url: "https://www.plant-phenotyping.org/datasets"
+    published: 2016-10-01
+    homepage: False
+    other: null
+-
+    authors: "M. Pagani, M. Damiano, A. Galbusera, S.A. Tsaftaris, A. Gozzi"
+    title: "Semi-automated registration-based anatomical labelling, voxel based morphometry and cortical thickness mapping of the mouse brain"
+    journal: "Journal of Neuroscience Methods"
+    edition: "vol. 267, pp. 62-73, 2016"
+    text: "https://linkinghub.elsevier.com/retrieve/pii/S0165027016300450"
+    preprint: null
+    pdf: "pagani_2016.pdf"
+    code: null
+    url: null
+    published: 2016-07-15
+    homepage: False
+    other: null
+-
+    authors: "H. Scharr, H. Dee, A.P. French, S.A. Tsaftaris"
+    title: "Editorial for Special issue on computer vision and image analysis in plant phenotyping"
+    journal: "Machine Vision and Applications"
+    edition: "vol. 27, pp. 607-609, 2016"
+    text: "https://link.springer.com/article/10.1007/s00138-016-0787-1"
+    preprint: null
+    pdf: null
+    code: null
+    url: null
+    published: 2016-06-29
+    homepage: False
+    other: null
+-
+    authors: "R. B. Uriarte, S.A. Tsaftaris, F. Tiezzi"
+    title: "Supporting Autonomic Management of Clouds: Service Clustering with Random Forest"
+    journal: "IEEE Transactions on Network and Service Management"
+    edition: "vol. 13, no. 3, pp. 595-607, 2016"
+    text: "https://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=7469788"
+    preprint: null
+    pdf: "URIARTE-TNSM.pdf"
+    code: null
+    url: null
+    published: 2016-05-13
+    homepage: False
+    other: null
+-
+    authors: "H. Scharr, M. Minervini, A. P. French, C. Klukas, D. M. Kramer, X. Liu, I. Luengo Muntión, J.-M. Pape, G. Polder, D. Vukadinovic, X. Yin, S.A. Tsaftaris"
+    title: "Leaf segmentation in plant phenotyping: A collation study"
+    journal: "Machine Vision and Applications"
+    edition: "vol. 27, pp. 585-606, 2016"
+    text: "http://link.springer.com/article/10.1007/s00138-015-0737-3"
+    preprint: null
+    pdf: "Scharr_MVAP2015.pdf"
+    code: null
+    url: null
+    published: 2015-12-12
+    homepage: False
+    other: null
+-
+    authors: "M. Minervini, H. Scharr, S.A. Tsaftaris"
+    title: "The Significance of Image Compression in Plant Phenotyping Applications"
+    journal: "Functional Plant Biology"
+    edition: "vol. 42, no. 10, pp. 971-988, 2015"
+    text: "http://www.publish.csiro.au/paper/FP15033.htm"
+    preprint: null
+    pdf: "Minervini_FPB2015.pdf"
+    code: null
+    url: null
+    published: 2015-09-07
+    homepage: False
+    other: null
+-
+    authors: "M. Bevilacqua, R. Dharmakumar, S.A. Tsaftaris"
+    title: "Dictionary-driven Ischemia Detection from Cardiac Phase-Resolved Myocardial BOLD MRI at Rest"
+    journal: "IEEE Transactions on Medical Imaging"
+    edition: "vol. 35, no. 1, pp. 282-293, 2016"
+    text: "https://ieeexplore.ieee.org/document/7210211?tp=&arnumber=7210211"
+    preprint: null
+    pdf: "Bevilacqua_TMI_2015.pdf"
+    code: null
+    url: null
+    published: 2015-08-19
+    homepage: False
+    other: null
+-
+    authors: "M. Minervini, H. Scharr, S.A. Tsaftaris"
+    title: "Image Analysis: the new bottleneck in plant phenotyping"
+    journal: "IEEE Signal Processing Magazine"
+    edition: "vol. 32, no. 4, pp. 126-131, 2015"
+    text: "https://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7123050"
+    preprint: null
+    pdf: "Minervini2015SPMag.pdf"
+    code: null
+    url: null
+    published: 2015-06-12
+    homepage: False
+    other: null
+-
+    authors: "M. Minervini, M.M. Abdelsamea, S.A. Tsaftaris"
+    title: "Image based plant phenotyping with incremental learning and active contours"
+    journal: "Ecological Informatics Journal, Special Issue on Multimedia in Ecology and Environment"
+    edition: "vol. 23, pp. 35-48, 2014"
+    text: "https://www.sciencedirect.com/science/article/pii/S1574954113000691"
+    preprint: null
+    pdf: "Minervini_etal_EcoInf_2013.pdf"
+    code: null
+    url: null
+    published: 2014-09-01
+    homepage: False
+    other: null
+-
+    authors: "H.-S. Yang, R. Yumul, R. Tang, I. Cokic, M. Klein, A. Kali, O. Sobczyk, D. Sharif, J. Tang, X. Bi, S.A. Tsaftaris, D. Li, A.H. Conte, J.A. Fisher, R. Dharmakumar"
+    title: "Assessment of Myocardial Reactivity to Controlled Hypercapnia with Free-breathing T2-prepared Cardiac Blood-Oxygen-Level-Dependent MR Imaging"
+    journal: "Radiology"
+    edition: "vol. 272, no. 2, pp. 397-406, 2014"
+    text: "https://pubs.rsna.org/doi/10.1148/radiol.14132549"
+    preprint: null
+    pdf: null
+    code: null
+    url: null
+    published: 2014-04-17
+    homepage: False
+    other: null
+-
+    authors: "C. Rusu, R. Morisi, D. Boschetto, R. Dharmakumar, S.A. Tsaftaris"
+    title: "Synthetic Generation of Myocardial Blood-Oxygen-Level-Dependent MRI Time Series via Structural Sparse Decomposition Modeling"
+    journal: "IEEE Transactions on Medical Imaging"
+    edition: "vol. 33, no. 7, pp. 1422-1433, 2014"
+    text: "https://ieeexplore.ieee.org/document/6777337/?arnumber=6777337"
+    preprint: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4079741/"
+    pdf: "Rusu_TMI14.pdf"
+    code: null
+    url: null
+    published: 2014-03-21
+    homepage: False
+    other: null
+-
+    authors: "S. Sannino, A. Gozzi, A. Cerasa, D. Scheggia, F. Manago, M. Damiano, A. Galbusera, D. De Pietri Tonelli, A. Bifone, S.A. Tsaftaris, D.R. Weinberger, G. Spalletta, F. Papaleo"
+    title: "COMT genetic reduction produces sexually-divergent effects on cortical anatomy and working memory in mice and humans"
+    journal: "Cerebral Cortex"
+    edition: "vol. 25, no. 9, pp. 2529-2541, 2015"
+    text: "http://cercor.oxfordjournals.org/content/early/2014/03/20/cercor.bhu053.short?rss=1"
+    preprint: null
+    pdf: null
+    code: null
+    url: null
+    published: 2014-03-21
+    homepage: False
+    other: null
+-
+    authors: "V. Tucci, T. Kleefstra, A. Hardy, I. Heise, S. Maggi, M. Willemsen, H. Hilton, C. Esapa, M. Simon, M.-T. Buenavista, L. Vizor, L. Dodero, S.A. Tsaftaris, R. Romero, W.M. Nillesen, L. Peart-Vissers, M. Kempers, A. Vulto-Van Siflhout, Z. Iqbal, M. Orlando, A. Maccione, G. Lassi, P. Farisello, A. Constestabile, T. Nieus, A. Raimondi, B. Greco, D. Cantatore, L. Gasparini, L. Berdondini, A. Bifone, A. Gozzi, S. Wells, P.M. Nolan"
+    title: "Dominant $\\beta$-catenin mutations cause intellectual disability with recognizable syndromic features"
+    journal: "Journal of Clinical Investigation"
+    edition: "vol. 124, no. 4, pp. 1468-82, 2014"
+    text: "https://jci.org/articles/view/70372"
+    preprint: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3973091/"
+    pdf: null
+    code: null
+    url: null
+    published: 2014-03-10
+    homepage: False
+    other: null
+-
+    authors: "M. Minervini, C. Rusu, M. Damiano, V. Tucci, A. Bifone, A. Gozzi, S.A. Tsaftaris"
+    title: "Large-Scale Analysis of Neuroimaging Data on Commercial Clouds with Content-Aware Resource Allocation Strategies"
+    journal: "International Journal of High Performance Computing Applications"
+    edition: "Vol 29, Issue 4, 2015"
+    text: "https://journals.sagepub.com/doi/full/10.1177/1094342013519483"
+    preprint: null
+    pdf: "Minervini2014Large.pdf"
+    code: null
+    url: null
+    published: 2014-01-17
+    homepage: False
+    other: null
+-
+    authors: "S.A. Tsaftaris"
+    title: "A scientist's guide to cloud computing"
+    journal: "Computing in Science and Engineering"
+    edition: "vol. 16, no. 1, pp. 70-76, 2014"
+    text: null
+    preprint: null
+    pdf: "Tsaftaris_CISE_CLOUD_2014.pdf"
+    code: null
+    url: null
+    published: 2014-01-01
+    homepage: False
+    other: "Invited"
+-
+    authors: "C. Rusu, D. Dumitrescu, S.A. Tsaftaris"
+    title: "Explicit shift-invariant dictionary learning"
+    journal: "IEEE Signal Processing Letters"
+    edition: "vol. 21, no. 1, pp. 6-9, 2014"
+    text: "https://ieeexplore.ieee.org/document/6655924?arnumber=6655924"
+    preprint: null
+    pdf: "Rusu_SPL13.pdf"
+    code: null
+    url: null
+    published: 2013-11-05
+    homepage: False
+    other: null
+-
+    authors: "L. Dodero, M. Damiano, S.A. Tsaftaris, A. Galbusera, A. Bifone, M. L. Scattoni, A. Gozzi"
+    title: "Neuroimaging Evidence of Major Morpho-Anatomical and Functional Abnormalities in the BTBR T+TF/J Mouse Model of Autism"
+    journal: "PLoS One"
+    edition: "vol. 8, no. 10, pp. 76655, 2013"
+    text: "https://plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0076655"
+    preprint: null
+    pdf: null
+    code: null
+    url: null
+    published: 2013-10-16
+    homepage: False
+    other: null
+-
+    authors: "I. Cokic, A. Kali, X. Wang, H.-J. Yang, R. L Tang, A. Thajudeen, M Shehata, A. M. Amorn, L. Enzhao, B. Stewart, N. Bennett, D. Harlev, S.A. Tsaftaris, W.M. Jackman, S. Chugh, R. Dharmakumar"
+    title: "Iron Deposition Following Chronic Myocardial Infarction as a Substrate for Cardiac Electrical Anomalies: Initial Findings in a Canine Model"
+    journal: "PLoS One"
+    edition: "vol. 8, no. 9,  pp. 73193, 2013"
+    text: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0073193"
+    preprint: null
+    pdf: null
+    code: null
+    url: null
+    published: 2013-09-16
+    homepage: False
+    other: null
+-
+    authors: "S.A. Tsaftaris, F. Casadio, J.-L. Andral, A.K. Katsaggelos"
+    title: "A novel visualization tool for art history and conservation: automated colorization of black and white archival photographs of works of art"
+    journal: "Studies in Conservation"
+    edition: "vol. 59, no. 3, pp. 125-135, 2014"
+    text: null
+    preprint: null
+    pdf: "Tsaftaris_SIC14.pdf"
+    code: null
+    url: null
+    published: 2013-07-01
+    homepage: False
+    other: null
+-
+    authors: "Z. Chen, E. Soyak, S.A. Tsaftaris, A. K. Katsaggelos"
+    title: "Application-Aware Approach to Compression and Transmission of H.264 Encoded Video for Automated and Centralized Transportation Surveillance"
+    journal: "IEEE Transactions on Intelligent Transportation Systems"
+    edition: "vol. 14, no. 4, pp. 2002-2007,  2013"
+    text: "https://ieeexplore.ieee.org/document/6544640?arnumber=6544640"
+    preprint: null
+    pdf: "Chen_TITS13.pdf"
+    code: null
+    url: null
+    published: 2013-06-20
+    homepage: False
+    other: null
+-
+    authors: "A. Kali, A. Kumar, I. Cokic, R. Yang, S.A. Tsaftaris, R. Tang, D. Li, M.G. Friedrich, R. Dharmakumar"
+    title: "Chronic Manifestation of Post-Reperfusion Intramyocardial Hemorrhage as Regional Iron Deposition - A Cardiovascular MR Study with Ex-vivo Validation"
+    journal: "Circulation Cardiovascular Imaging"
+    edition: "vol. 6, no. 2, pp. 218-228, 2013"
+    text: "https://www.ahajournals.org/doi/10.1161/circimaging.112.000133"
+    preprint: null
+    pdf: null
+    code: null
+    url: null
+    published: 2013-02-12
+    homepage: False
+    other: null
+-
+    authors: "S.A. Tsaftaris, X. Zhou, R. Tang, D. Li, R. Dharmakumar"
+    title: "Detecting Myocardial Ischemia at Rest with Cardiac Phase-Resolved BOLD CMR"
+    journal: "Circulation Cardiovascular Imaging"
+    edition: "vol. 6, no. 2, pp. 311-319, 2013"
+    text: "https://www.ahajournals.org/doi/full/10.1161/circimaging.112.976076"
+    preprint: null
+    pdf: null
+    code: null
+    url: null
+    published: 2012-12-18
+    homepage: False
+    other: null
+-
+    authors: "R. Dharmakumar, S.A. Tsaftaris, D. Li"
+    title: "Myocardial Blood-Oxygen-Level-Dependent Magnetic Resonance Imaging with Balanced Steady-State Free Precession Imaging Approaches"
+    journal: "The Open Medical Imaging Journal"
+    edition: "vol. 6, pp. 31-38, 2012"
+    text: "https://benthamopen.com/ABSTRACT/TOMIJ-6-31"
+    preprint: null
+    pdf: null
+    code: null
+    url: null
+    published: 2012-04-06
+    homepage: False
+    other: null
+-
+    authors: "S.A. Tsaftaris, X. Zhou, R. Tang, D. Li, R. Dharmakumar"
+    title: "Ischemic Extent as a Biomarker for Characterizing Severity of Coronary Artery Stenosis with Blood Oxygen-Sensitive Cardiac MRI"
+    journal: "Journal of Magnetic Resonance Imaging"
+    edition: "vol. 35, no. 6, pp. 1338-1348, 2012"
+    text: "https://onlinelibrary.wiley.com/doi/full/10.1002/jmri.23577"
+    preprint: null
+    pdf: null
+    code: null
+    url: null
+    published: 2012-01-13
+    homepage: False
+    other: null
+-
+    authors: "E. Soyak, S.A. Tsaftaris, A. K. Katsaggelos"
+    title: "Low-Complexity Video Compression for Automated Transportation Surveillance"
+    journal: "IEEE Transactions on Circuits and Systems for Video Technology"
+    edition: "vol. 21, no. 10, pp. 1378-1389, 2011"
+    text: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5971775&tag=1"
+    preprint: null
+    pdf: "Soyak_TCSVT11.pdf"
+    code: null
+    url: null
+    published: 2011-10-01
+    homepage: False
+    other: null
+-
+    authors: "S.A. Tsaftaris, K. Lister, I. Fiedler, F. Casadio, A.K. Katsaggelos"
+    title: "Colorizing a Masterpiece"
+    journal: "IEEE Signal Processing Magazine"
+    edition: "vol. 28, no. 3, pp. 113-119, 2011"
+    text: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5753085"
+    preprint: null
+    pdf: "Tsaftaris_IEEE_SPM_May_11.pdf"
+    code: null
+    url: null
+    published: 2011-05-01
+    homepage: False
+    other: "Front cover"
+-
+    authors: "X. Zhou, V. Rundell, Y. Liu, R. Tang, R. Klein, S. Shah, S. Zuehlsdorff, S.A. Tsaftaris, D. Li, R. Dharmakumar"
+    title: "T2-weighted STIR Imaging of Myocardial Edema Associated with Ischemia-Reperfusion Injury: The Influence of Proton Density Effect on Image Contrast"
+    journal: "Journal of Magnetic Resonance Imaging"
+    edition: "vol. 33, no. 4, pp. 962-967, 2011"
+    text: "https://onlinelibrary.wiley.com/doi/full/10.1002/jmri.22456"
+    preprint: null
+    pdf: null
+    code: null
+    url: null
+    published: 2011-03-29
+    homepage: False
+    other: null
+-
+    authors: "X. Zhou, S.A. Tsaftaris, Y. Liu, R. Tang, R. Klein, S. Zuehlsdorff, D. Li, R. Dharmakumar"
+    title: "Artifact-reduced two-dimensional cine steady state free precession for myocardial blood-oxygen-level-dependent imaging"
+    journal: "Journal of Magnetic Resonance Imaging"
+    edition: "vol. 31, no. 4, pp. 863-871, 2010"
+    text: "https://onlinelibrary.wiley.com/doi/full/10.1002/jmri.22116"
+    preprint: null
+    pdf: null
+    code: null
+    url: null
+    published: 2010-03-29
+    homepage: False
+    other: null
+-
+    authors: "F. Jiang, J. Yuan, S.A. Tsaftaris, A.K. Katsaggelos"
+    title: "Anomalous Video Event Detection Using Spatiotemporal Context"
+    journal: "Computer Vision and Image Understanding"
+    edition: "vol. 115, no. 3, pp. 323-333, 2011"
+    text: null
+    preprint: null
+    pdf: "Tsaftaris_CVIU_2010.pdf"
+    code: null
+    url: null
+    published: 2010-02-28
+    homepage: False
+    other: null
+-
+    authors: "S.A. Tsaftaris, E. Offerman, R. Edelman, I. Koktzoglou"
+    title: "Fully Automated Reconstruction of Ungated Ghost Magnetic Resonance Angiograms Using Cluster Analysis"
+    journal: "Journal of Magnetic Resonance Imaging"
+    edition: "vol. 31, no. 3, pp. 655-662, 2010"
+    text: "https://onlinelibrary.wiley.com/doi/full/10.1002/jmri.22092"
+    preprint: null
+    pdf: null
+    code: null
+    url: null
+    published: 2010-02-25
+    homepage: False
+    other: null
+-
+    authors: "R. Dharmakumar, Z. Zhang, I. Koktzoglou, S.A. Tsaftaris, D. Li"
+    title: "Dual Contrast Cellular MRI"
+    journal: "Molecular Imaging"
+    edition: "vol. 8, no. 5, pp. 254-63, 2009"
+    text: "https://journals.sagepub.com/doi/pdf/10.2310/7290.2009.00024"
+    preprint: null
+    pdf: null
+    code: null
+    url: null
+    published: 2009-09-01
+    homepage: False
+    other: null
+-
+    authors: "S.A. Tsaftaris, A.K. Katsaggelos"
+    title: "Retrieval Efficiency of DNA-Based Databases of Digital Signals"
+    journal: "IEEE Transactions on NanoBioscience"
+    edition: "vol. 8, no. 3, pp. 259-270, 2009"
+    text: "https://ieeexplore.ieee.org/document/5161324"
+    preprint: "http://tsaftaris.com/preprints/Tsaftaris_TNB_2009.pdf"
+    pdf: "Tsaftaris_TNB_2009.pdf"
+    code: null
+    url: null
+    published: 2009-07-10
+    homepage: False
+    other: null
+-
+    authors: "S.A. Tsaftaris, A.K. Katsaggelos"
+    title: "The Not So Digital Future of Digital Signal Processing"
+    journal: "Proceedings of the IEEE"
+    edition: "vol. 96, no. 3, pp. 375-377, 2008"
+    text: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4446225"
+    preprint: "http://tsaftaris.com/preprints/Tsaftaris08TheNotSo.pdf"
+    pdf: "Tsaftaris08TheNotSo.pdf"
+    code: null
+    url: null
+    published: 2008-04-01
+    homepage: False
+    other: null
+-
+    authors: "H. Wang, S.A. Tsaftaris, A.K. Katsaggelos"
+    title: "Joint source-channel coding for wireless object-based video communications utilizing data hiding"
+    journal: " IEEE Transactions Image Processing"
+    edition: " vol. 15, no. 8, pp. 2158-69, 2006"
+    text: "https://ieeexplore.ieee.org/abstract/document/1658082"
+    preprint: "http://tsaftaris.com/preprints/WangTsaftKats_TIP06.pdf"
+    pdf: "WangTsaftKats_TIP06.pdf"
+    code: null
+    url: null
+    published: 2006-07-17
+    homepage: False
+    other: null
+-
+    authors: "S.A. Tsaftaris, V. Hatzimanikatis, A.K. Katsaggelos"
+    title: "In silico estimation of annealing specificity of query searches in DNA databases"
+    journal: "Journal of Japan Society of Simulation Technology"
+    edition: "vol. 24, no. 4, pp. 268-276, 2005"
+    text: "https://ci.nii.ac.jp/naid/110004059524/"
+    preprint: "http://tsaftaris.com/preprints/Tsaftaris05JSST.pdf"
+    pdf: "Tsaftaris05JSST.pdf"
+    code: null
+    url: null
+    published: 2005-12-01
+    homepage: False
+    other: null
+-
+    authors: "S.A. Tsaftaris, T.N. Pappas, E.T. Papoutsakis, A.K. Katsaggelos"
+    title: "How can DNA-Computing be applied to Digital Signal Processing?"
+    journal: "IEEE Signal Processing Magazine"
+    edition: "vol. 21, no. 6, pp. 57-61, 2004"
+    text: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1359142"
+    preprint: "http://tsaftaris.com/preprints/SP_mag_2_04.pdf"
+    pdf: "SP_mag_2_04.pdf"
+    code: null
+    url: null
+    published: 2004-12-01
+    homepage: False
+    other: null
+-
+    authors: "S.A. Tsaftaris, T.N. Pappas, E.T. Papoutsakis, A.K. Katsaggelos"
+    title: "DNA computing from a signal processing viewpoint"
+    journal: "IEEE Signal Processing Magazine"
+    edition: "vol. 21, no. 5, pp. 100-106, 2004"
+    text: "https://ieeexplore.ieee.org/abstract/document/1328093"
+    preprint: "http://tsaftaris.com/preprints/SP_mag_1_04.pdf"
+    pdf: "SP_mag_1_04.pdf"
+    code: null
+    url: null
+    published: 2004-08-30
+    homepage: False
+    other: null
+-
+    authors: "D. Simitopoulos, S.A. Tsaftaris, N.V. Boulgouris, A. Briassouli, M.G. Strintzis"
+    title: "Fast watermarking of MPEG-1/2 streams using compressed-domain perceptual embedding and a generalized correlator detector"
+    journal: "EURASIP Journal on Applied Signal Processing"
+    edition: "vol. 8, pp. 1088-1106, 2004"
+    text: "https://link.springer.com/article/10.1155/S1110865704402029"
+    preprint: "http://tsaftaris.com/preprints/Tsaftaris_JASP_2004.pdf"
+    pdf: "Tsaftaris_JASP_2004.pdf"
+    code: null
+    url: null
+    published: 2004-07-08
+    homepage: False
+    other: null

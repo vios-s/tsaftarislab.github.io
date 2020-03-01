@@ -1,7 +1,7 @@
 ---
-Name: "Sotirios A. Tsaftaris"
-Title: "Professor"
-Role: "Group Leader"
+title: "Sotirios A. Tsaftaris"
+role: "staff"
+subtitle: "Chair in Machine Learning and Computer Vision"
 
 collection: team
 permalink: /team/tsaftaris

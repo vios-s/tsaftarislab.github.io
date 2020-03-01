@@ -1,7 +1,7 @@
 ---
-Name: "Gabriele Valvano"
-Title: "Mr"
-Role: "Visiting PhD Student"
+title: "Gabriele Valvano"
+role: "visiting"
+subtitle: "Visiting PhD Student"
 
 collection: team
 permalink: /team/valvano

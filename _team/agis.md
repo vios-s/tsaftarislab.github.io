@@ -1,7 +1,7 @@
 ---
-Name: "Agisilaos Chartsias"
-Title: "Mr"
-Role: "PhD Student"
+title: "Agisilaos Chartsias"
+role: "phd"
+subtitle: "PhD Student"
 
 collection: team
 permalink: /team/chartsias

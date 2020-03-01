@@ -1,7 +1,7 @@
 ---
-Name: "Spyridon Thermos"
-Title: "Dr"
-Role: "Research Associate"
+title: "Spyridon Thermos"
+role: "postdoc"
+subtitle: "Post-doctoral Researcher"
 
 collection: team
 permalink: /team/thermos

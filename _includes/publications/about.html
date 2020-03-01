@@ -1,6 +1,6 @@
 <div>
   {% for journal in site.data.publications.journals %}
-    {% if journal.homepage == True %}
+    {% if journal.homepage %}
       {% include publications/entry.html %}
     {% endif %}
   {% endfor %}
@@ -8,7 +8,7 @@
 
 <div>
   {% for conference in site.data.publications.conferences %}
-    {% if conference.homepage == True %}
+    {% if conference.homepage %}
       {% include publications/entry.html %}
     {% endif %}
   {% endfor %}

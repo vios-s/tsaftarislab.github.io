@@ -1,7 +1,7 @@
 ---
-Name: "Andrei Dobrescu"
-Title: "Mr"
-Role: "PhD Student"
+title: "Andrei Dobrescu"
+role: "phd"
+subtitle: "PhD Student"
 
 collection: team
 permalink: /team/dobrescu

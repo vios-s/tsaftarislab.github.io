@@ -1,7 +1,7 @@
 ---
-Name: "Haochuan Jiang"
-Title: "Dr"
-Role: "Research Associate"
+title: "Haochuan Jiang"
+role: "postdoc"
+subtitle: "Post-doctoral Researcher"
 
 collection: team
 permalink: /team/jiang

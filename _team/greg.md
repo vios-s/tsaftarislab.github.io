@@ -1,13 +1,13 @@
 ---
-Name: "Grzegorz Jacenków"
-Title: "Mr"
-Role: "PhD Student"
+title: "Grzegorz Jacenków"
+role: "phd"
+subtitle: "PhD Student"
 
 collection: team
 permalink: /team/jacenkow
 ---
 Grzegorz Jacenków is a PhD student at The University of Edinburgh supervised by
-Professor Sotirios Tsaftaris and Dr Brian Mohr (Canon Medical Research). The
+Professor Sotirios Tsaftaris and Dr Alison O'Neil (Canon Medical Research). The
 core of his research is focused on integrating medical imaging and non-imaging
 data to improve decision support systems. His project is done in collaboration
 with Canon Medical Research Europe.

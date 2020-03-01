@@ -1,7 +1,7 @@
 ---
-Name: "Phivos Sofokleous"
-Title: "Mr"
-Role: "PhD Student"
+title: "Phivos Sofokleous"
+role: "phd"
+subtitle: "PhD Student"
 
 collection: team
 permalink: /team/phivos

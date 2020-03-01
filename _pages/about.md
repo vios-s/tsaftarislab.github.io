@@ -2,8 +2,8 @@
 title: "About"
 permalink: /
 ---
-Tsaftaris' laboratory is part of the Institute for Digital Communications in The
-School of Engineering at The University of Edinburgh.
+Tsaftaris' Collaboratory is part of the Institute for Digital Communications in
+The School of Engineering at The University of Edinburgh.
 
 Our research interests are machine learning, deep learning, medical image
 analysis (medical image computing), and image processing. Core research
@@ -15,6 +15,12 @@ indoor farming).
 {% include publications/about.html %}
 
 ## News
+* **Invited speaker for AI4AH 2020**: Prof. Tsaftaris is deeply honoured to give
+  an invited talk at the
+  [AI for Affordable Healthcare Workshop](https://sites.google.com/view/ai4ah-iclr2020/home)
+  in Addis Ababa (Ethiopia) in conjunction with ICLR (a premier machine learning
+  conference).
+
 * **Tutorial chair for ECCV 2020:** Prof. Tsaftaris is joining the organisation
   team of ECCV 2020 (Glasgow) as [Tutorial Chair](https://eccv2020.eu/chairs/).
 

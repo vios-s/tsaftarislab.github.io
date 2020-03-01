@@ -1,7 +1,7 @@
 ---
-Name: "Xiao Liu"
-Title: "Mr"
-Role: "PhD Student"
+title: "Xiao Liu"
+role: "phd"
+subtitle: "PhD Student"
 
 collection: team
 permalink: /team/liu
