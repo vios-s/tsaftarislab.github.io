@@ -15,3 +15,5 @@ assistant at the Visual Computing Lab (CERTH), where he worked with Dr. Petros
 Daras who co-supervises his PhD. His research interests lie in computer vision
 and machine learning with a focus on unsupervised and self-supervised learning,
 and generative models.
+
+![Snail](https://www.snail-world.com/wp-content/uploads/Snail_On_White_Background_600.jpg)
