@@ -2,6 +2,7 @@
 title: "Agisilaos Chartsias"
 role: "phd"
 subtitle: "PhD Student"
+profile: "agis.jpg"
 
 collection: team
 permalink: /team/chartsias

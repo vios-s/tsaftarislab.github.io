@@ -2,6 +2,7 @@
 title: "Grzegorz Jacenków"
 role: "phd"
 subtitle: "PhD Student"
+profile: "greg.jpg"
 
 collection: team
 permalink: /team/jacenkow

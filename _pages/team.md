@@ -11,7 +11,7 @@ chat.
 
 ## Academic Staff
 
-{% for member in site.team %}
+{% for member in site.team reversed %}
   {% if member.role == "staff" %}  
     {% include team/member.html %}
   {% endif %}

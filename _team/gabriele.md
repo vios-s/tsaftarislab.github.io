@@ -2,6 +2,7 @@
 title: "Gabriele Valvano"
 role: "visiting"
 subtitle: "Visiting PhD Student"
+profile: "gabriele.jpg"
 
 collection: team
 permalink: /team/valvano

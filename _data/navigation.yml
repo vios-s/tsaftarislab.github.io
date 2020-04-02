@@ -1,5 +1,8 @@
 main:
   -
+    title: "MICCAI DREAM 2020"
+    url: /tutorials/dream2020
+  -
     title: "Research"
     url: /research/
   -

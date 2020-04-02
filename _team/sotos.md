@@ -2,25 +2,27 @@
 title: "Sotirios A. Tsaftaris"
 role: "staff"
 subtitle: "Chair in Machine Learning and Computer Vision"
+profile: "sotos.jpg"
 
 collection: team
 permalink: /team/tsaftaris
 ---
-Sotirios A. Tsaftaris received the M.Sc. and Ph.D degrees in Electrical and
-Computer Engineering from [Northwestern
-University](http://www.northwestern.edu/), Evanston, IL, in 2003 and 2006,
-respectively, and the Diploma degree in Electrical and Computer Engineering from
-the [Aristotle University of Thessaloniki](http://ee.auth.gr/en), Thessaloniki,
-Greece, in 2000.
+Sotirios A. Tsaftaris is currently a Chair (Full Professor) in Machine Learning
+and Computer Vision at the University of Edinburgh. He also holds the Canon
+Medical/Royal Academy of Engineering Research Chair in Healthcare AI. He is also
+a Turing Fellow with the Alan Turing Institute.
 
-He is currently a Chair (Full Professor) in Machine Learning and Computer Vision
-at the University of Edinburgh. He also holds the Canon Medical/Royal Academy of
-Engineeering Research Chair in Healthcare AI. He is also a Turing Fellow with
-the Alan Turing Institute. Previously he was an Assistant Professor with [IMT
-Institute for Advanced Studies](http://prian.imtlucca.it/), Lucca, Italy and the
-Director of the Pattern Recognition and Image Analysis Unit at IMT. Prior to
-that, he held a joint Research Assistant Professor appointment at Northwestern
-University with the [Departments of Electrical Engineering and Computer Science
+He received the M.Sc. and Ph.D degrees in Electrical and Computer Engineering
+from [Northwestern University](http://www.northwestern.edu/), Evanston, IL, in
+2003 and 2006, respectively, and the Diploma degree in Electrical and Computer
+Engineering from the [Aristotle University of
+Thessaloniki](http://ee.auth.gr/en), Thessaloniki, Greece, in 2000.
+
+Previously he was an Assistant Professor with [IMT Institute for Advanced
+Studies](http://prian.imtlucca.it/), Lucca, Italy and the Director of the
+Pattern Recognition and Image Analysis Unit at IMT. Prior to that, he held a
+joint Research Assistant Professor appointment at Northwestern University with
+the [Departments of Electrical Engineering and Computer Science
 (EECS)](http://www.eecs.northwestern.edu/) and [Radiology Feinberg School of
 Medicine](http://www.radiology.northwestern.edu/), working closely with
 Professors [Katsaggelos](http://ivpl.eecs.northwestern.edu/user/AKatsaggelos),

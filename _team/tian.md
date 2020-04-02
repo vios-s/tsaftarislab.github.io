@@ -2,6 +2,7 @@
 title: "Tian Xia"
 role: "phd"
 subtitle: "PhD Student"
+profile: "tian.jpg"
 
 collection: team
 permalink: /team/xia

@@ -1,0 +1,19 @@
+.profile {
+  display: flex;
+
+  .profile__picture {
+    @include span(2.5 of 12);
+
+    img {
+      border-radius: 50%;
+
+      position: relative;
+      top: 50%;
+      transform: translateY(-50%);
+    }
+  }
+  .profile__context {
+    @include span(9 of 12 final);
+    @include prefix(0.5 of 12);
+  }
+}

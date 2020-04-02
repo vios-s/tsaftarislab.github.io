@@ -1,14 +1,16 @@
 {% include base_path %}
-{% assign title = member.title %}
 
-<div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <div>
-      <h2 class="archive__item-title">
-        <a href="{{ base_path }}{{ member.url }}" rel="permalink">{{ title }}</a>
-      </h2>
-      <p><b>{{ member.subtitle }}</b></p>
-      <p class="archive__item-excerpt" itemprop="description">{{ member.excerpt | markdownify }}</p>
+<div>
+  <div class="profile">
+    <div class="profile__picture">
+      <img src="{{ base_path }}/assets/images/team/{{ member.profile }}">
     </div>
-  </article>
+    <div class="profile__context">
+    <h2 class="archive__item-title">
+      <a href="{{ base_path }}{{ member.url }}" rel="permalink">{{ member.title }}</a>
+    </h2>
+    <p><b>{{ member.subtitle }}</b></p>
+    <p class="archive__item-excerpt" itemprop="description">{{ member.excerpt | markdownify }}</p>
+    </div>
+  </div>
 </div>

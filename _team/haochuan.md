@@ -2,6 +2,7 @@
 title: "Haochuan Jiang"
 role: "postdoc"
 subtitle: "Post-doctoral Researcher"
+profile: "haochuan.jpg"
 
 collection: team
 permalink: /team/jiang

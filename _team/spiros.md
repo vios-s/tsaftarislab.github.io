@@ -2,6 +2,7 @@
 title: "Spyridon Thermos"
 role: "postdoc"
 subtitle: "Post-doctoral Researcher"
+profile: "spiros.jpg"
 
 collection: team
 permalink: /team/thermos

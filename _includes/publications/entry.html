@@ -7,23 +7,23 @@
     {{ journal.journal }}, {{ journal.edition }}
     <br />
     {% if.journal.text %}
-      <a href="{{ journal.text }}" class="btn btn--small">Full Text</a>
+      <a href="{{ journal.text }}" class="btn btn--small" target="_blank">Full Text</a>
     {% endif %}
 
     {% if.journal.preprint %}
-      <a href="{{ journal.preprint }}" class="btn btn--danger btn--small">Preprint</a>
+      <a href="{{ journal.preprint }}" class="btn btn--danger btn--small" target="_blank">Preprint</a>
     {% endif %}
 
     {% if.journal.pdf %}
-      <a href="{{ base_path }}/assets/pdfs/{{ journal.pdf }}" class="btn btn--primary btn--small">PDF</a>
+      <a href="{{ base_path }}/assets/pdfs/{{ journal.pdf }}" class="btn btn--primary btn--small" target="_blank">PDF</a>
     {% endif %}
 
     {% if.journal.code %}
-      <a href="{{ journal.code }}" class="btn btn--info btn--small">Code</a>
+      <a href="{{ journal.code }}" class="btn btn--info btn--small" target="_blank">Code</a>
     {% endif %}
 
     {% if.journal.url %}
-      <a href="{{ journal.url }}" class="btn btn--info btn--small">Website</a>
+      <a href="{{ journal.url }}" class="btn btn--info btn--small" target="_blank">Website</a>
     {% endif %}
   {% endif %}
 </p>

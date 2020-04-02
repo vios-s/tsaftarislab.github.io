@@ -5,6 +5,7 @@ title_separator          : "-"
 name                     : &name "Sotirios A Tsaftaris"
 description              : &description "personal description"
 url                      : https://tsaftarislab.github.io
+#url                      : http://localhost:4000
 baseurl                  : ""
 future                   : true
 
@@ -73,6 +74,9 @@ collections:
   team:
     output: true
     permalink: /:collection/:path/
+  tutorials:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults. TODO: What is that?
 defaults:
@@ -129,6 +133,12 @@ defaults:
   - scope:
       path: ""
       type: team
+    values:
+      layout: single
+  # _tutorials
+  - scope:
+      path: ""
+      type: tutorials
     values:
       layout: single
 

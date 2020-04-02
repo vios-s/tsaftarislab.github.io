@@ -2,6 +2,7 @@
 title: "Xiao Liu"
 role: "phd"
 subtitle: "PhD Student"
+profile: "xiao.jpg"
 
 collection: team
 permalink: /team/liu

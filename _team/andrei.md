@@ -2,6 +2,7 @@
 title: "Andrei Dobrescu"
 role: "phd"
 subtitle: "PhD Student"
+profile: "andrei.jpg"
 
 collection: team
 permalink: /team/dobrescu
