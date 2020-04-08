@@ -15,17 +15,17 @@ indoor farming).
 {% include publications/about.html %}
 
 ## News
-* **A DREAMy MICCAI 2020 Tutorial**: Prof. Tsaftaris will be giving a tutorial
+* **A DREAMy MICCAI 2020 Tutorial**: Sotos will be giving a tutorial
   on disentangled representation learning with Alison from Canon Medical at
   MICCAI 2020 (Peru). See the page here.
   
-* **Area chair for CVPR 2021**: Prof. Tsaftaris will serve as area chair for
+* **Area chair for CVPR 2021**: Sotos will serve as area chair for
   CVPR 2021 (USA).
 
-* **Area chair for MICCAI 2020**: Prof. Tsaftaris will serve as area chair for
+* **Area chair for MICCAI 2020**: Sotos will serve as area chair for
   MICCAI 2020 (Peru).
 
-* **Invited speaker for AI4AH 2020**: Prof. Tsaftaris is deeply honoured to give
+* **Invited speaker for AI4AH 2020**: Sotos is deeply honoured to give
   an invited talk at the
   [AI for Affordable Healthcare Workshop](https://sites.google.com/view/ai4ah-iclr2020/home)
   in Addis Ababa (Ethiopia) in conjunction with ICLR (a premier machine learning
@@ -35,10 +35,10 @@ indoor farming).
   step in his career ([Ilkay](https://sites.google.com/view/oksuzilkay) started
   at Istanbul Technical University as assistant professor).
 
-* **Tutorial chair for ECCV 2020:** Prof. Tsaftaris is joining the organisation
+* **Tutorial chair for ECCV 2020:** Sotos is joining the organisation
   team of ECCV 2020 (Glasgow) as [Tutorial Chair](https://eccv2020.eu/chairs/).
 
-* **Keynote speaker for STACOM 2019:** Prof. Tsaftaris is deeply honoured to
+* **Keynote speaker for STACOM 2019:** Sotos is deeply honoured to
   give the keynote talk at the best and longest running workshop on cardiac
   image analysis, the [STACOM 2019](http://stacom2019.cardiacatlas.org/) at
   MICCAI (China).
@@ -66,7 +66,7 @@ indoor farming).
   a strong profile please email me and attach a CV. Check
   [Join us]({{ base_path }}/join_us/) page.
 
-* **Won prestigious RAEng fellowship:** Prof. Tsaftaris became a [Canon
+* **Won prestigious RAEng fellowship:** Sotos became a [Canon
   Medical/Royal Academy of Engineering Research Chair in Healthcare
   AI](https://www.raeng.org.uk/news/news-releases/2019/march/academy-announces-2019-research-chairs-and-senior).
   Over 5 years this endowed position will provide with the opportunity to look
