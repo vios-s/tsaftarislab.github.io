@@ -5,6 +5,11 @@ li {
   }
 }
 
+// Make text in tables bigger.
+table {
+  font-size: .9em !important;
+}
+
 // Team page. Profiles split into image and text.
 .profile {
   display: flex;
