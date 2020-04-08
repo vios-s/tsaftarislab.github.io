@@ -6,6 +6,9 @@ main:
     title: "Publications"
     url: /publications/
   -
+    title: "Code and Data"
+    url: /code_and_data/
+  -
     title: "Projects"
     url: /projects/
   -

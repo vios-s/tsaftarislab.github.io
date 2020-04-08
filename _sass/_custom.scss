@@ -1,3 +1,11 @@
+// Remove spacing between `li`.
+li {
+  p {
+    margin-bottom: 0 !important;
+  }
+}
+
+// Team page. Profiles split into image and text.
 .profile {
   display: flex;
 
@@ -12,6 +20,7 @@
       transform: translateY(-50%);
     }
   }
+
   .profile__context {
     @include span(9 of 12 final);
     @include prefix(0.5 of 12);
