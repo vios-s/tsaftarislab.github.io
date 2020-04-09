@@ -44,14 +44,20 @@ chat.
 
 ## Alumni
 
-* Dr. Mario Valerio Giuffrida (PhD/PostDoc) - Lecturer, Napier University,
-  United Kingdom
-* Mr. Hao Chen (BEng) - MSc Student, Carnegie Mellon University, United States
-* Dr. Thomas Joyce (PostDoc) - PostDoc, ETH Zurich, Switzerland
-* Dr. Ilkay Oksuz (PhD) - PostDoc, King's College London, United Kingdom
-* Dr. Massimo Minervini (PhD/PostDoc) - CET Electronics, Italy
-* Dr. Cristian Rusu (PostDoc) - Lecturer, National University of Ireland,
-  Ireland
-* Dr. Marco Bevilacqua (PostDoc) - PostDoc, Bordeaux, INP, France
-* Dr. Anirban Mukhopadhyay (PostDoc) - Head, Medical and Environmental Computing
- (MEC-Lab), TU Darmstadt, Germany
+* Dr [Mario Valerio Giuffrida](http://www.valeriogiuffrida.academy/)
+  (PhD/PostDoc) - Lecturer, Napier University, United Kingdom
+* Mr [Hao Chen](https://www.linkedin.com/in/haochen97) (BEng) - MSc Student,
+  Carnegie Mellon University, United States
+* Dr [Thomas Joyce](https://biomed.ee.ethz.ch/institute/People/person-detail.MjU0MzMx.TGlzdC8yNTA2LC0xMTc1NTEzMTIz.html)
+  (PostDoc) - PostDoc, ETH Zurich, Switzerland
+* Dr [Ilkay Oksuz](https://sites.google.com/view/oksuzilkay) (PhD) - Assistant
+  Professor, Istanbul Technical University, Turkey
+* Dr [Massimo Minervini](https://www.linkedin.com/in/minervini/) (PhD/PostDoc) -
+  CET Electronics, Italy
+* Dr [Cristian Rusu](https://www.ncirl.ie/About/A-Z-Staff-Directory/Staff/347)
+  (PostDoc) - Lecturer, National University of Ireland, Ireland
+* Dr [Marco Bevilacqua](https://www.linkedin.com/in/marcobevilacqua) (PostDoc) -
+  Cdiscount, France
+* Dr [Anirban Mukhopadhyay](https://sites.google.com/site/geometricanirban/)
+  (PostDoc) - Head, Medical and Environmental Computing (MEC-Lab), TU Darmstadt,
+  Germany

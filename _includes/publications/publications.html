@@ -1,6 +1,8 @@
-<h2>Journals</h2>
-<hr>
+<div id="publications">
+  <h2>Journals</h2>
+  <hr>
 
-{% for journal in site.data.publications.journals %}
-  {% include publications/entry.html %}
-{% endfor %}
+  {% for journal in site.data.publications.journals %}
+    {% include publications/entry.html %}
+  {% endfor %}
+</div>

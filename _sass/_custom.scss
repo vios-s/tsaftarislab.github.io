@@ -31,3 +31,16 @@ table {
     @include prefix(0.5 of 12);
   }
 }
+
+#publications {
+  p {
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+  }
+}
+
+.sidebar {
+  img {
+    max-height: 75px;
+  }
+}

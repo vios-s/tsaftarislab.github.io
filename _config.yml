@@ -63,7 +63,7 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Collections. TODO: What is that?
+# Collections.
 collections:
   projects:
     output: true
@@ -78,7 +78,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-# Defaults. TODO: What is that?
+# Defaults.
 defaults:
   # _posts
   - scope:
