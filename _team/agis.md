@@ -4,6 +4,8 @@ role: "phd"
 subtitle: "PhD Student"
 profile: "agis.jpg"
 
+github: "https://github.com/agis85"
+
 collection: team
 permalink: /team/chartsias
 ---
@@ -14,5 +16,3 @@ representation learning.
 He received his MSc in Artificial Intelligence from the University of Edinburgh.
 He is interested in representation learning, specifically in disentangled and
 multimodal representations for medical segmentation.
-
-URL: [GitHub](https://github.com/agis85)

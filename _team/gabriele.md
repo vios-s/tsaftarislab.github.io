@@ -4,6 +4,8 @@ role: "visiting"
 subtitle: "Visiting PhD Student"
 profile: "gabriele.jpg"
 
+github: "https://github.com/gvalvano"
+
 collection: team
 permalink: /team/valvano
 ---
@@ -18,5 +20,3 @@ representation and generative modelling.
 
 He maintains a [GitHub](https://github.com/gvalvano) page where he shares most
 of the code he develop during his research activities.
-
-URL: [GitHub](https://github.com/gvalvano)

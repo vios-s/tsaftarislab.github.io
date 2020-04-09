@@ -134,7 +134,7 @@ defaults:
       path: ""
       type: team
     values:
-      layout: single
+      layout: profile
   # _tutorials
   - scope:
       path: ""

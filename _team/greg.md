@@ -4,6 +4,10 @@ role: "phd"
 subtitle: "PhD Student"
 profile: "greg.jpg"
 
+github: "https://github.com/jacenkow"
+linkedin: "https://www.linkedin.com/in/jacenkow/"
+twitter: "https://twitter.com/jacenkow"
+
 collection: team
 permalink: /team/jacenkow
 ---
@@ -17,6 +21,3 @@ First-class honours Bachelor's degree in Computer Science with Business and
 Management from The University of Manchester. During his undergraduate studies,
 he has done internships at CERN, Microsoft and Credit Suisse. His PhD project
 is done in collaboration with Canon Medical Research Europe.
-
-URL: [GitHub](https://github.com/jacenkow),
-     [LinkedIn](https://www.linkedin.com/in/jacenkow/)

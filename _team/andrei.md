@@ -4,6 +4,9 @@ role: "phd"
 subtitle: "PhD Student"
 profile: "andrei.jpg"
 
+github: "https://github.com/andobrescu"
+linkedin: "https://www.linkedin.com/in/andreidobrescu/"
+
 collection: team
 permalink: /team/dobrescu
 ---
@@ -20,6 +23,3 @@ phenotyping. When you look at a plant or a crop the traits that you can visibly
 see are a result of their genetics and their environment. Plant phenotyping is
 effectively measuring these visible plant traits in order to help improve and
 accelerate plant science and breeding.
-
-URL: [GitHub](https://github.com/andobrescu),
-     [LinkedIn](https://www.linkedin.com/in/andreidobrescu/)
