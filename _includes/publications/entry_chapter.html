@@ -1,0 +1,8 @@
+<p>
+    <b>{{ forloop.index }}. {{ publication.chapter }}</b>
+    <br />
+    <em>{{ publication.authors }}</em>
+    <br />
+    {{ publication.book }}, {{ publication.editors }}, {{ publication.publisher }}, {{ publication.published }}
+    {% include publications/links.html %}
+</p>

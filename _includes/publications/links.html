@@ -1,0 +1,20 @@
+<br />
+{% if.publication.text %}
+<a href="{{ publication.text }}" class="btn btn--small" target="_blank">Full Text</a>
+{% endif %}
+
+{% if.publication.preprint %}
+<a href="{{ publication.preprint }}" class="btn btn--danger btn--small" target="_blank">Preprint</a>
+{% endif %}
+
+{% if.publication.pdf %}
+<a href="{{ base_path }}/assets/pdfs/{{ publication.pdf }}" class="btn btn--primary btn--small" target="_blank">PDF</a>
+{% endif %}
+
+{% if.publication.code %}
+<a href="{{ publication.code }}" class="btn btn--info btn--small" target="_blank">Code</a>
+{% endif %}
+
+{% if.publication.url %}
+<a href="{{ publication.url }}" class="btn btn--info btn--small" target="_blank">Website</a>
+{% endif %}

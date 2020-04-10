@@ -4,6 +4,9 @@ role: "postdoc"
 subtitle: "Post-doctoral Researcher"
 profile: "haochuan.jpg"
 
+linkedin: "https://www.linkedin.com/in/浩川-江-13b058a9/"
+twitter: "https://twitter.com/falconjhc"
+
 collection: team
 permalink: /team/jiang
 ---

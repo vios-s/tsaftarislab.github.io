@@ -1,8 +1,41 @@
 <div id="publications">
-  <h2>Journals</h2>
-  <hr>
+  <div class="publications_nav">
+    <button class="publication_tab"
+            onclick="selectPublications(event, 'publications_journals')"
+            id="publications_default">Journals</button>
+    <button class="publication_tab"
+            onclick="selectPublications(event, 'publications_conferences')">Conferences</button>
+    <button class="publication_tab"
+            onclick="selectPublications(event, 'publications_books')">Books and Chapters</button>
+  </div>
 
-  {% for journal in site.data.publications.journals %}
-    {% include publications/entry.html %}
-  {% endfor %}
+  <div id="publications_journals" class="publication_content">
+    <h2>Journals</h2>
+    <hr />
+    {% for publication in site.data.publications.journals %}
+    {% include publications/entry_journal.html %}
+    {% endfor %}
+  </div>
+
+  <div id="publications_conferences" class="publication_content">
+    <h2>Conferences</h2>
+    <hr />
+    {% for publication in site.data.publications.conferences %}
+    {% include publications/entry_conference.html %}
+    {% endfor %}
+  </div>
+
+  <div id="publications_books" class="publication_content">
+    <h2>Books and Chapters</h2>
+    <hr />
+    <h3>Books</h3>
+    {% for publication in site.data.publications.books %}
+    {% include publications/entry_book.html %}
+    {% endfor %}
+
+    <h3>Chapters</h3>
+    {% for publication in site.data.publications.chapters %}
+    {% include publications/entry_chapter.html %}
+    {% endfor %}
+  </div>
 </div>

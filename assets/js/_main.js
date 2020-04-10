@@ -94,5 +94,27 @@ $(document).ready(function(){
     closeOnContentClick: true,
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
-
 });
+
+// Publications, select category.
+function selectPublications(evt, category) {
+    var i, content, tab;
+
+    content = document.getElementsByClassName("publication_content");
+
+    for (i = 0; i < content.length; i++) {
+        content[i].style.display = "none";
+    }
+
+    tab = document.getElementsByClassName("publication_tab");
+
+    for (i = 0; i < tab.length; i++) {
+        tab[i].className = tab[i].className.replace(" active", "");
+    }
+
+    document.getElementById(category).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+
+// Select journals for starters.
+document.getElementById("publications_default").click();
