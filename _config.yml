@@ -93,18 +93,6 @@ defaults:
       type: pages
     values:
       layout: single
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
   # _portfolio
   - scope:
       path: ""
@@ -117,12 +105,6 @@ defaults:
       type: talks
     values:
       layout: talk
-  # _join_us
-  - scope:
-      path: ""
-      type: join_us
-    values:
-      layout: single
   # _projects
   - scope:
       path: ""
@@ -135,6 +117,8 @@ defaults:
       type: team
     values:
       layout: profile
+      sidebar:
+        nav: team
   # _tutorials
   - scope:
       path: ""
