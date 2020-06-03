@@ -1,6 +1,9 @@
 ---
 title: "Research"
+
 permalink: /research/
+sidebar:
+  nav: "research"
 ---
 The population increase exerts tremendous pressure on our healthcare systems and
 agricultural needs. Imaging methodologies are increasingly used to aid diagnoses
@@ -13,7 +16,8 @@ learning. Our unique approach has the potential to provide efficient and
 affordable solutions towards sustainable healthcare systems and agriculture, of
 immense benefit and importance to society.
 
-## Challenge 1: Population increase puts pressure on our healthcare systems
+## Overview {#overview}
+### Challenge 1: Population increase puts pressure on our healthcare systems
 <img style="float: right;" src="{{ base_path }}/assets/images/cardiacAI.png">
 
 Every day thousands of people are born in the under-developed world without
@@ -29,7 +33,7 @@ less*, by building algorithms that can leverage unsupervised data
 (semi-supervised learning) and also the relationship between different tasks
 (multi-task learning).
 
-## Challenge 2: Population increase puts pressure on our planet's sustainability and agricultural needs
+### Challenge 2: Population increase puts pressure on our planet's sustainability and agricultural needs
 <img style="float: right;" src="{{ base_path }}/assets/images/plant_pheno.png">
 
 Remarkably we seem to worry so much about our well being and health, but we are
@@ -51,3 +55,8 @@ data](https://www.plant-phenotyping.org/datasets-home), open software and
 hardware frameworks ([Phenotiki](http://phenotiki.com/)), and robust and
 innovative [algorithms](http://tsaftaris.com/publications.html) to the problem
 of estimating phenotypic traits from images. 
+
+## Projects {#projects}
+{% for project in site.projects reversed %}
+  {% include projects/projects.html %}
+{% endfor %}

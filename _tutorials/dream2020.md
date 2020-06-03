@@ -3,10 +3,14 @@ title: "DREAM: Disentangled Representations for Efficient Algorithms for Medical
 
 collection: tutorials
 permalink: /tutorials/dream2020
+sidebar:
+  nav: "dream"
 ---
 A MICCAI 2020 (Peru) Tutorial by Sotirios A. Tsaftaris and Alison Q. O'Neil.
 
-### Outline
+![DREAM 2020]({{ base_path }}/assets/images/dream.png)
+
+## Outline {#outline}
 Disentangled representation learning has been proposed as an approach to
 learning general representations. This can be done in the absence of
 annotations, or with limited annotation. A good general representation can be
@@ -19,7 +23,7 @@ representation learning and disentangled representation learning and criteria,
 and discuss applications in medical imaging. We will conclude with open ended
 challenges. 
 
-### A draft program for this half day tutorial (TBD):
+## Program {#program}
 1. Part 1: 30mins
   * Representation learning
   * Compositionality theory
@@ -36,14 +40,14 @@ challenges.
   * Applications of disentanglement in medical imaging, computer vision and healthcare
   * Open challenges and Q&A
 
-### Learning objectives
+## Learning Objectives {#objectives}
 * Understand representation space and why (in)variance matters
 * Understand the theories of information bottleneck and compositionality
 * Learn the different objectives in achieving disentanglement
 * Appreciate the inductive biases introduced by network design choices
 * Appreciate when disentanglement is useful in practice
 
-### Why should you care ?
+## Motivation {#motivation}
 Imagine that we want to develop a system that localises the heart in MRI and CT
 images. This system will need to be robust to any changes in imaging, the
 scanner, noise, and critically anatomical and pathological variation. The
@@ -82,7 +86,7 @@ Disentangled learning appeared in MICCAI 3 years ago in a couple of papers, but
 now has tripled in appearance. Thus, it is timely to formally introduce this
 important area of research in our community.
 
-### Who are your teachers?
+## Teachers {#teachers}
 Prof. Sotirios A. Tsaftaris (Sotos) is Chair in Machine Learning and Computer
 Vision with the University of Edinburgh and is also the Canon Medical/Royal
 Academy of Engineering Research Chair in Healthcare AI. Sotos leads a group
@@ -101,10 +105,10 @@ processing, and electronic health record (EHR) data. Alison will bring an
 industry perspective to the tutorial and also talk about disentanglement in
 other data forms (e.g. text). 
 
-### Material to be shared
+## Materials {#materials}
 Slides, notes and accompanying list of references (forthcoming).
 
-### Support
+## Support {#support}
 Generously supported by [Canon Medical Research
 Europe](https://research.eu.medical.canon/), the [Royal Academy of
 Engineering](https://www.raeng.org.uk/) and the

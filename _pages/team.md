@@ -1,6 +1,9 @@
 ---
 title: "Team"
+
 permalink: /team/
+sidebar:
+  nav: "team"
 ---
 ![Team]({{ base_path }}/assets/images/team/team.jpg)
 

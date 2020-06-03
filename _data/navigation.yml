@@ -1,25 +1,108 @@
+contact:
+  - title: Contact
+    children:
+      - title: Current Opportunities
+        url: /contact#opportunities
+      - title: Postal Address
+        url: /contact#address
+dream:
+  - title: DREAM 2020 Tutorial
+    children:
+      - title: Outline
+        url: /tutorials/dream2020#outline
+      - title: Program
+        url: /tutorials/dream2020#program
+      - title: Learning Objectives
+        url: /tutorials/dream2020#objectives
+      - title: Motivation
+        url: /tutorials/dream2020#motivation
+      - title: Teachers
+        url: /tutorials/dream2020#teachers
+      - title: Materials
+        url: /tutorials/dream2020#materials
+      - title: Support
+        url: /tutorials/dream2020#support
 main:
-  -
-    title: "Team"
+  - title: Team
     url: /team/
-  -
-    title: "Research"
+  - title: Research
     url: /research/
-  -
-    title: "Projects"
-    url: /projects/
-  -
-    title: "Publications"
+  - title: Publications
     url: /publications/
-  -
-    title: "Code and Data"
+  - title: Code and Data
     url: /code_and_data/
-  -
-    title: "Join us"
-    url: /join_us/
-  -
-    title: "Contact"
+  - title: Contact
     url: /contact/
-  -
-    title: "MICCAI DREAM 2020"
+  - title: MICCAI DREAM 2020
     url: /tutorials/dream2020
+publications:
+  - title: Sort by Type
+    children:
+      - title: Journals
+        url: /publications#journals
+      - title: Books
+        url: /publications#books
+      - title: Chapters
+        url: /publications#chapters
+      - title: Conferences
+        url: /publications#conferences
+  - title: Sort by Year
+    children:
+      - title: 2019
+        url: /publications/year#2019
+      - title: 2018
+        url: /publications/year#2018
+      - title: 2017
+        url: /publications/year#2017
+      - title: 2016
+        url: /publications/year#2016
+      - title: 2015
+        url: /publications/year#2015
+      - title: 2014
+        url: /publications/year#2014
+      - title: 2013
+        url: /publications/year#2013
+      - title: 2012
+        url: /publications/year#2012
+      - title: 2011
+        url: /publications/year#2011
+      - title: < 2010
+        url: /publications/year#2010
+research:
+  - title: Research
+    children:
+      - title: Overview
+        url: /research#overview
+      - title: Projects
+        url: /research#projects
+team:
+  - title: Academic Staff
+    children:
+      - title: Sotirios A. Tsaftaris
+        url: /team/tsaftaris
+      - title: Alison O'Neil
+        url: /team/oneil
+  - title: Post-doctoral Researchers
+    children:
+      - title: Haochuan Jiang
+        url: /team/jiang
+      - title: Spyridon Thermos
+        url: /team/thermos
+  - title: PhD Students
+    children:
+    - title: Agisilaos Chartsias
+      url: /team/chartsias
+    - title: Andrei Dobrescu
+      url: /team/dobrescu
+    - title: Grzegorz Jacenków
+      url: /team/jacenkow
+    - title: Phivos Sofokleous
+      url: /team/sofokleous
+    - title: Tian Xia
+      url: /team/xia
+    - title: Xiao Liu
+      url: /team/liu
+  - title: Visiting Students
+    children:
+      - title: Gabriele Valvano
+      - url: /team/valvano

@@ -1,15 +1,22 @@
 <div>
-  {% for publication in site.data.publications.journals %}
-    {% if publication.homepage %}
-      {% include publications/entry_journal.html %}
-    {% endif %}
-  {% endfor %}
-</div>
+  {% assign homepage = site.data.publications | where: "homepage", true %}
+  {% for publication in homepage %}
 
-<div>
-  {% for publication in site.data.publications.conferences %}
-    {% if publication.homepage %}
-      {% include publications/entry_conference.html %}
-    {% endif %}
+  {% if publication.collection == "books" %}
+  {% include publications/entry_book.html %}
+  {% endif %}
+
+  {% if publication.collection == "conferences" %}
+  {% include publications/entry_conference.html %}
+  {% endif %}
+
+  {% if publication.collection == "chapters" %}
+  {% include publications/entry_chapter.html %}
+  {% endif %}
+
+  {% if publication.collection == "journals" %}
+  {% include publications/entry_journal.html %}
+  {% endif %}
+
   {% endfor %}
 </div>

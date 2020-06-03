@@ -43,8 +43,20 @@ table {
   margin-bottom: 30px;
 }
 
-.sidebar {
-  img {
-    max-height: 75px;
+// Footer.
+.page__footer-copyright {
+  display: flex;
+
+  #footer-copyright {
+    @include span(4 of 12);
+  }
+
+  #footer-logos {
+    @include span(8 of 12);
+    img {
+      float: right;
+      height: 75px;
+      margin: 10px;
+    }
   }
 }

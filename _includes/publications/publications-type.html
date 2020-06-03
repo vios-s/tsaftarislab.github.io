@@ -1,0 +1,31 @@
+<div id="publications">
+  <div id="publications_type" class="publication_content">
+    <h2 id="journals">Journals</h2>
+    {% assign journals = site.data.publications | where: "collection", "journals" %}
+
+    {% for publication in journals %}
+    {% include publications/entry_journal.html %}
+    {% endfor %}
+
+    <h2 id="books">Books</h2>
+    {% assign books = site.data.publications | where: "collection", "books" %}
+
+    {% for publication in books %}
+    {% include publications/entry_book.html %}
+    {% endfor %}
+
+    <h2 id="chapters">Chapters</h2>
+    {% assign chapters = site.data.publications | where: "collection", "chapters" %}
+
+    {% for publication in chapters %}
+    {% include publications/entry_chapter.html %}
+    {% endfor %}
+
+    <h2 id="conferences">Conferences</h2>
+    {% assign conferences = site.data.publications | where: "collection", "conferences" %}
+
+    {% for publication in conferences %}
+    {% include publications/entry_conference.html %}
+    {% endfor %}
+  </div>
+</div>

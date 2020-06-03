@@ -1,5 +1,7 @@
 ---
 title: "About"
+
+layout: splash
 permalink: /
 ---
 Tsaftaris' Collaboratory is part of the Institute for Digital Communications in
