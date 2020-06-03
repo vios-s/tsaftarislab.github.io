@@ -86,6 +86,8 @@ team:
     children:
       - title: Haochuan Jiang
         url: /team/jiang
+      - title: Marija Jegorova
+        url: /team/jegorova
       - title: Spyridon Thermos
         url: /team/thermos
   - title: PhD Students
@@ -105,4 +107,4 @@ team:
   - title: Visiting Students
     children:
       - title: Gabriele Valvano
-      - url: /team/valvano
+        url: /team/valvano

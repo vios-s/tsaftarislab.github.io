@@ -66,7 +66,7 @@ indoor farming).
 
 * **Recruiting PhD students and PostDocs:** We are growing the team. If you have
   a strong profile please email me and attach a CV. Check
-  [Join us]({{ base_path }}/join_us/) page.
+  [Contact]({{ base_path }}/contact/) page.
 
 * **Won prestigious RAEng fellowship:** Sotos became a [Canon
   Medical/Royal Academy of Engineering Research Chair in Healthcare
