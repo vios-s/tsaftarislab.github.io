@@ -87,6 +87,8 @@ defaults:
     values:
       layout: single
       related: true
+      sidebar:
+        nav: news
   # _pages
   - scope:
       path: ""
