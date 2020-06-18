@@ -1,3 +1,7 @@
+// Body.
+body {
+  margin-bottom: 75px !important;
+}
 // Remove spacing between `li`.
 li {
   p {
@@ -8,6 +12,18 @@ li {
 // Make text in tables bigger.
 table {
   font-size: .9em !important;
+}
+
+// Page.
+.page__row {
+  display: flex;
+
+  .page__left {
+    @include span(6 of 12);
+  }
+  .page__right {
+    @include span(6 of 12);
+  }
 }
 
 // Team page. Profiles split into image and text.
@@ -48,11 +64,11 @@ table {
   display: flex;
 
   #footer-copyright {
-    @include span(4 of 12);
+    @include span(6 of 12);
   }
 
   #footer-logos {
-    @include span(8 of 12);
+    @include span(6 of 12);
     img {
       float: right;
       height: 75px;

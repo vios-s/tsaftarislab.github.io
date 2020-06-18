@@ -24,6 +24,7 @@ dream:
         url: /tutorials/dream2020#support
 main:
   - title: Team
+    description: Collaboratory Members
     url: /team/
   - title: Research
     url: /research/
@@ -35,6 +36,39 @@ main:
     url: /contact/
   - title: MICCAI DREAM 2020
     url: /tutorials/dream2020
+members:
+- title: Academic Staff
+  children:
+  - title: Sotirios A. Tsaftaris
+    url: /team/tsaftaris
+  - title: Alison O'Neil
+    url: /team/oneil
+- title: Post-doctoral Researchers
+  children:
+  - title: Haochuan Jiang
+    url: /team/jiang
+  - title: Marija Jegorova
+    url: /team/jegorova
+  - title: Spyridon Thermos
+    url: /team/thermos
+- title: PhD Students
+  children:
+  - title: Agisilaos Chartsias
+    url: /team/chartsias
+  - title: Andrei Dobrescu
+    url: /team/dobrescu
+  - title: Grzegorz Jacenków
+    url: /team/jacenkow
+  - title: Phivos Sofokleous
+    url: /team/sofokleous
+  - title: Tian Xia
+    url: /team/xia
+  - title: Xiao Liu
+    url: /team/liu
+- title: Visiting Students
+  children:
+  - title: Gabriele Valvano
+    url: /team/valvano
 publications:
   - title: Sort by Type
     children:
@@ -76,35 +110,15 @@ research:
       - title: Projects
         url: /research#projects
 team:
-  - title: Academic Staff
+  - title: Team
     children:
-      - title: Sotirios A. Tsaftaris
-        url: /team/tsaftaris
-      - title: Alison O'Neil
-        url: /team/oneil
-  - title: Post-doctoral Researchers
-    children:
-      - title: Haochuan Jiang
-        url: /team/jiang
-      - title: Marija Jegorova
-        url: /team/jegorova
-      - title: Spyridon Thermos
-        url: /team/thermos
-  - title: PhD Students
-    children:
-    - title: Agisilaos Chartsias
-      url: /team/chartsias
-    - title: Andrei Dobrescu
-      url: /team/dobrescu
-    - title: Grzegorz Jacenków
-      url: /team/jacenkow
-    - title: Phivos Sofokleous
-      url: /team/sofokleous
-    - title: Tian Xia
-      url: /team/xia
-    - title: Xiao Liu
-      url: /team/liu
-  - title: Visiting Students
-    children:
-      - title: Gabriele Valvano
-        url: /team/valvano
+    - title: Academic Staff
+      url: /team#academic
+    - title: Post-doctoral Researchers
+      url: /team#pdra
+    - title: PhD Students
+      url: /team#phd
+    - title: Visiting Students
+      url: /team#visiting
+    - title: Alumni
+      url: /team#alumni

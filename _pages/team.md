@@ -12,7 +12,7 @@ positions [here]({{ base_path }}/join_us/). If you wish to join the group as an
 MSc or undergraduate student, drop Prof. Tsaftaris an email so we can arrange to
 chat.
 
-## Academic Staff
+## Academic Staff {#academic}
 
 {% for member in site.team reversed %}
   {% if member.role == "staff" %}  
@@ -20,7 +20,7 @@ chat.
   {% endif %}
 {% endfor %}
 
-## Post-doctoral Researchers
+## Post-doctoral Researchers {#pdra}
 
 {% for member in site.team %}
   {% if member.role == "postdoc" %}  
@@ -28,7 +28,7 @@ chat.
   {% endif %}
 {% endfor %}
 
-## PhD Students
+## PhD Students {#phd}
 
 {% for member in site.team %}
   {% if member.role == "phd" %}  
@@ -37,7 +37,7 @@ chat.
 {% endfor %}
 
 
-## Visiting Students
+## Visiting Students {#visiting}
 
 {% for member in site.team %}
   {% if member.role == "visiting" %}  
@@ -45,7 +45,7 @@ chat.
   {% endif %}
 {% endfor %}
 
-## Alumni
+## Alumni {#alumni}
 
 * Dr [Mario Valerio Giuffrida](http://www.valeriogiuffrida.academy/)
   (PhD/PostDoc) - Lecturer, Napier University, United Kingdom

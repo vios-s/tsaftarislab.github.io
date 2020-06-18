@@ -1,20 +1,21 @@
 ---
 title: "About"
 
+excerpt: "Tsaftaris' Collaboratory is part of the Institute for Digital
+          Communications in The School of Engineering at The University of
+          Edinburgh."
+header:
+  overlay_filter: 0.75
+  overlay_image: homepage.jpg
+
 layout: splash
 permalink: /
 ---
-Tsaftaris' Collaboratory is part of the Institute for Digital Communications in
-The School of Engineering at The University of Edinburgh.
-
 Our research interests are machine learning, deep learning, medical image
 analysis (medical image computing), and image processing. Core research
 application domains are computer aided diagnosis in medicine and computer vision
 in agriculture (e.g. plant phenotyping, precision agriculture, agritech and
 indoor farming).
-
-## Highlighted publications
-{% include publications/about.html %}
 
 ## News
 * **A DREAMy MICCAI 2020 Tutorial**: Sotos will be giving a tutorial
@@ -75,3 +76,5 @@ indoor farming).
   into distinct challenges in using and deploying AI in healthcare settings. It
   is thanks to the generous support of Canon Medical Research Europe, the
   Academy and the School of Engineering.
+
+{% include about-bottom.html %}

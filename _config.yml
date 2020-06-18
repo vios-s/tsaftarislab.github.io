@@ -118,7 +118,7 @@ defaults:
     values:
       layout: profile
       sidebar:
-        nav: team
+        nav: members
   # _tutorials
   - scope:
       path: ""
