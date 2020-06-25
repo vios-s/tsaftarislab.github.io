@@ -1,0 +1,22 @@
+<div id="publications">
+    <h2 id="code">Code</h2>
+    {% assign code = site.data.code | where: "type", "code" %}
+
+    {% for publication in code %}
+    {% include code/entry.html %}
+    {% endfor %}
+
+    <h2 id="platforms">Platforms</h2>
+    {% assign platform = site.data.code | where: "type", "platform" %}
+
+    {% for publication in platform %}
+    {% include code/entry.html %}
+    {% endfor %}
+
+    <h2 id="datasets">Datasets</h2>
+    {% assign datasets = site.data.code | where: "type", "dataset" %}
+
+    {% for publication in datasets %}
+    {% include code/entry.html %}
+    {% endfor %}
+</div>
