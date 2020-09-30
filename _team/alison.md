@@ -4,6 +4,8 @@ role: "staff"
 subtitle: "Honorary Fellow"
 profile: "alison.jpg"
 
+order: 2
+
 collection: team
 permalink: /team/oneil
 ---

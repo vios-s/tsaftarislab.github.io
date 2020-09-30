@@ -9,12 +9,12 @@ sidebar:
 
 If you want to join the team as a PhD student or a PostDoc, read about open
 positions [here]({{ base_path }}/join_us/). If you wish to join the group as an
-MSc or undergraduate student, drop Prof. Tsaftaris an email so we can arrange to
-chat.
+MSc or undergraduate student, drop Sotos an email to arrange a chat.
 
 ## Academic Staff {#academic}
 
-{% for member in site.team reversed %}
+{% assign sorted = site.team | sort: 'order' %}
+{% for member in sorted %}
   {% if member.role == "staff" %}  
     {% include team/member.html %}
   {% endif %}
@@ -47,8 +47,6 @@ chat.
 
 ## Alumni {#alumni}
 
-* Dr [Mario Valerio Giuffrida](http://www.valeriogiuffrida.academy/)
-  (PhD/PostDoc) - Lecturer, Napier University, United Kingdom
 * Mr [Hao Chen](https://www.linkedin.com/in/haochen97) (BEng) - MSc Student,
   Carnegie Mellon University, United States
 * Dr [Thomas Joyce](https://biomed.ee.ethz.ch/institute/People/person-detail.MjU0MzMx.TGlzdC8yNTA2LC0xMTc1NTEzMTIz.html)

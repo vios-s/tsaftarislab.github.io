@@ -4,6 +4,8 @@ role: "staff"
 subtitle: "Chair in Machine Learning and Computer Vision"
 profile: "sotos.jpg"
 
+order: 1
+
 collection: team
 permalink: /team/tsaftaris
 ---

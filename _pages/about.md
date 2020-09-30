@@ -1,7 +1,7 @@
 ---
 title: "About"
 
-excerpt: "Tsaftaris' Collaboratory is part of the Institute for Digital
+excerpt: "VIOS /vEEOs/ Collaboratory is part of the Institute for Digital
           Communications in The School of Engineering at The University of
           Edinburgh."
 header:

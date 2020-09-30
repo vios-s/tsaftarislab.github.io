@@ -1,10 +1,10 @@
 # Site Settings
 locale                   : "en-UK"
-title                    : "Tsaftaris' Collaboratory"
+title                    : "vios.science"
 title_separator          : "-"
-name                     : &name "Sotirios A Tsaftaris"
+name                     : &name "VIOS Collaboratory"
 description              : &description "personal description"
-url                      : https://tsaftarislab.github.io
+url                      : https://vios.science
 #url                      : http://localhost:4000
 baseurl                  : ""
 future                   : true
