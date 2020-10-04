@@ -18,27 +18,32 @@ readily fine-tuned for new target tasks using modest amounts of data. This
 alleviation of the data and annotation requirements offers tantalising prospects
 for tractable and affordable healthcare. Finally, disentangled representations
 can offer model explainability, increasing their suitability for real-world
-deployment. In this half-day tutorial we will offer an overview of
+deployment.
+
+In this **half-day** tutorial, a satellite event in conjunction with [MICCAI
+2020](https://miccai2020.org/) (Peru), we will offer an overview of
 representation learning and disentangled representation learning and criteria,
-and discuss applications in medical imaging. We will conclude with open ended
-challenges. 
+and discuss applications in medical imaging and the wider spectrum of EHR data.
+We will conclude with open ended challenges. 
 
 ## Program {#program}
-1. Part 1: 30mins
-  * Representation learning
-  * Compositionality theory
-  * Invariance and covariance and the information bottleneck principle
-2. Part 2: 1hr
-  * Disentangled learning
-  * VAE and GANs and disentangling variants
-  * Metrics for disentanglement
-3. Coffee break (20mins)
-4. Part 3: 1hr
-  * Content-style disentanglement
-  * The complexities of multimodal and multitask learning
-5. Part 4: 1hr
-  * Applications of disentanglement in medical imaging, computer vision and healthcare
-  * Open challenges and Q&A
+**Virtual Format**: On the MICCAI platform we have uploaded several videos that
+cover the material of the tutorial. Please send us your questions before the
+session via email or via the platform. On the day of the tutorial, we will be
+offering an abridged version of the pre-recorded video material currently
+available on the platform LIVE to further develop audience interaction and
+ensure that everyone in the audience is on a `level' playing field. We will
+divide the tutorial in sessions, keep each session short, and have live Q&A
+immediately after each session. These presentations do not replace the videos
+available already but offer a shorter summary. If you have seen the videos
+already and have emailed us questions before or submitted questions in the
+platform chat and we did not reply we will aim to reply to them live here during
+the Q&A. If we run out of time, please do reach out to us offline!
+
+All times are UTC (for BST (current UK time), add +1). The full schedule is
+visible below. 
+
+![DREAM 2020]({{ base_path }}/assets/images/schedule.png)
 
 ## Learning Objectives {#objectives}
 * Understand representation space and why (in)variance matters
@@ -87,7 +92,7 @@ now has tripled in appearance. Thus, it is timely to formally introduce this
 important area of research in our community.
 
 ## Teachers {#teachers}
-Prof. Sotirios A. Tsaftaris (Sotos) is Chair in Machine Learning and Computer
+Prof. Sotirios A Tsaftaris (Sotos) is Chair in Machine Learning and Computer
 Vision with the University of Edinburgh and is also the Canon Medical/Royal
 Academy of Engineering Research Chair in Healthcare AI. Sotos leads a group
 where several young researchers work in machine learning and computer vision. He
@@ -95,7 +100,7 @@ obtained his PhD in 2006 from Northwestern University USA and has held several
 academic positions in USA, Italy and UK. Sotos's research expertise is in
 representation learning. 
 
-Dr Alison Q. O'Neil (Alison) is a Senior Scientist in the AI Research Team at
+Dr Alison Q O’Neil (Alison) is a Senior Scientist in the AI Research Team at
 Canon Medical Research Europe and Honorary Research Fellow at the University of
 Edinburgh. She obtained her EngD at Canon Medical Research Europe in affiliation
 with Heriot-Watt University, and now leads a team of scientists and research
@@ -103,10 +108,11 @@ students working on machine learning techniques for industrial healthcare
 applications – including applications in medical imaging, natural language
 processing, and electronic health record (EHR) data. Alison will bring an
 industry perspective to the tutorial and also talk about disentanglement in
-other data forms (e.g. text). 
+other data forms (e.g. text).
 
 ## Materials {#materials}
-Slides, notes and accompanying list of references (forthcoming).
+See [MICCAI
+platform](https://miccai2020.pathable.co/meetings/virtual/k5n3YF5e7MAFioduk).
 
 ## Support {#support}
 Generously supported by [Canon Medical Research

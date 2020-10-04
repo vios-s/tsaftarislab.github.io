@@ -26,3 +26,5 @@ with significant impact for clinical use via machine intelligence. Her current
 research mainly focuses on the development of machine learning algorithms for
 magnetic resonance image reconstruction and analysis, including dynamic MR image
 reconstruction, medical image registration and segmentation. 
+
+Please visit [her personal website](https://sites.google.com/view/chen-qin/) for more information.

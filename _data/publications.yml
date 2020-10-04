@@ -1,4 +1,106 @@
 ---
+# Chen.
+## Journals.
+- authors: "C. Chen, C. Qin, H. Qiu, G. Tarroni, J. Duan, W. Bai, D. Rueckert"
+  code: null
+  collection: "journals"
+  edition: "vol. 7, 2020"
+  homepage: null
+  journal: "Frontiers in Cardiovascular Medicine"
+  other: null
+  pdf: null
+  preprint: null
+  published: 2020-03-05
+  text: "https://www.frontiersin.org/articles/10.3389/fcvm.2020.00025/full"
+  title: "Deep Learning for Cardiac Image Segmentation: A Review"
+  url: null
+- authors: "C. Qin, J. Schlemper, J. Caballero, A.N. Price, J.V. Hajnal, D. Rueckert"
+  code: null
+  collection: "journals"
+  edition: "vol. 38, 2019"
+  homepage: null
+  journal: "IEEE Transactions on Medical Imaging"
+  other: null
+  pdf: null
+  preprint: null
+  published: 2018-08-06
+  text: "https://ieeexplore.ieee.org/abstract/document/8425639/"
+  title: "Convolutional Recurrent Neural Networks for Dynamic MR Image Reconstruction"
+  url: null
+- "authors": "C. Bowles, C. Qin, R. Guerrero, R. Gunn, A. Hammers, D.A. Dickie,\
+    \ M. Valdés Hernández, J. Wardlaw, D. Rueckert"
+  "code": null
+  "collection": "journals"
+  "edition": "vol. 16, 2017"
+  "homepage": null
+  "journal": "NeuroImage: Clinical"
+  "other": null
+  "pdf": null
+  "preprint": null
+  "published": 2018-09-08
+  "text": "https://doi.org/10.1016/j.nicl.2017.09.003"
+  "title": "Brain lesion segmentation through image synthesis and outlier detection"
+  "url": null
+- "authors": "R. Guerrero, C. Qin, O. Oktay, C. Bowles, L. Chen, R. Joules,\
+    \ R. Wolz, M.C. Valdés-Hernández, D.A. Dickie, J. Wardlaw, D. Rueckert"
+  "code": null
+  "collection": "journals"
+  "edition": "vol. 17, 2018"
+  "homepage": null
+  "journal": "NeuroImage: Clinical"
+  "other": null
+  "pdf": null
+  "preprint": null
+  "published": 2017-12-20
+  "text": "https://doi.org/10.1016/j.nicl.2017.12.022"
+  "title": "White matter hyperintensity and stroke lesion segmentation and\
+    \ differentiation using convolutional neural networks"
+  "url": null
+- authors: "C. Qin, R. Guerrero, C. Bowles, L. Chen, D.A. Dickie, M. del C. Valdes-Hernandez,\
+    \ J. Wardlaw, D. Rueckert"
+  code: null
+  collection: "journals"
+  edition: "vol. 77, 2018"
+  homepage: null
+  journal: "Pattern Recognition"
+  other: null
+  pdf: null
+  preprint: null
+  published: 2017-12-18
+  text: "https://www.sciencedirect.com/science/article/pii/S0031320317305022"
+  title: "A large margin algorithm for automated segmentation of white matter hyperintensity"
+  url: null
+## Conferences.
+- "authors": "C. Bowles, C. Qin, C. Ledig, R. Guerrero, R. Gunn, A. Hammers, E. Sakka, D.A. Dickie,\
+    \ M. Valdés Hernández, N. Royle, J. Wardlaw, H. Rhodius-Meester, B. Tijms, A.W. Lemstra,\
+    \ W. van der Flier, F. Barkhof, P. Scheltens, D. Rueckert"
+  "code": null
+  "collection": "conferences"
+  "conference": "MICCAI 2016"
+  "homepage": null
+  "other": null
+  "pdf": null
+  "preprint": null
+  "published": 2016-10-01
+  "text": "https://link.springer.com/chapter/10.1007/978-3-319-46630-9_9"
+  "title": "Pseudo-healthy Image Synthesis for White Matter Lesion Segmentation"
+  "url": null
+  "workshop": "SASHIMI: Simulation and Synthesis in Medical Imaging"
+- "authors": "C. Qin, R. Moreno, C. Bowles, C. Ledig, P. Scheltens, F. Barkhof, H. Rhodius-Meester,\
+    \ B. Tijms, A.W. Lemstra, W.M. van der Flier, B. Glocker, D. Rueckert"
+  "code": null
+  "collection": "conferences"
+  "conference": "MICCAI 2016"
+  "homepage": null
+  "other": null
+  "pdf": null
+  "preprint": null
+  "published": 2016-10-01
+  "text": "https://link.springer.com/chapter/10.1007/978-3-319-47157-0_13"
+  "title": "A Semi-supervised Large Margin Algorithm for White Matter Hyperintensity Segmentation"
+  "url": null
+  "workshop": "MLMI: Machine Learning in Medical Imaging"
+# Sotos.
 - "authors": "S.A. Tsaftaris, A. Gooya, A Frangi, J. Prince"
   "collection": "books"
   "edition": "vol. 10557"
@@ -21,11 +123,50 @@
     \ SASHIMI 2016"
   "url": "http://www.cistib.org/sashimi/"
   "venue": "SASHIMI 2016, Held in Conjunction with MICCAI 2016, Athens, Greece"
+- "authors": "G. Valvano, A. Leo, S.A. Tsaftaris"
+  "code": null
+  "collection": "journals"
+  "edition": "submitted"
+  "homepage": null
+  "journal": "TBA"
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2007.01152"
+  "published": 2020-07-02
+  "text": null
+  "title": "Weakly Supervised Segmentation with Multi-scale Adversarial Attention Gates"
+  "url": null
+- "authors": "T. Xia, A. Chartsias, S.A. Tsaftaris"
+  "code": "https://github.com/xiat0616/pseudo-healthy-synthesis"
+  "collection": "journals"
+  "edition": "vol. 64, 2020"
+  "homepage": null
+  "journal": "Medical Image Analysis"
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2005.01607"
+  "published": 2020-05-01
+  "text": "https://www.sciencedirect.com/science/article/abs/pii/S1361841520300839"
+  "title": "Pseudo-healthy synthesis with pathology disentanglement and adversarial learning"
+  "url": null
+- "authors": "A. Dobrescu, M.V. Giuffrida, S.A. Tsaftaris"
+  "code": "https://github.com/andobrescu/Multi_task_plant_phenotyping"
+  "collection": "journals"
+  "edition": "11:141"
+  "homepage": null
+  "journal": "Frontiers in Plant Science"
+  "other": null
+  "pdf": null
+  "preprint": null
+  "published": 2020-02-28
+  "text": "https://doi.org/10.3389/fpls.2020.00141"
+  "title": "Doing More with Less: A Multitask Deep Learning Approach in Plant Phenotyping"
+  "url": null
 - "authors": "H. Chen, M.V. Giuffrida, P. Doerner, S.A. Tsaftaris"
   "code": null
   "collection": "journals"
   "edition": "submitted"
-  "homepage": true
+  "homepage": false
   "journal": "TBA"
   "other": null
   "pdf": null
@@ -39,7 +180,7 @@
   "code": null
   "collection": "journals"
   "edition": "submitted"
-  "homepage": true
+  "homepage": false
   "journal": "TBA"
   "other": null
   "pdf": null
@@ -66,7 +207,7 @@
   "code": "https://bitbucket.org/tuttoweb/rotinvrbm/src/master/"
   "collection": "journals"
   "edition": "vol. 29, no. 1, pp. 2166-2175, 2020"
-  "homepage": true
+  "homepage": null
   "journal": "IEEE Transactions on Image Processing"
   "other": null
   "pdf": "Giuffrida_2020.pdf"
@@ -908,8 +1049,126 @@
   "published": 2003-11-30
   "publisher": "Springer US"
   "text": "https://link.springer.com/chapter/10.1007/0-306-48718-7_4"
+- "authors": "X. Liu, S.A. Tsaftaris"
+  "code": null
+  "collection": "conferences"
+  "conference": "MICCAI 2020"
+  "homepage": true
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2004.10129"
+  "published": 2020-07-12
+  "text": null
+  "title": "Have you forgotten? A method to assess if machine learning models have forgotten data"
+  "url": null
+  "workshop": null
+- "authors": "X. Liu, S. Thermos, G. Valvano, A. Chartsias, A.Q. O'Neil, S.A. Tsaftaris"
+  "code": "https://github.com/TsaftarisCollaboratory/CSDisentanglement_Metrics_Library"
+  "collection": "conferences"
+  "conference": "submitted"
+  "homepage": null
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2008.12378"
+  "published": 2020-08-31
+  "text": null
+  "title": "Metrics for Exposing the Biases of Content-Style Disentanglement"
+  "url": null
+  "workshop": null
+- "authors": "G. Jacenków, A.Q. O'Neil, B. Mohr, S.A. Tsaftaris"
+  "code": "https://github.com/jacenkow/inside"
+  "collection": "conferences"
+  "conference": "MICCAI 2020"
+  "homepage": true
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2008.10418"
+  "published": 2020-08-21
+  "text": "https://doi.org/10.1007/978-3-030-59719-1_38"
+  "title": "INSIDE: Steering Spatial Attention with Non-Imaging Information in CNNs"
+  "url": null
+  "workshop": null
+- "authors": "X. Liu, S. Thermos, G. Valvano, A. Chartsias, A.Q. O'Neil, S.A. Tsaftaris"
+  "code": null
+  "collection": "conferences"
+  "conference": "MICCAI 2020"
+  "homepage": true
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2008.11514"
+  "published": 2020-08-26
+  "text": null
+  "title": "Disentangled Representations for Domain-generalized Cardiac Segmentation"
+  "url": null
+  "workshop": "STACOM: Statistical Atlases and Computational Modelling of the Heart"
+- "authors": "H. Jiang, C. Wang, A. Chartsias, S.A. Tsaftaris"
+  "code": null
+  "collection": "conferences"
+  "conference": "MICCAI 2020"
+  "homepage": true
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2009.02569"
+  "published": 2020-09-05
+  "text": null
+  "title": "Max-Fusion U-Net for Multi-Modal Pathology Segmentation with Attention and Dynamic Resampling"
+  "url": null
+  "workshop": "MyoPS: Multi-sequence CMR based Mycardial Pathology Segmentation Challenge"
+- "authors": "H. Jiang, A. Chartsias, X. Zhang, G. Panastasiou, S. Semple, M. Dweck,\
+    \ D. Semple, R. Dharmakumar, S.A. Tsaftaris"
+  "code": null
+  "collection": "conferences"
+  "conference": "MICCAI 2020"
+  "homepage": true
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2009.02564"
+  "published": 2020-09-05
+  "text": null
+  "title": "Semi-supervised Pathology Segmentation with Disentangled Representations"
+  "url": null
+  "workshop": "DART: Domain Adaptation and Representation Transfer"
+- "authors": "N. Dionelis, M. Yaghoobi, S.A. Tsaftaris"
+  "code": null
+  "collection": "conferences"
+  "conference": "IEEE ICIP 2020"
+  "homepage": null
+  "other": null
+  "pdf": null
+  "preprint": null
+  "published": 2020-01-01
+  "text": null
+  "title": "Boundary of Distribution Support Generator (BDSG): Sample Generation on the Boundary"
+  "url": null
+  "workshop": null
+- "authors": "N. Dionelis, M. Yaghoobi, S.A. Tsaftaris"
+  "code": null
+  "collection": "conferences"
+  "conference": "SSPD 2020"
+  "homepage": null
+  "other": null
+  "pdf": null
+  "preprint": null
+  "published": 2020-01-01
+  "text": null
+  "title": "Tail of Distribution GAN: GAN-Based Boundary of Distribution Formation"
+  "url": null
+  "workshop": null
+- "authors": "S. Shaw, M. Pajak, A. Lisowska, S.A. Tsaftaris, A.Q. O'Neil"
+  "code": null
+  "collection": "conferences"
+  "conference": "ICLR 2020"
+  "homepage": null
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2003.08797"
+  "published": 2020-03-20
+  "text": null
+  "title": "Teacher-Student chain for efficient semi-supervised histology image classification"
+  "url": null
+  "workshop": "AI for Affordable Healthcare (AI4AH)"
 - "authors": "M. Falis, M. Pajak, A. Lisowska, P. Schrempf, L. Deckers, S. Mikhael,\
-    \ S.A. Tsaftaris, A. O'Neil"
+    \ S.A. Tsaftaris, A.Q. O'Neil"
   "code": null
   "collection": "conferences"
   "conference": "EMNLP-IJCNLP 2019"

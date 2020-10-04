@@ -3,6 +3,8 @@ contact:
     children:
       - title: Current Opportunities
         url: /contact#opportunities
+      - title: Contact
+        url: /contact#contact
       - title: Postal Address
         url: /contact#address
 code:
@@ -103,6 +105,8 @@ publications:
         url: /publications#conferences
   - title: Sort by Year
     children:
+      - title: 2020
+        url: /publications/year#2020
       - title: 2019
         url: /publications/year#2019
       - title: 2018

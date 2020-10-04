@@ -68,5 +68,3 @@ Prof. Tsaftaris is a [Murphy
 Fellow](http://www.mccormick.northwestern.edu/students/graduate/fellowships-internships/)
 and a [Fellow of the Alexander S. Onassis](http://www.onassis.gr/en/) Public
 Beneﬁt Foundation.
-
-A recent version of his CV is available here.
