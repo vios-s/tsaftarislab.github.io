@@ -47,6 +47,8 @@ MSc or undergraduate student, drop Sotos an email to arrange a chat.
 
 ## Alumni {#alumni}
 
+* Dr Haochuan Jiang (PostDoc) - Lecturer, Xi'an Jiaotong-Liverpool University, China
+* Dr Agisilaos Chartsias (PhD) - Enterpreneur, United Kingdom
 * Mr [Hao Chen](https://www.linkedin.com/in/haochen97) (BEng) - MSc Student,
   Carnegie Mellon University, United States
 * Dr [Thomas Joyce](https://biomed.ee.ethz.ch/institute/People/person-detail.MjU0MzMx.TGlzdC8yNTA2LC0xMTc1NTEzMTIz.html)
