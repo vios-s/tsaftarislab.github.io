@@ -137,7 +137,7 @@
   "title": "Weakly Supervised Segmentation with Multi-scale Adversarial Attention Gates"
   "url": null
 - "authors": "T. Xia, A. Chartsias, S.A. Tsaftaris"
-  "code": "https://github.com/xiat0616/pseudo-healthy-synthesis"
+  "code": "https://github.com/vios-s/pseudo-healthy-synthesis"
   "collection": "journals"
   "edition": "vol. 64, 2020"
   "homepage": null
@@ -150,7 +150,7 @@
   "title": "Pseudo-healthy synthesis with pathology disentanglement and adversarial learning"
   "url": null
 - "authors": "A. Dobrescu, M.V. Giuffrida, S.A. Tsaftaris"
-  "code": "https://github.com/andobrescu/Multi_task_plant_phenotyping"
+  "code": "https://github.com/vios-s/Multi_task_plant_phenotyping"
   "collection": "journals"
   "edition": "11:141"
   "homepage": null
@@ -177,7 +177,7 @@
     \ and Reinforcement Learning"
   "url": null
 - "authors": "T. Xia, A. Chartsias,  C. Wang,  S.A. Tsaftaris"
-  "code": null
+  "code": "https://github.com/vios-s/BrainAgeing"
   "collection": "journals"
   "edition": "submitted"
   "homepage": false
@@ -218,7 +218,7 @@
   "url": null
 - "authors": "A. Chartsias, T. Joyce, G. Papanastasiou, S. Semple, M. Williams, D.\
     \ Newby, R. Dharmakumar, S.A. Tsaftaris"
-  "code": "https://github.com/agis85/anatomy_modality_decomposition"
+  "code": "https://github.com/vios-s/anatomy_modality_decomposition"
   "collection": "journals"
   "edition": "vol. 58, 2019"
   "homepage": false
@@ -358,7 +358,7 @@
     \ throughout the diel cycle in rosette shaped plants"
   "url": null
 - "authors": "A. Chartsias, T. Joyce, V. Giuffrida, and S. A. Tsaftaris"
-  "code": "https://github.com/agis85/multimodal_brain_synthesis"
+  "code": "https://github.com/vios-s/multimodal_brain_synthesis"
   "collection": "journals"
   "edition": "vol. 37, no. 3, pp. 803-814, 2018"
   "homepage": false
@@ -1063,7 +1063,7 @@
   "url": null
   "workshop": null
 - "authors": "X. Liu, S. Thermos, G. Valvano, A. Chartsias, A.Q. O'Neil, S.A. Tsaftaris"
-  "code": "https://github.com/TsaftarisCollaboratory/CSDisentanglement_Metrics_Library"
+  "code": "https://github.com/vios-s/CSDisentanglement_Metrics_Library"
   "collection": "conferences"
   "conference": "submitted"
   "homepage": null
@@ -1076,7 +1076,7 @@
   "url": null
   "workshop": null
 - "authors": "G. Jacenków, A.Q. O'Neil, B. Mohr, S.A. Tsaftaris"
-  "code": "https://github.com/jacenkow/inside"
+  "code": "https://github.com/vios-s/inside"
   "collection": "conferences"
   "conference": "MICCAI 2020"
   "homepage": true
@@ -1089,7 +1089,7 @@
   "url": null
   "workshop": null
 - "authors": "X. Liu, S. Thermos, G. Valvano, A. Chartsias, A.Q. O'Neil, S.A. Tsaftaris"
-  "code": null
+  "code": "https://github.com/vios-s/RA_FA_Cardiac"
   "collection": "conferences"
   "conference": "MICCAI 2020"
   "homepage": true
@@ -1102,7 +1102,7 @@
   "url": null
   "workshop": "STACOM: Statistical Atlases and Computational Modelling of the Heart"
 - "authors": "H. Jiang, C. Wang, A. Chartsias, S.A. Tsaftaris"
-  "code": null
+  "code": "https://github.com/vios-s/MFU-Net"
   "collection": "conferences"
   "conference": "MICCAI 2020"
   "homepage": true
@@ -1116,7 +1116,7 @@
   "workshop": "MyoPS: Multi-sequence CMR based Mycardial Pathology Segmentation Challenge"
 - "authors": "H. Jiang, A. Chartsias, X. Zhang, G. Panastasiou, S. Semple, M. Dweck,\
     \ D. Semple, R. Dharmakumar, S.A. Tsaftaris"
-  "code": null
+  "code": "https://github.com/vios-s/APDNet"
   "collection": "conferences"
   "conference": "MICCAI 2020"
   "homepage": true
@@ -1184,7 +1184,7 @@
   "workshop": "Tenth International Workshop on Health Text Mining and Information\
     \ Analysis"
 - "authors": "T. Xia, A. Chartsias, S.A. Tsaftaris"
-  "code": null
+  "code": "https://github.com/vios-s/BrainAgeing"
   "collection": "conferences"
   "conference": "MICCAI 2019"
   "homepage": null
@@ -1225,7 +1225,7 @@
   "url": null
   "workshop": "MLMIR: Machine Learning for Medical Image Reconstruction"
 - "authors": "G. Valvano, A. Chartsias, A. Leo, S.A. Tsaftaris"
-  "code": null
+  "code": "https://github.com/vios-s/sdtnet"
   "collection": "conferences"
   "conference": "MICCAI 2019"
   "homepage": null
@@ -1239,7 +1239,7 @@
   "url": null
   "workshop": "DART: Domain Adaptation and Representation Transfer"
 - "authors": "T. Xia, A. Chartsias, S.A. Tsaftaris"
-  "code": null
+  "code": "https://github.com/vios-s/pseudo-healthy-synthesis"
   "collection": "conferences"
   "conference": "MIDL 2019"
   "homepage": null
@@ -1335,7 +1335,7 @@
   "url": null
   "workshop": "CVPPP: Computer Vision Problems in Plant Phenotyping"
 - "authors": "T. Joyce, A. Chartsias, S.A. Tsaftaris"
-  "code": "https://github.com/agis85/multimodal_brain_synthesis"
+  "code": "https://github.com/vios-s/multimodal_brain_synthesis"
   "collection": "conferences"
   "conference": "MICCAI 2017"
   "homepage": null
@@ -1374,7 +1374,7 @@
   "url": null
   "workshop": "STACOM: Statistical Atlases and Computational Models of the Heart"
 - "authors": "A. Dobrescu, M.V. Giuffrida, S.A. Tsaftaris"
-  "code": null
+  "code": "https://github.com/vios-s/Leaf-Counting"
   "collection": "conferences"
   "conference": "ICCV 2017"
   "homepage": null

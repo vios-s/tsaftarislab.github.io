@@ -1,7 +1,7 @@
 ---
 title: "About"
 
-excerpt: "VIOS /vEEOs/ Collaboratory is part of the Institute for Digital
+excerpt: "VIOS collaboratory is part of the Institute for Digital
           Communications in The School of Engineering at The University of
           Edinburgh."
 header:
@@ -11,11 +11,12 @@ header:
 layout: splash
 permalink: /
 ---
-Our research interests are machine learning, deep learning, medical image
-analysis (medical image computing), and image processing. Core research
-application domains are computer aided diagnosis in medicine and computer vision
-in agriculture (e.g. plant phenotyping, precision agriculture, agritech and
-indoor farming).
+Welcome to our VIOS collaboratory. VIOS (pronounced vEEOs) means life (Βίος) in
+Greek; in its common English writing *bio* is abound in science as the word
+denoting everything about life (biology, biomedicine, bioimaging)... Life is
+central to our mission.  With advances in artificial intelligence, computer
+vision and inverse problems our mission is to solve key challenges in the life
+and natural sciences addressing societal problems.  
 
 ## News
 {% for post in site.posts limit:5 %}

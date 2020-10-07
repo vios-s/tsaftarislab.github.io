@@ -16,13 +16,23 @@ table {
 
 // Page.
 .page__row {
-  display: flex;
-
   .page__left {
-    @include span(6 of 12);
+    @include breakpoint($small) {
+      @include span(12 of 12);
+    }
+
+    @include breakpoint($medium) {
+      @include span(5.5 of 12);
+    }
   }
   .page__right {
-    @include span(6 of 12);
+    @include breakpoint($small) {
+      @include span(12 of 12);
+    }
+
+    @include breakpoint($medium) {
+      @include span(5.5 of 12);
+    }
   }
 }
 

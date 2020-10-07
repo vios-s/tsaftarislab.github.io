@@ -1,23 +1,23 @@
 ---
-- code: https://github.com/agis85/anatomy_modality_decomposition
+- code: https://github.com/vios-s/anatomy_modality_decomposition
   description: Code for learning disentangled representations in biomedical data.
   text: https://www.sciencedirect.com/science/article/abs/pii/S1361841519300684
   title: Disentangled Learning
   type: code
   url: null
-- code: https://github.com/gvalvano/sdtnet
+- code: https://github.com/vios-s/sdtnet
   description: Code for learning disentangled representations in biomedical data with temporal dynamic.
   preprint: https://arxiv.org/abs/1908.11330
   title: Disentangled Temporal Learning
   type: code
   url: null
-- code: https://github.com/agis85/spatial_factorisation
+- code: https://github.com/vios-s/spatial_factorisation
   description: Code for learning factorised representations in biomedical data.
   preprint: https://arxiv.org/abs/1803.07031
   title: Factorised Learning
   type: code
   url: null
-- code: https://github.com/agis85/multimodal_brain_synthesis
+- code: https://github.com/vios-s/multimodal_brain_synthesis
   description: TensorFlow implementations of several of our papers on synthesis.
   text: https://doi.org/10.1109/TMI.2017.2764326
   title: Multimodal Brain Synthesis
