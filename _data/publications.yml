@@ -101,6 +101,7 @@
   "url": null
   "workshop": "MLMI: Machine Learning in Medical Imaging"
 # Sotos.
+## Books.
 - "authors": "S.A. Tsaftaris, A. Gooya, A Frangi, J. Prince"
   "collection": "books"
   "edition": "vol. 10557"
@@ -123,6 +124,7 @@
     \ SASHIMI 2016"
   "url": "http://www.cistib.org/sashimi/"
   "venue": "SASHIMI 2016, Held in Conjunction with MICCAI 2016, Athens, Greece"
+## Journals.
 - "authors": "G. Valvano, A. Leo, S.A. Tsaftaris"
   "code": null
   "collection": "journals"
@@ -132,6 +134,7 @@
   "other": null
   "pdf": null
   "preprint": "https://arxiv.org/abs/2007.01152"
+  "project": "raeng"
   "published": 2020-07-02
   "text": null
   "title": "Weakly Supervised Segmentation with Multi-scale Adversarial Attention Gates"
@@ -145,6 +148,7 @@
   "other": null
   "pdf": null
   "preprint": "https://arxiv.org/abs/2005.01607"
+  "project": "raeng"
   "published": 2020-05-01
   "text": "https://www.sciencedirect.com/science/article/abs/pii/S1361841520300839"
   "title": "Pseudo-healthy synthesis with pathology disentanglement and adversarial learning"
@@ -981,6 +985,7 @@
   "title": "Fast watermarking of MPEG-1/2 streams using compressed-domain perceptual\
     \ embedding and a generalized correlator detector"
   "url": null
+## Chapters.
 - "authors": "R. Dharmakumar, S.A. Tsaftaris, H.-J. Yang, D. Li"
   "book": "Cardiovascular Magnetic Resonance (Third Edition)"
   "chapter": "Cardiovascular Magnetic Resonance Assessment of Myocardial Oxygenation"
@@ -1049,6 +1054,7 @@
   "published": 2003-11-30
   "publisher": "Springer US"
   "text": "https://link.springer.com/chapter/10.1007/0-306-48718-7_4"
+## Conferences.
 - "authors": "X. Liu, S.A. Tsaftaris"
   "code": null
   "collection": "conferences"
@@ -1057,6 +1063,7 @@
   "other": null
   "pdf": null
   "preprint": "https://arxiv.org/abs/2004.10129"
+  "project": "raeng"
   "published": 2020-07-12
   "text": null
   "title": "Have you forgotten? A method to assess if machine learning models have forgotten data"
@@ -1070,6 +1077,7 @@
   "other": null
   "pdf": null
   "preprint": "https://arxiv.org/abs/2008.12378"
+  "project": "raeng"
   "published": 2020-08-31
   "text": null
   "title": "Metrics for Exposing the Biases of Content-Style Disentanglement"
@@ -1083,6 +1091,7 @@
   "other": null
   "pdf": null
   "preprint": "https://arxiv.org/abs/2008.10418"
+  "project": "raeng"
   "published": 2020-08-21
   "text": "https://doi.org/10.1007/978-3-030-59719-1_38"
   "title": "INSIDE: Steering Spatial Attention with Non-Imaging Information in CNNs"
@@ -1096,6 +1105,7 @@
   "other": null
   "pdf": null
   "preprint": "https://arxiv.org/abs/2008.11514"
+  "project": "raeng"
   "published": 2020-08-26
   "text": null
   "title": "Disentangled Representations for Domain-generalized Cardiac Segmentation"
@@ -1109,6 +1119,7 @@
   "other": null
   "pdf": null
   "preprint": "https://arxiv.org/abs/2009.02569"
+  "project": "raeng"
   "published": 2020-09-05
   "text": null
   "title": "Max-Fusion U-Net for Multi-Modal Pathology Segmentation with Attention and Dynamic Resampling"
@@ -1123,6 +1134,7 @@
   "other": null
   "pdf": null
   "preprint": "https://arxiv.org/abs/2009.02564"
+  "project": "raeng"
   "published": 2020-09-05
   "text": null
   "title": "Semi-supervised Pathology Segmentation with Disentangled Representations"
@@ -1191,6 +1203,7 @@
   "other": null
   "pdf": "Tian_MICCAI_2019.pdf"
   "preprint": null
+  "project": "raeng"
   "published": 2019-10-13
   "text": null
   "title": "Consistent Brain Ageing Synthesis"
@@ -1205,6 +1218,7 @@
   "other": null
   "pdf": "STACOM2019_Agis.pdf"
   "preprint": null
+  "project": "raeng"
   "published": 2019-10-13
   "text": null
   "title": "Multimodal cardiac segmentation using disentangled representations"
@@ -1232,6 +1246,7 @@
   "other": null
   "pdf": null
   "preprint": "https://arxiv.org/abs/1908.11330"
+  "project": "raeng"
   "published": 2019-10-13
   "text": null
   "title": "Temporal Consistency Objectives Regularize the Learning of Disentangled\
@@ -1251,7 +1266,7 @@
   "title": "Adversarial Pseudo Healthy Synthesis Needs Pathology Factorization"
   "url": null
   "workshop": null
-- "authors": "G. Jacenk\xF3w, A. Chartsias, B. Mohr, S.A. Tsaftaris"
+- "authors": "G. Jacenków, A. Chartsias, B. Mohr, S.A. Tsaftaris"
   "code": null
   "collection": "conferences"
   "conference": "MIDL 2019"
@@ -1259,6 +1274,7 @@
   "other": null
   "pdf": null
   "preprint": null
+  "project": "raeng"
   "published": 2019-07-08
   "text": "https://openreview.net/pdf?id=BklGUoAEcE"
   "title": "Conditioning Convolutional Segmentation Architectures with Non-Imaging\

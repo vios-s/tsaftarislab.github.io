@@ -71,18 +71,34 @@ table {
 
 // Footer.
 .page__footer-copyright {
-  display: flex;
-
   #footer-copyright {
-    @include span(6 of 12);
+    @include breakpoint($small) {
+      @include span(12 of 12);
+    }
+
+    @include breakpoint($medium) {
+      @include span(3 of 12);
+    }
   }
 
   #footer-logos {
-    @include span(6 of 12);
+    @include breakpoint($small) {
+      @include span(12 of 12);
+    }
+
+    @include breakpoint($medium) {
+      @include span(8.5 of 12);
+    }
+
     img {
       float: right;
-      height: 75px;
+      height: 60px;
       margin: 10px;
     }
   }
+}
+
+.logo {
+  height: 60px;
+  margin: 10px;
 }

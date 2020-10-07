@@ -113,6 +113,8 @@ defaults:
       type: projects
     values:
       layout: single
+      sidebar:
+        nav: research
   # _team
   - scope:
       path: ""
