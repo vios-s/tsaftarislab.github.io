@@ -4,6 +4,7 @@ role: "postdoc"
 subtitle: "Post-doctoral Researcher"
 profile: "marija.jpg"
 
+scholar: "https://scholar.google.com/citations?user=dQDRtY0AAAAJ"
 twitter: "https://twitter.com/MarijaJegorova"
 
 collection: team

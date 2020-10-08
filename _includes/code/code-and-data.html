@@ -1,9 +1,15 @@
 <div id="publications">
     <h2 id="code">Code</h2>
-    {% assign code = site.data.code | where: "type", "code" %}
+    {% assign code = site.data.publications | where_exp: "item", "item.code" != "" %}
 
     {% for publication in code %}
-    {% include code/entry.html %}
+        {% if publication.collection == "journals" %}
+        {% include publications/entry_journal.html %}
+        {% endif %}
+
+        {% if publication.collection == "conferences" %}
+        {% include publications/entry_conference.html %}
+        {% endif %}
     {% endfor %}
 
     <h2 id="platforms">Platforms</h2>

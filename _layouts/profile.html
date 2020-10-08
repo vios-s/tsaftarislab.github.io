@@ -34,10 +34,13 @@ layout: default
                             {% if page.github %}
                             <a href="{{ page.github }}" class="btn btn--small" target="_blank">GitHub</a>
                             {% endif %}
+                            {% if page.scholar %}
+                            <a href="{{ page.scholar }}" class="btn btn--small btn--info" target="_blank">Google Scholar</a>
+                            {% endif %}
                             {% if page.linkedin %}
                             <a href="{{ page.linkedin }}" class="btn btn--small btn--info" target="_blank">LinkedIn</a>
-                            {% endif %}
                             {% if page.twitter %}
+                            {% endif %}
                             <a href="{{ page.twitter }}" class="btn btn--small btn--info" target="_blank">Twitter</a>
                             {% endif %}
                         </div>

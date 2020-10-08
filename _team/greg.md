@@ -6,6 +6,7 @@ profile: "greg.jpg"
 
 github: "https://github.com/jacenkow"
 linkedin: "https://www.linkedin.com/in/jacenkow/"
+scholar: "https://scholar.google.co.uk/citations?user=DT-yEbAAAAAJ&hl"
 twitter: "https://twitter.com/jacenkow"
 
 collection: team

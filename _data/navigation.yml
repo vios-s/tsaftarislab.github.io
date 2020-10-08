@@ -61,16 +61,12 @@ members:
     url: /team/giuffrida
 - title: Post-doctoral Researchers
   children:
-  - title: Haochuan Jiang
-    url: /team/jiang
   - title: Marija Jegorova
     url: /team/jegorova
   - title: Spyridon Thermos
     url: /team/thermos
 - title: PhD Students
   children:
-  - title: Agisilaos Chartsias
-    url: /team/chartsias
   - title: Andrei Dobrescu
     url: /team/dobrescu
   - title: Grzegorz Jacenków

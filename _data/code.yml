@@ -47,3 +47,9 @@
   title: The PRL – CVPPP Dataset
   type: dataset
   url: https://www.plant-phenotyping.org/datasets
+- code: https://github.com/vios-s/inside
+  description: Extension of CLEVR dataset with segmentation masks and per-object attributes.
+  text: https://doi.org/10.1007/978-3-030-59719-1_38
+  title: The CLEVR-Seg Dataset
+  type: dataset
+  url: https://drive.google.com/file/d/1HfFoYwm8ltCitFo94JycbF5C3X3zx3Tu
