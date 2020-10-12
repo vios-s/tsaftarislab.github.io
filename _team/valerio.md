@@ -26,3 +26,5 @@ algorithms to analyse rosette plants. During his master, he had the possibility
 to participate in different scientific summer schools, such as the International
 Computer Vision Summer School (ICVSS) and the Medical Imaging Summer School
 (MISS), which have been of great motivations towards his scientific career.
+
+Please visit [his personal website](http://www.valeriogiuffrida.academy/) for more information.

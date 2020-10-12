@@ -29,6 +29,37 @@ training data and is largely seen as a *black box*. In contrast we will:
 
 ## News
 
+* **Keynote:** Doing More with Less by Disentangled Data Representations, Keynote
+   [DART](https://sites.google.com/view/dart2020/keynote-session), MICCAI,
+   October 2020.
+
+* **Tutorial:** DREAM: Disentangled Representations for Efficient Algorithms for
+  Medical data, [MICCAI Tutorial](/tutorials/dream2020), MICCAI, October 2020.
+
+* **Event:** Sotos invited to present at [The Global AI
+  Summit](https://www.theglobalaisummit.com/), organized by the Saudi Data and
+  Artificial Intelligence Authority, March 2020. [postponed due to COVID-19]
+
+* **News:** How can AI help? Reading the language of medicine,
+  [Canon Medical Blog](https://www.canon.co.uk/view/language-artificial-intelligence/),
+  October 2019.
+
+* **Event:** Public Event in Japan, British Embassy. AI and Healthcare,
+  October 2019.
+
+* **Keynote:** Disentangled Representation Learning in Medical Imaging, Keynote
+  [STACOM](https://stacom2019.cardiacatlas.org/), MICCAI, October 2019.
+
+* **Tutorial:** Simulation and Synthesis, Tutorial at International Conference
+  on Acoustics Speech and Signal Processing (ICASSP), May 2019.
+
+* **News:** Interview in [Greek Huffington
+  Post](https://www.huffingtonpost.gr/entry/soteres-tsaetares-zoeme-ten-epoche-tes-technetes-noemosenes-as-men-chasoeme-kai-aeto-to-treno_gr_5d8cc3e2e4b0e9e76048a0b8),
+  September 2019.
+
+* **News:** How can AI help? Reading the language of medicine, Canon Medical Blog, (link)
+
+
 * **Event:** Intervention at Future-proofing society – how digital health and
   social care can empower and transform lives, Scottish Parliament and IET
   Event.
