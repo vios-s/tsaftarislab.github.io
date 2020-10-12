@@ -195,7 +195,7 @@
   "url": null
 - "authors": "A. Chartsias, G. Papanastasiou, C. Wang, S. Semple, D. Newby, R. Dharmakumar,\
     \ S.A. Tsaftaris"
-  "code": null
+  "code": "https://github.com/vios-s/multimodal_segmentation"
   "collection": "journals"
   "edition": "submitted"
   "homepage": false
@@ -1211,7 +1211,7 @@
   "workshop": null
 - "authors": "A. Chartsias, G. Papanastasiou, C. Wang, C. Stirrat, S. Semple, D. Newby,\
     \ R. Dharmakumar, S.A. Tsaftaris"
-  "code": null
+  "code": "https://github.com/vios-s/multimodal_segmentation"
   "collection": "conferences"
   "conference": "MICCAI 2019"
   "homepage": null
@@ -1311,7 +1311,7 @@
   "workshop": null
 - "authors": "A. Chartsias, T. Joyce, G. Papanastasiou, S. Semple, M. Williams, D.\
     \ Newby, R. Dharmakumar, S.A. Tsaftaris"
-  "code": null
+  "code": "https://github.com/vios-s/spatial_factorisation"
   "collection": "conferences"
   "conference": "MICCAI 2018"
   "homepage": null
