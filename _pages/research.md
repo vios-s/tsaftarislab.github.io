@@ -57,6 +57,5 @@ innovative [algorithms](http://tsaftaris.com/publications.html) to the problem
 of estimating phenotypic traits from images. 
 
 ## Projects {#projects}
-{% for project in site.projects reversed %}
-  {% include projects/projects.html %}
-{% endfor %}
+
+{% include projects/projects.html %}

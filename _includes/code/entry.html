@@ -1,6 +1,11 @@
-<p>
-    <b>{{ forloop.index }}. {{ publication.title }}</b>
-    <br />
-    <em>{{ publication.description }}</em>
-    {% include publications/links.html %}
-</p>
+<div class="code">
+    <div class="code__picture">
+        <img src="{{ base_path }}/assets/images/papers/{{ publication.img }}">
+    </div>
+    <div class="code__context">
+        <b>{{ forloop.index }}. {{ publication.title }}</b>
+        <br />
+        <em>{{ publication.description }}</em>
+        {% include publications/links.html %}
+    </div>
+</div>

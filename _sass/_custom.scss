@@ -1,6 +1,6 @@
 // Body.
 body {
-  margin-bottom: 75px !important;
+  margin-bottom: 200px !important;
 }
 // Remove spacing between `li`.
 li {
@@ -33,6 +33,21 @@ table {
     @include breakpoint($medium) {
       @include span(5.5 of 12);
     }
+  }
+}
+
+// Code and data page.
+.code {
+  display: flex;
+  padding-top: 10px;
+
+  .code__picture {
+    @include span(2.5 of 12);
+  }
+
+  .code__context {
+    @include prefix(0.5 of 12);
+    @include span(9 of 12 final);
   }
 }
 
@@ -72,28 +87,33 @@ table {
 // Footer.
 .page__footer-copyright {
   #footer-copyright {
-    @include breakpoint($small) {
-      @include span(12 of 12);
-    }
+    @include span(12 of 12);
+    text-align: center;
 
     @include breakpoint($medium) {
       @include span(3 of 12);
+      text-align: left;
     }
   }
 
   #footer-logos {
-    @include breakpoint($small) {
-      @include span(12 of 12);
+    img {
+      height: 60px;
+
+      display: block;
+      margin-top: 10px;
+      margin-left: auto;
+      margin-right: auto
     }
 
     @include breakpoint($medium) {
       @include span(8.5 of 12);
-    }
+      img {
+        margin: 10px;
 
-    img {
-      float: right;
-      height: 60px;
-      margin: 10px;
+        display: inline;
+        float: right;
+      }
     }
   }
 }

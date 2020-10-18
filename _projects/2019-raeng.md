@@ -59,7 +59,6 @@ training data and is largely seen as a *black box*. In contrast we will:
 
 * **News:** How can AI help? Reading the language of medicine, Canon Medical Blog, (link)
 
-
 * **Event:** Intervention at Future-proofing society – how digital health and
   social care can empower and transform lives, Scottish Parliament and IET
   Event.

@@ -12,12 +12,6 @@ open positions and funding opportunities.
 
 ## Current opportunities {#opportunities}
 
-* **PhD openings with Chen:** Dr. Chen Qin is looking for highly motivated PhD
-  students to work on machine learning for medical image computing. Prospective
-  students will have a good first degree in Computer Science, Electrical
-  Engineering, Mathematics, Physics or other engineering-related disciplines.
-  Please feel free to drop Chen an email if you’re interested.
-
 * **PhD and PostDocs openings with Sotos:** We are growing the team. If you have
   a strong profile please email Sotos and attach a CV.
 
@@ -28,6 +22,12 @@ open positions and funding opportunities.
   biological sciences, and you have a strong profile, see the
   [Alan Turing Institute website](https://turing.ac.uk) on how to apply and also
   drop Sotos an email with a CV and description of your interests.
+
+* **PhD openings with Chen:** Dr. Chen Qin is looking for highly motivated PhD
+  students to work on machine learning for medical image computing. Prospective
+  students will have a good first degree in Computer Science, Electrical
+  Engineering, Mathematics, Physics or other engineering-related disciplines.
+  Please feel free to drop Chen an email if you’re interested.
   
 ## Contact {#contact}
 ### Sotos

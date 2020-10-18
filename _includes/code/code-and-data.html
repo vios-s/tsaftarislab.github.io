@@ -4,11 +4,25 @@
 
     {% for publication in code %}
         {% if publication.collection == "journals" %}
-        {% include publications/entry_journal.html %}
+        <div class="code">
+            <div class="code__picture">
+                <img src="{{ base_path }}/assets/images/papers/{{ publication.img }}">
+            </div>
+            <div class="code__context">
+                {% include publications/entry_journal.html %}
+            </div>
+        </div>
         {% endif %}
 
         {% if publication.collection == "conferences" %}
-        {% include publications/entry_conference.html %}
+        <div class="code">
+            <div class="code__picture">
+                <img src="{{ base_path }}/assets/images/papers/{{ publication.img }}">
+            </div>
+            <div class="code__context">
+                {% include publications/entry_conference.html %}
+            </div>
+        </div>
         {% endif %}
     {% endfor %}
 

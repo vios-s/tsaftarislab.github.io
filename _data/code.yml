@@ -1,54 +1,21 @@
 ---
-- code: https://github.com/vios-s/anatomy_modality_decomposition
-  description: Code for learning disentangled representations in biomedical data.
-  text: https://www.sciencedirect.com/science/article/abs/pii/S1361841519300684
-  title: Disentangled Learning
-  type: code
-  url: null
-- code: https://github.com/vios-s/sdtnet
-  description: Code for learning disentangled representations in biomedical data with temporal dynamic.
-  preprint: https://arxiv.org/abs/1908.11330
-  title: Disentangled Temporal Learning
-  type: code
-  url: null
-- code: https://github.com/vios-s/spatial_factorisation
-  description: Code for learning factorised representations in biomedical data.
-  preprint: https://arxiv.org/abs/1803.07031
-  title: Factorised Learning
-  type: code
-  url: null
-- code: https://github.com/vios-s/multimodal_brain_synthesis
-  description: TensorFlow implementations of several of our papers on synthesis.
-  text: https://doi.org/10.1109/TMI.2017.2764326
-  title: Multimodal Brain Synthesis
-  type: code
-  url: null
-- code: https://bitbucket.org/tuttoweb/pheno-deep-counter
-  description: A deep learning based multi-instance multimodal object counter.
-  text: https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.14064
-  title: Pheno-Deep-Counter
-  type: code
-  url: null
-- code: https://bitbucket.org/teamrbm/rbm
-  description: A toolbox implementing various forms of RBMs.
-  text: https://ieeexplore.ieee.org/abstract/document/8870198
-  title: Restricted Boltzmann Machine MATLAB Toolbox
-  type: code
-  url: null
 - code: null
   description: Open source open hardware platform for affordable plant phenotyping, as of now has been downloaded by 100 users and is actively used by 30 labs in the world.
+  img: "phenotiki.png"
   text: http://onlinelibrary.wiley.com/doi/10.1111/tpj.13472/abstract
   title: Phenotiki
   type: platform
   url: http://phenotiki.com
 - code: null
   description: A collection of annotated data for computer vision research in plant phenotyping, as of now it has been downloaded 3000 times, and cited 54 times.
+  img: "cvppp.png"
   text: https://www.sciencedirect.com/science/article/abs/pii/S0167865515003645
   title: The PRL – CVPPP Dataset
   type: dataset
   url: https://www.plant-phenotyping.org/datasets
 - code: https://github.com/vios-s/inside
-  description: Extension of CLEVR dataset with segmentation masks and per-object attributes.
+  description: Extension of the CLEVR dataset with segmentation masks and per-object attributes.
+  img: "clevr_seg.png"
   text: https://doi.org/10.1007/978-3-030-59719-1_38
   title: The CLEVR-Seg Dataset
   type: dataset

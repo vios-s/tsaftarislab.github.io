@@ -1,9 +1,24 @@
-{% assign title = project.title %}
+{% assign projects = site.data.projects | where: "status", "ongoing" %}
 
-<div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope>
-    <h2 class="archive__item-title" itemprop="headline"><a href="{{ base_path }}{{ project.url }}" rel="permalink">{{ title }}</a></h2>
-    <p><i class="fa fa-fw fa-building" aria-hidden="true"></i> <strong>Funder:</strong> {{ project.funder }} <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <strong>Project status:</strong> {{ project.status }}</p>
-    <p class="archive__item-excerpt" itemprop="description"><p>{{ project.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ project.url }}" rel="permalink"> Read more</a></strong></p></p>
-  </article>
-</div>
+<ol>
+    {% for project in projects %}
+    <li>
+        {{ project.funder }} <br />
+        {{ project.time }} <br />
+        <a href="{{ project.link }}" target="_blank" >{{ project.name }}</a>
+    </li>
+    {% endfor %}
+</ol>
+
+<h3>Completed</h3>
+{% assign projects = site.data.projects | where: "status", "completed" %}
+
+<ol>
+    {% for project in projects %}
+    <li>
+        {{ project.funder }} <br />
+        {{ project.time }} <br />
+        <a href="{{ project.link }}" target="_blank" >{{ project.name }}</a>
+    </li>
+    {% endfor %}
+</ol>

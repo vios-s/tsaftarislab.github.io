@@ -144,6 +144,7 @@
   "collection": "journals"
   "edition": "vol. 64, 2020"
   "homepage": null
+  "img": "xia_2020_media.png"
   "journal": "Medical Image Analysis"
   "other": null
   "pdf": null
@@ -158,6 +159,7 @@
   "collection": "journals"
   "edition": "11:141"
   "homepage": null
+  "img": "dobrescu_2020_frontiers.png"
   "journal": "Frontiers in Plant Science"
   "other": null
   "pdf": null
@@ -185,6 +187,7 @@
   "collection": "journals"
   "edition": "submitted"
   "homepage": false
+  "img": "xia_2019_journal.png"
   "journal": "TBA"
   "other": null
   "pdf": null
@@ -199,6 +202,7 @@
   "collection": "journals"
   "edition": "submitted"
   "homepage": false
+  "img": "chartsias_2019_journal.png"
   "journal": "TBA"
   "other": null
   "pdf": null
@@ -212,6 +216,7 @@
   "collection": "journals"
   "edition": "vol. 29, no. 1, pp. 2166-2175, 2020"
   "homepage": null
+  "img": "giuffrida_2020_tip.png"
   "journal": "IEEE Transactions on Image Processing"
   "other": null
   "pdf": "Giuffrida_2020.pdf"
@@ -226,6 +231,7 @@
   "collection": "journals"
   "edition": "vol. 58, 2019"
   "homepage": false
+  "img": "chartsias_2019_media.png"
   "journal": "Medical Image Analysis"
   "other": null
   "pdf": null
@@ -366,6 +372,7 @@
   "collection": "journals"
   "edition": "vol. 37, no. 3, pp. 803-814, 2018"
   "homepage": false
+  "img": "chartsias_2017_tmi.png"
   "journal": "IEEE Transactions on Medical Imaging"
   "other": null
   "pdf": "TMI_Synthesis_final.pdf"
@@ -1074,6 +1081,7 @@
   "collection": "conferences"
   "conference": "submitted"
   "homepage": null
+  "img": "liu_2020_metrics.png"
   "other": null
   "pdf": null
   "preprint": "https://arxiv.org/abs/2008.12378"
@@ -1088,6 +1096,7 @@
   "collection": "conferences"
   "conference": "MICCAI 2020"
   "homepage": true
+  "img": "jacenkow_2020_miccai.png"
   "other": null
   "pdf": null
   "preprint": "https://arxiv.org/abs/2008.10418"
@@ -1102,6 +1111,7 @@
   "collection": "conferences"
   "conference": "MICCAI 2020"
   "homepage": true
+  "img": "liu_2020_miccai.png"
   "other": null
   "pdf": null
   "preprint": "https://arxiv.org/abs/2008.11514"
@@ -1116,6 +1126,7 @@
   "collection": "conferences"
   "conference": "MICCAI 2020"
   "homepage": true
+  "img": "jiang_2020_myops.png"
   "other": null
   "pdf": null
   "preprint": "https://arxiv.org/abs/2009.02569"
@@ -1132,6 +1143,7 @@
   "conference": "MICCAI 2020"
   "homepage": true
   "other": null
+  "img": "jiang_2020_dart.png"
   "pdf": null
   "preprint": "https://arxiv.org/abs/2009.02564"
   "project": "raeng"
@@ -1200,6 +1212,7 @@
   "collection": "conferences"
   "conference": "MICCAI 2019"
   "homepage": null
+  "img": "xia_2019_miccai.png"
   "other": null
   "pdf": "Tian_MICCAI_2019.pdf"
   "preprint": null
@@ -1215,6 +1228,7 @@
   "collection": "conferences"
   "conference": "MICCAI 2019"
   "homepage": null
+  "img": "chartsias_2019_miccai.png"
   "other": null
   "pdf": "STACOM2019_Agis.pdf"
   "preprint": null
@@ -1243,6 +1257,7 @@
   "collection": "conferences"
   "conference": "MICCAI 2019"
   "homepage": null
+  "img": "valvano_2019_miccai.png"
   "other": null
   "pdf": null
   "preprint": "https://arxiv.org/abs/1908.11330"
@@ -1258,6 +1273,7 @@
   "collection": "conferences"
   "conference": "MIDL 2019"
   "homepage": null
+  "img": "xia_2019_midl.png"
   "other": "Best Paper Award (finalist)"
   "pdf": null
   "preprint": null
@@ -1315,6 +1331,7 @@
   "collection": "conferences"
   "conference": "MICCAI 2018"
   "homepage": null
+  "img": "chartsias_2018_miccai.png"
   "other": null
   "pdf": null
   "preprint": "https://arxiv.org/abs/1803.07031"
@@ -1355,6 +1372,7 @@
   "collection": "conferences"
   "conference": "MICCAI 2017"
   "homepage": null
+  "img": "joyce_2017_miccai.png"
   "other": null
   "pdf": "Joyce_MICCAI_2017_Synth.pdf"
   "preprint": null
@@ -1394,6 +1412,7 @@
   "collection": "conferences"
   "conference": "ICCV 2017"
   "homepage": null
+  "img": "dobrescu_2017_cvppp.png"
   "other": null
   "pdf": "Andrei_CVPPP_2017.pdf"
   "preprint": null
