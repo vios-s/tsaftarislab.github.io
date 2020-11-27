@@ -1297,6 +1297,19 @@
     \ Data"
   "url": null
   "workshop": null
+- "authors": "M.V. Giuffrida, A. Dobrescu, P. Doerner, S.A. Tsaftaris"
+  "code": null
+  "collection": "conferences"
+  "conference": "CVPR 2019"
+  "homepage": null
+  "other": null
+  "pdf": null
+  "preprint": null
+  "published": 2019-06-16
+  "text": "https://openaccess.thecvf.com/content_CVPRW_2019/papers/CVPPP/Giuffrida_Leaf_Counting_Without_Annotations_Using_Adversarial_Unsupervised_Domain_Adaptation_CVPRW_2019_paper.pdf"
+  "title": "Leaf Counting Without Annotations Using Adversarial Unsupervised Domain Adaptation"
+  "url": null
+  "workshop": "CVPPP: Computer Vision Problems in Plant Phenotyping"
 - "authors": "H. Chen, M.V. Giuffrida, P. Doerner, S.A. Tsaftaris"
   "code": null
   "collection": "conferences"
