@@ -1106,7 +1106,7 @@
   "title": "INSIDE: Steering Spatial Attention with Non-Imaging Information in CNNs"
   "url": null
   "workshop": null
-- "authors": "X. Liu, S. Thermos, G. Valvano, A. Chartsias, A.Q. O'Neil, S.A. Tsaftaris"
+- "authors": "X. Liu, S. Thermos, A. Chartsias, A.Q. O'Neil, S.A. Tsaftaris"
   "code": "https://github.com/vios-s/RA_FA_Cardiac"
   "collection": "conferences"
   "conference": "MICCAI 2020"
