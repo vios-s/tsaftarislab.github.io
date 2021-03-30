@@ -17,22 +17,23 @@ code:
       - title: Datasets
         url: /code_and_data#datasets
 dream:
-  - title: DREAM 2020 Tutorial
+  - title: DREAM 2021 Tutorial
     children:
       - title: Outline
-        url: /tutorials/dream2020#outline
+        url: /tutorials/dream2021#outline
       - title: Program
-        url: /tutorials/dream2020#program
+        url: /tutorials/dream2021#program
       - title: Learning Objectives
-        url: /tutorials/dream2020#objectives
+        url: /tutorials/dream2021#objectives
       - title: Motivation
-        url: /tutorials/dream2020#motivation
+        url: /tutorials/dream2021#motivation
       - title: Teachers
-        url: /tutorials/dream2020#teachers
-      - title: Materials
-        url: /tutorials/dream2020#materials
+        url: /tutorials/dream2021#teachers
       - title: Support
-        url: /tutorials/dream2020#support
+        url: /tutorials/dream2021#support
+        
+      - title: DREAM 2020 Tutorial
+        url: /tutorials/dream2020
 main:
   - title: News
     url: /news/
@@ -46,8 +47,8 @@ main:
     url: /code_and_data/
   - title: Contact
     url: /contact/
-  - title: MICCAI DREAM 2020
-    url: /tutorials/dream2020
+  - title: MICCAI DREAM 2021
+    url: /tutorials/dream2021
 members:
 - title: Academic Staff
   children:
@@ -73,6 +74,8 @@ members:
     url: /team/dobrescu
   - title: Grzegorz Jacenków
     url: /team/jacenkow
+  - title: Pedro Sanchez
+    url: /team/sanchez
   - title: Phivos Sofokleous
     url: /team/sofokleous
   - title: Tian Xia
