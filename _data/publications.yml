@@ -14,19 +14,39 @@
   text: "https://www.frontiersin.org/articles/10.3389/fcvm.2020.00025/full"
   title: "Deep Learning for Cardiac Image Segmentation: A Review"
   url: null
-- authors: "C. Qin, J. Schlemper, J. Caballero, A.N. Price, J.V. Hajnal, D. Rueckert"
-  code: null
+
+- authors: "Qin, C., Duan, J., Hammernik, K., Schlemper, J., Küstner, T., Botnar, R., Prieto, C., Price, A.N., Hajnal, J.V. and Rueckert, D."
+  code: "https://github.com/cq615/kt-Dynamic-MRI-Reconstruction"
+  img: "qin_2020_MRI_rec.png"
+  collection: "journals"
+  edition: "Under Review"
+  homepage: null
+  journal: "Magnetic Resonance in Medicine"
+  preprint: "https://arxiv.org/abs/2012.11974"
+  other: null
+  pdf: null
+  preprint: null
+  published: 2020-12-22
+  text: ""
+  title: "Complementary Time-Frequency Domain Networks for Dynamic Parallel MR Image Reconstruction"
+  url: null
+
+- authors: "Qin, C., Schlemper, J., Caballero, J., Price, A.N., Hajnal, J.V. and Rueckert, D."
+  code: "https://github.com/cq615/Deep-MRI-Reconstruction"
   collection: "journals"
   edition: "vol. 38, 2019"
+  img: "qin_2017_crnn_mri.png"
   homepage: null
   journal: "IEEE Transactions on Medical Imaging"
   other: null
   pdf: null
-  preprint: null
-  published: 2018-08-06
+  preprint: "https://arxiv.org/pdf/1704.02422.pdf"
+  published: 2017-04-01
   text: "https://ieeexplore.ieee.org/abstract/document/8425639/"
   title: "Convolutional Recurrent Neural Networks for Dynamic MR Image Reconstruction"
   url: null
+
+
 - "authors": "C. Bowles, C. Qin, R. Guerrero, R. Gunn, A. Hammers, D.A. Dickie,\
     \ M. Valdés Hernández, J. Wardlaw, D. Rueckert"
   "code": null
@@ -41,6 +61,7 @@
   "text": "https://doi.org/10.1016/j.nicl.2017.09.003"
   "title": "Brain lesion segmentation through image synthesis and outlier detection"
   "url": null
+
 - "authors": "R. Guerrero, C. Qin, O. Oktay, C. Bowles, L. Chen, R. Joules,\
     \ R. Wolz, M.C. Valdés-Hernández, D.A. Dickie, J. Wardlaw, D. Rueckert"
   "code": null
@@ -56,6 +77,7 @@
   "title": "White matter hyperintensity and stroke lesion segmentation and\
     \ differentiation using convolutional neural networks"
   "url": null
+
 - authors: "C. Qin, R. Guerrero, C. Bowles, L. Chen, D.A. Dickie, M. del C. Valdes-Hernandez,\
     \ J. Wardlaw, D. Rueckert"
   code: null
@@ -70,7 +92,45 @@
   text: "https://www.sciencedirect.com/science/article/pii/S0031320317305022"
   title: "A large margin algorithm for automated segmentation of white matter hyperintensity"
   url: null
+
 ## Conferences.
+
+- authors: "Qin C., Wang S., Chen C., Qiu H., Bai W., Rueckert D. "
+  code: "https://github.com/cq615/Biomechanics-informed-motion-tracking"
+  img: "qin_2020_biomecha_tracking.png"
+  collection: "conferences"
+  conference: "MICCAI 2020"
+  edition: "vol 12263. Springer"
+  homepage: null
+  journal: null
+  preprint: "https://arxiv.org/abs/2006.04725"
+  other: null
+  pdf: null
+  published: 2020-09-29
+  text: ""
+  title: "Biomechanics-Informed Neural Networks for Myocardial Motion Tracking in MRI"
+  url: "https://link.springer.com/chapter/10.1007/978-3-030-59716-0_29"
+
+
+- authors: "Qin, C., Bai, W., Schlemper, J., Petersen, S. E., Piechnik, S. K., Neubauer, S., & Rueckert, D."
+  code: "https://github.com/cq615/Biomechanics-informed-motion-tracking"
+  img: "qin_2018_motion_seg.png"
+  collection: "conferences"
+  conference: "MICCAI 2018"
+  edition: "pp. 472-480, Springer"
+  homepage: null
+  journal: null
+  preprint: "https://arxiv.org/abs/1806.04066"
+  other: null
+  pdf: null
+  published: 2018-09-26
+  text: ""
+  title: "Joint learning of motion estimation and segmentation for cardiac MR image sequences."
+  url: "https://link.springer.com/chapter/10.1007/978-3-030-00934-2_53"
+
+
+
+
 - "authors": "C. Bowles, C. Qin, C. Ledig, R. Guerrero, R. Gunn, A. Hammers, E. Sakka, D.A. Dickie,\
     \ M. Valdés Hernández, N. Royle, J. Wardlaw, H. Rhodius-Meester, B. Tijms, A.W. Lemstra,\
     \ W. van der Flier, F. Barkhof, P. Scheltens, D. Rueckert"
@@ -126,19 +186,20 @@
   "venue": "SASHIMI 2016, Held in Conjunction with MICCAI 2016, Athens, Greece"
 ## Journals.
 - "authors": "G. Valvano, A. Leo, S.A. Tsaftaris"
-  "code": null
+  "code": "https://vios-s.github.io/multiscale-adversarial-attention-gates/"
   "collection": "journals"
-  "edition": "submitted"
+  "img": "valvano_2021_TMI.png"
+  "edition": null
   "homepage": null
-  "journal": "TBA"
+  "journal": "IEEE Transactions on Medical Imaging"
   "other": null
   "pdf": null
   "preprint": "https://arxiv.org/abs/2007.01152"
   "project": "raeng"
-  "published": 2020-07-02
+  "published": 2021-03-30
   "text": null
-  "title": "Weakly Supervised Segmentation with Multi-scale Adversarial Attention Gates"
-  "url": null
+  "title": "Learning to Segment from Scribbles using Multi-scale Adversarial Attention Gates"
+  "url": "https://ieeexplore.ieee.org/document/9389796"
 - "authors": "T. Xia, A. Chartsias, S.A. Tsaftaris"
   "code": "https://github.com/vios-s/pseudo-healthy-synthesis"
   "collection": "journals"

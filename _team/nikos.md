@@ -5,6 +5,7 @@ subtitle: "Post-doctoral Researcher"
 profile: "nikos.jpg"
 
 linkedin: "https://uk.linkedin.com/in/nikolaos-dionelis-60688279"
+scholar: "https://scholar.google.com/citations?user=2UweGHoAAAAJ&hl=en"
 
 collection: team
 permalink: /team/dionelis

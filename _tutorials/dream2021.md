@@ -7,7 +7,7 @@ sidebar:
   nav: "dream"
 ---
 
-A MICCAI 2021 (Strasbourg) Tutorial by Sotirios A. Tsaftaris and Alison Q. O'Neil.
+A MICCAI 2021 (Strasbourg) Tutorial by Sotirios A. Tsaftaris, Alison Q. O'Neil, Spyridon Thermos, Xiao Liu and Pedro Sanchez .
 
 ![DREAM 2021]({{ base_path }}/assets/images/dream2021grad.png)
 
@@ -18,9 +18,12 @@ The deep learning (DL) paradigm has been widely adopted in almost all domains of
 Disentangled representation learning has been proposed as an approach to encode generic and explainable data representations through separating out underlying explanatory factors. Interestingly, this can be achieved with limited or no annotations. A general and explainable representation can be readily fine-tuned for new target tasks using modest amounts of data. This alleviation of the data and annotation requirements offers tantalising prospects for tractable and affordable healthcare, while the explainability of disentangled representations increase their suitability for real-world human-controlled applications. 
 
 In this **half-day** tutorial, a satellite event in conjunction with [MICCAI
-2021](https://miccai2021.org/) (Strasbourg), we present an overview of representation learning, focusing on disentangled representation learning and criteria, as well as on the connection between disentangled representations and causal mechanisms. Finally, we discuss about possible applications in the medical imaging field and existing open-ended challenges. This tutorial is a follow-up of the [DREAM 2020](/tutorials/dream2020) 
+2021](https://miccai2021.org/) (Strasbourg), we present an overview of representation learning, focusing on disentangled representation learning and criteria, as well as on the connection between disentangled representations and causal mechanisms. Finally, we discuss about possible applications in the medical imaging field and existing open-ended challenges. This tutorial is a **follow-up** of the [DREAM @ MICCAI 2020](/tutorials/dream2020) which was extremely well received and attended by around 200 members of the MICCAI community.
 
 ## Program {#program}
+
+
+TBC
 
 <!---
 **Virtual Format**: On the MICCAI platform we have uploaded several videos that
@@ -37,7 +40,6 @@ platform chat and we did not reply we will aim to reply to them live here during
 the Q&A. If we run out of time, please do reach out to us offline!
 
 All times are UTC (for BST (current UK time), add +1). 
--->
 
 
 The schedule is
@@ -63,6 +65,7 @@ visible below.
 * Applications of disentanglement in medical imaging, computer vision and healthcare
 * The hierarchical and compositional structure of medical data for disentanglement
 * Open challenges and Q&A 
+-->
 
 
 
@@ -94,6 +97,8 @@ this. Moreover, it has been shown that disentangled representations are privacy
 preserving; can offer explainability and interpretability; and can generalise to
 new tasks (meta-learning) and to new data sources with less effort.
 
+![disentangled_example]({{ base_path }}/assets/images/disentangled_example.png)
+
 We should (re)appreciate that machine learning (ML) is not simply a functional
 mapping between input and output, but one that maps input data to manifolds and
 then decisions/tasks. This return to principled design will allow us to evolve
@@ -113,6 +118,8 @@ Humanlike](https://www.scientificamerican.com/article/machine-learning-gets-a-bi
 Disentangled learning appeared in MICCAI 5 years ago in a couple of papers, but
 now has tripled in appearance. Thus, it is timely to formally introduce this
 important area of research in our community.
+
+<img style="float: center;" width="500" src="{{ base_path }}/assets/images/scholar_trend.png">
 
 ## Teachers {#teachers}
 

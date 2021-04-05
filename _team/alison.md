@@ -6,6 +6,12 @@ profile: "alison.jpg"
 
 order: 2
 
+
+linkedin: "https://www.linkedin.com/in/alisononeil"
+scholar: "https://scholar.google.co.uk/citations?user=XRKjluIAAAAJ&hl=en"
+twitter: "https://twitter.com/alisonqoneil"
+
+
 collection: team
 permalink: /team/oneil
 ---

@@ -6,6 +6,11 @@ profile: "chen.jpg"
 
 order: 3
 
+linkedin: "https://www.linkedin.com/in/chen-qin-ab9411127"
+scholar: "https://scholar.google.com/citations?hl=en&user=mTWrOqHOqjoC"
+twitter: "https://twitter.com/chen_qin615"
+
+
 collection: team
 permalink: /team/qin
 ---
