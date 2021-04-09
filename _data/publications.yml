@@ -14,14 +14,13 @@
   text: "https://www.frontiersin.org/articles/10.3389/fcvm.2020.00025/full"
   title: "Deep Learning for Cardiac Image Segmentation: A Review"
   url: null
-
-- authors: "Qin, C., Duan, J., Hammernik, K., Schlemper, J., Küstner, T., Botnar, R., Prieto, C., Price, A.N., Hajnal, J.V. and Rueckert, D."
+- authors: "C. Qin, J. Duan, K. Hammernik, J. Schlemper, T. Küstner, R. Botnar, C. Prieto, A. N. Price, J. V. Hajnal, and D. Rueckert"
   code: "https://github.com/cq615/kt-Dynamic-MRI-Reconstruction"
   img: "qin_2020_MRI_rec.png"
   collection: "journals"
-  edition: "Under Review"
+  edition: "submitted"
   homepage: null
-  journal: "Magnetic Resonance in Medicine"
+  journal: "TBA"
   preprint: "https://arxiv.org/abs/2012.11974"
   other: null
   pdf: null
@@ -30,8 +29,7 @@
   text: ""
   title: "Complementary Time-Frequency Domain Networks for Dynamic Parallel MR Image Reconstruction"
   url: null
-
-- authors: "Qin, C., Schlemper, J., Caballero, J., Price, A.N., Hajnal, J.V. and Rueckert, D."
+- authors: "C. Qin, J. Schlemper, J. Caballero, A.N. Price, J.V. Hajnal, and D. Rueckert"
   code: "https://github.com/cq615/Deep-MRI-Reconstruction"
   collection: "journals"
   edition: "vol. 38, 2019"
@@ -95,7 +93,7 @@
 
 ## Conferences.
 
-- authors: "Qin C., Wang S., Chen C., Qiu H., Bai W., Rueckert D. "
+- authors: "C. Qin, S. Wang, C. Chen, H. Qiu, W. Bai, and D. Rueckert."
   code: "https://github.com/cq615/Biomechanics-informed-motion-tracking"
   img: "qin_2020_biomecha_tracking.png"
   collection: "conferences"
@@ -112,7 +110,7 @@
   url: "https://link.springer.com/chapter/10.1007/978-3-030-59716-0_29"
 
 
-- authors: "Qin, C., Bai, W., Schlemper, J., Petersen, S. E., Piechnik, S. K., Neubauer, S., & Rueckert, D."
+- authors: "C. Qin, W. Bai, J. Schlemper, S. E. Petersen, S. K. Piechnik, S. Neubauer, and D. Rueckert"
   code: "https://github.com/cq615/Biomechanics-informed-motion-tracking"
   img: "qin_2018_motion_seg.png"
   collection: "conferences"
@@ -184,7 +182,42 @@
     \ SASHIMI 2016"
   "url": "http://www.cistib.org/sashimi/"
   "venue": "SASHIMI 2016, Held in Conjunction with MICCAI 2016, Athens, Greece"
+
 ## Journals.
+
+- "authors": "C. Wang, G. Yang, G. Papanastasiou, S. A. Tsaftaris, D. E. Newby, C. Gray, G. Macnaught, T. J. MacGillivray"
+  "code": null
+  "collection": "journals"
+  "img": null
+  "edition": "vol 67, 2021, pp. 147-160,"
+  "homepage": null
+  "journal": "Information Fusion"
+  "other": null
+  "pdf": null
+  "preprint": "http://repository.essex.ac.uk/28936/"
+  "project": null
+  "published": 2020-10-23
+  "text": "https://www.sciencedirect.com/science/article/pii/S1566253520303845"
+  "title": "DiCyc: GAN-based deformation invariant cross-domain information fusion for medical image synthesis"
+  "url": "https://www.sciencedirect.com/science/article/pii/S1566253520303845"
+
+- "authors": "A. S. Panayides, A. Amini, N. D. Filipovic, A. Sharma, S.A. Tsaftaris, A. Young, D. Foran, N. Do, S. Golemati, T. Kurc, K. Huang, K. S. Nikita, B.P. Veasey, M. Zervakis, J. H. Saltz, C. S. Pattichis"
+  "code": null
+  "collection": "journals"
+  "img": null
+  "edition": "vol. 24, no. 7, 1837-1857, 2020"
+  "homepage": null
+  "journal": "IEEE Journal of Biomedical and Health Informatics"
+  "other": null
+  "pdf": null
+  "preprint": null
+  "project": null
+  "published": 2020-05-29
+  "text": "https://ieeexplore.ieee.org/abstract/document/9103969"
+  "title": "AI in Medical Imaging Informatics: Current Challenges and Future Directions"
+  "url": "https://ieeexplore.ieee.org/abstract/document/9103969"
+
+
 - "authors": "G. Valvano, A. Leo, S.A. Tsaftaris"
   "code": "https://vios-s.github.io/multiscale-adversarial-attention-gates/"
   "collection": "journals"
@@ -229,8 +262,10 @@
   "text": "https://doi.org/10.3389/fpls.2020.00141"
   "title": "Doing More with Less: A Multitask Deep Learning Approach in Plant Phenotyping"
   "url": null
+
 - "authors": "H. Chen, M.V. Giuffrida, P. Doerner, S.A. Tsaftaris"
-  "code": null
+  "code": "https://github.com/Hhhhhhao/Thin-Structure-Inpainting"
+  "img": "chen_2019_inpainting.png"
   "collection": "journals"
   "edition": "submitted"
   "homepage": false
@@ -257,21 +292,23 @@
   "text": null
   "title": "Learning to synthesise the ageing brain without longitudinal data"
   "url": null
+
 - "authors": "A. Chartsias, G. Papanastasiou, C. Wang, S. Semple, D. Newby, R. Dharmakumar,\
     \ S.A. Tsaftaris"
   "code": "https://github.com/vios-s/multimodal_segmentation"
   "collection": "journals"
-  "edition": "submitted"
+  "edition": "Volume: 40, Issue: 3, March 2021"
   "homepage": false
   "img": "chartsias_2019_journal.png"
-  "journal": "TBA"
+  "journal": "IEEE Transactions on Medical Imaging"
   "other": null
   "pdf": null
-  "preprint": "https://arxiv.org/pdf/1911.04417.pdf"
-  "published": 2019-11-12
-  "text": null
+  "preprint": "https://arxiv.org/abs/1911.04417"
+  "published": 2020-09-06
+  "text": "https://ieeexplore.ieee.org/document/9250615"
   "title": "Disentangle, align and fuse for multimodal and zero-shot image segmentation"
   "url": null
+
 - "authors": "V. Giuffrida, S.A. Tsaftaris"
   "code": "https://bitbucket.org/tuttoweb/rotinvrbm/src/master/"
   "collection": "journals"
