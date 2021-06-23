@@ -65,12 +65,12 @@ members:
     url: /team/giuffrida
 - title: Post-doctoral Researchers
   children:
-  - title: Marija Jegorova
-    url: /team/jegorova
   - title: Nikolaos Dionelis
     url: /team/dionelis
   - title: Spyridon Thermos
     url: /team/thermos
+  - title: John Hartley
+    url: /team/hartley
 - title: PhD Students
   children:
   - title: Andrei Dobrescu

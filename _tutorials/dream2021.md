@@ -11,6 +11,10 @@ A MICCAI 2021 (Strasbourg) Tutorial by Sotirios A. Tsaftaris, Alison Q. O'Neil, 
 
 ![DREAM 2021]({{ base_path }}/assets/images/dream2021grad.png)
 
+## Date {#data}
+
+MICCAI day 1 - September 27, 2021 - 14h-18h [UTC time]
+
 ## Outline {#outline}
 
 The deep learning (DL) paradigm has been widely adopted in almost all domains of image analysis as an alternative to traditional handcrafted techniques. However, the majority of deep neural networks rely on the existence of significant amounts of training data that are not always readily available. Medical image analysis is a characteristic example of a field where the difficulty and expense of acquiring and annotating data prohibit the true exploitation of the deep learning potential.
