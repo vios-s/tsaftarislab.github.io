@@ -7,6 +7,11 @@ sidebar:
   nav: "dream"
 ---
 
+img[alt=web_image_dream] {
+   width:500;
+   float: center;
+}
+
 A MICCAI 2021 (Strasbourg) Tutorial by Sotirios A. Tsaftaris, Alison Q. O'Neil, Spyridon Thermos, Xiao Liu and Pedro Sanchez .
 
 ![DREAM 2021]({{ base_path }}/assets/images/dream2021grad.png)
@@ -101,7 +106,7 @@ this. Moreover, it has been shown that disentangled representations are privacy
 preserving; can offer explainability and interpretability; and can generalise to
 new tasks (meta-learning) and to new data sources with less effort.
 
-![disentangled_example]({{ base_path }}/assets/images/disentangled_example.png)
+<img style="display: block; margin-left: auto; margin-right: auto; width: 70%;" src="{{ base_path }}/assets/images/disentangled_example.svg">
 
 We should (re)appreciate that machine learning (ML) is not simply a functional
 mapping between input and output, but one that maps input data to manifolds and
@@ -121,9 +126,18 @@ science, had a description of disentangled representation learning in May 2019
 Humanlike](https://www.scientificamerican.com/article/machine-learning-gets-a-bit-more-humanlike/)).
 Disentangled learning appeared in MICCAI 5 years ago in a couple of papers, but
 now has tripled in appearance. Thus, it is timely to formally introduce this
-important area of research in our community.
+important area of research in our community. A google scholar search outputs the following number of disentanglement publications per year:
 
-<img style="float: center;" width="500" src="{{ base_path }}/assets/images/scholar_trend.png">
+
+<img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="{{ base_path }}/assets/images/scholar_trend_2021.png">
+
+Query: "learning AND (disentangled OR disentanglement) source:Arxiv"
+
+## Applications {#applications}
+
+But is disentanglement relevant to real-life applications? We will answer this question reporting details of exemplar methods that exploit disentanglement to improve challenging tasks in computer vision and medical image analysis. 
+
+<img style="display: block; margin-left: auto; margin-right: auto; width: 80%;" src="{{ base_path }}/assets/images/disentanglement_applications.svg">
 
 ## Teachers {#teachers}
 

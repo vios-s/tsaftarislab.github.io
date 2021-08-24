@@ -47,6 +47,7 @@ MSc or undergraduate student, drop Sotos an email to arrange a chat.
 
 ## Alumni {#alumni}
 
+* Dr Marija Jegorova (PostDoc) - Posdoctoral Researcher, Facebook AI Research, United Kingdom
 * Dr Haochuan Jiang (PostDoc) - Lecturer, Xi'an Jiaotong-Liverpool University, China
 * Dr Agisilaos Chartsias (PhD) - Enterpreneur, United Kingdom
 * Mr [Hao Chen](https://www.linkedin.com/in/haochen97) (BEng) - MSc Student,
