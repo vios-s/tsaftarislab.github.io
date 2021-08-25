@@ -7,11 +7,6 @@ sidebar:
   nav: "dream"
 ---
 
-img[alt=web_image_dream] {
-   width:500;
-   float: center;
-}
-
 A MICCAI 2021 (Strasbourg) Tutorial by Sotirios A. Tsaftaris, Alison Q. O'Neil, Spyridon Thermos, Xiao Liu and Pedro Sanchez .
 
 ![DREAM 2021]({{ base_path }}/assets/images/dream2021grad.png)
