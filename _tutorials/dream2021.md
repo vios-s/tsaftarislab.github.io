@@ -15,6 +15,19 @@ A MICCAI 2021 (Strasbourg) Tutorial by Sotirios A. Tsaftaris, Alison Q. O'Neil, 
 
 MICCAI day 1 - September 27, 2021 - 14h-18h [UTC time]
 
+## Accompanying Material {#material}
+
+The contents of this tutorial were compiled into the [paper](https://arxiv.org/abs/2108.12043) bellow. It is a initial draft and all feedback is welcome. Feel free to send an email to the authors with suggestions. We've also created a [github repository](https://github.com/vios-s/disentanglement_tutorial) that provides links to code of important works in the area. 
+
+ ```
+@misc{liu2021tutorial,
+  author       = "Xiao Liu and Pedro Sanchez and Spyridon Thermos and Alison O'Neil and Sotirios A. Tsaftaris",
+  title        = "A tutorial on learning disentangled representations in the imaging domain",
+  year         = "2021"
+}
+```
+  
+
 ## Outline {#outline}
 
 The deep learning (DL) paradigm has been widely adopted in almost all domains of image analysis as an alternative to traditional handcrafted techniques. However, the majority of deep neural networks rely on the existence of significant amounts of training data that are not always readily available. Medical image analysis is a characteristic example of a field where the difficulty and expense of acquiring and annotating data prohibit the true exploitation of the deep learning potential.
