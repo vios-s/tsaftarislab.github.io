@@ -17,7 +17,8 @@ MICCAI day 1 - September 27, 2021 - 14h-18h [UTC time]
 
 ## Accompanying Material {#material}
 
-The contents of this tutorial have been compiled into a [paper](https://arxiv.org/abs/2108.12043). It is an initial draft and all feedback is welcome. Feel free to send an email to the authors with suggestions. We have also created a [github repository](https://github.com/vios-s/disentanglement_tutorial) that summarizes the codebases of important works in the area.
+- The contents of this tutorial have been compiled into a [paper](https://arxiv.org/abs/2108.12043) (initial draft, all feedback is welcome) 
+- A [github repository](https://github.com/vios-s/disentanglement_tutorial) summarizes the codebases of several important works in the area
 
  ```
 @misc{liu2021tutorial,
