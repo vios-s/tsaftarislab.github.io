@@ -7,7 +7,7 @@ sidebar:
   nav: "dream"
 ---
 
-A MICCAI 2021 (Strasbourg) Tutorial by Sotirios A. Tsaftaris, Alison Q. O'Neil, Spyridon Thermos, Xiao Liu and Pedro Sanchez .
+A **MICCAI 2021** (Virtual) Tutorial by Sotirios A. Tsaftaris, Alison Q. O'Neil, Spyridon Thermos, Xiao Liu and Pedro Sanchez.
 
 ![DREAM 2021]({{ base_path }}/assets/images/dream2021grad.png)
 
@@ -17,7 +17,7 @@ MICCAI day 1 - September 27, 2021 - 14h-18h [UTC time]
 
 ## Accompanying Material {#material}
 
-The contents of this tutorial were compiled into a [paper](https://arxiv.org/abs/2108.12043). It is a initial draft and all feedback is welcome. Feel free to send an email to the authors with suggestions. We've also created a [github repository](https://github.com/vios-s/disentanglement_tutorial) that provides links to code of important works in the area.
+The contents of this tutorial have been compiled into a [paper](https://arxiv.org/abs/2108.12043). It is an initial draft and all feedback is welcome. Feel free to send an email to the authors with suggestions. We have also created a [github repository](https://github.com/vios-s/disentanglement_tutorial) that summarizes the codebases of important works in the area.
 
  ```
 @misc{liu2021tutorial,
@@ -35,7 +35,7 @@ The deep learning (DL) paradigm has been widely adopted in almost all domains of
 Disentangled representation learning has been proposed as an approach to encode generic and explainable data representations through separating out underlying explanatory factors. Interestingly, this can be achieved with limited or no annotations. A general and explainable representation can be readily fine-tuned for new target tasks using modest amounts of data. This alleviation of the data and annotation requirements offers tantalising prospects for tractable and affordable healthcare, while the explainability of disentangled representations increase their suitability for real-world human-controlled applications. 
 
 In this **half-day** tutorial, a satellite event in conjunction with [MICCAI
-2021](https://miccai2021.org/) (Strasbourg), we present an overview of representation learning, focusing on disentangled representation learning and criteria, as well as on the connection between disentangled representations and causal mechanisms. Finally, we discuss about possible applications in the medical imaging field and existing open-ended challenges. This tutorial is a **follow-up** of the [DREAM @ MICCAI 2020](/tutorials/dream2020) which was extremely well received and attended by around 200 members of the MICCAI community.
+2021](https://miccai2021.org/) (Virtual), we present an overview of representation learning, focusing on disentangled representation learning and criteria, as well as on the connection between disentangled representations and causal mechanisms. Finally, we discuss about possible applications in the medical imaging field and existing open-ended challenges. This tutorial is a **follow-up** of the [DREAM @ MICCAI 2020](/tutorials/dream2020) which was extremely well received and attended by around 200 members of the MICCAI community.
 
 ## Program {#program}
 
@@ -166,7 +166,7 @@ processing, and electronic health record (EHR) data. Alison will bring an
 industry perspective to the tutorial and also talk about disentanglement in
 other data forms (e.g. text).
 
-[Dr. Spyridon Thermos (Spiros)](/team/thermos) is a postdoc at UoE. Spiros’ expertise lies in disentangled representation learning, disentanglement evaluation and conditional image synthesis. He will present metrics on disentanglement and how to measure the entanglement between tensors and latent representations. 
+[Dr. Spyridon Thermos (Spiros)](/team/thermos) is a postdoc at UoE. Spiros expertise lies in disentangled representation learning, disentanglement evaluation and conditional image synthesis. He will present metrics on disentanglement and how to measure the entanglement between tensors and latent representations. 
 
 [Mr. Xiao Liu ](/team/liu)is a 2nd year PhD student at UoE. His research interests include cardiac image segmentation, disentangled representation learning and domain generalization. He will present the role of decoders in learning representations and how disentanglement can help with domain adaptation and generalisation.
 
