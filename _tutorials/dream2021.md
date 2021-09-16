@@ -39,8 +39,7 @@ In this **half-day** tutorial, a satellite event in conjunction with [MICCAI
 
 ## Program {#program}
 
-
-TBC
+![DREAM 2021 SCHEDULE]({{ base_path }}/assets/images/schedule2021.png)
 
 <!---
 **Virtual Format**: On the MICCAI platform we have uploaded several videos that
