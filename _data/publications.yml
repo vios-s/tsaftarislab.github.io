@@ -14,21 +14,23 @@
   text: "https://www.frontiersin.org/articles/10.3389/fcvm.2020.00025/full"
   title: "Deep Learning for Cardiac Image Segmentation: A Review"
   url: null
+
 - authors: "C. Qin, J. Duan, K. Hammernik, J. Schlemper, T. Küstner, R. Botnar, C. Prieto, A. N. Price, J. V. Hajnal, and D. Rueckert"
   code: "https://github.com/cq615/kt-Dynamic-MRI-Reconstruction"
   img: "qin_2020_MRI_rec.png"
   collection: "journals"
   edition: "submitted"
   homepage: null
-  journal: "TBA"
+  journal: "Magnetic Resonance in Medicine"
   preprint: "https://arxiv.org/abs/2012.11974"
   other: null
   pdf: null
   preprint: null
-  published: 2020-12-22
-  text: ""
+  published: 2021-06-13
+  text: "https://doi.org/10.1002/mrm.28917"
   title: "Complementary Time-Frequency Domain Networks for Dynamic Parallel MR Image Reconstruction"
   url: null
+
 - authors: "C. Qin, J. Schlemper, J. Caballero, A.N. Price, J.V. Hajnal, and D. Rueckert"
   code: "https://github.com/cq615/Deep-MRI-Reconstruction"
   collection: "journals"
@@ -109,7 +111,6 @@
   title: "Biomechanics-Informed Neural Networks for Myocardial Motion Tracking in MRI"
   url: "https://link.springer.com/chapter/10.1007/978-3-030-59716-0_29"
 
-
 - authors: "C. Qin, W. Bai, J. Schlemper, S. E. Petersen, S. K. Piechnik, S. Neubauer, and D. Rueckert"
   code: "https://github.com/cq615/Biomechanics-informed-motion-tracking"
   img: "qin_2018_motion_seg.png"
@@ -125,9 +126,6 @@
   text: ""
   title: "Joint learning of motion estimation and segmentation for cardiac MR image sequences."
   url: "https://link.springer.com/chapter/10.1007/978-3-030-00934-2_53"
-
-
-
 
 - "authors": "C. Bowles, C. Qin, C. Ledig, R. Guerrero, R. Gunn, A. Hammers, E. Sakka, D.A. Dickie,\
     \ M. Valdés Hernández, N. Royle, J. Wardlaw, H. Rhodius-Meester, B. Tijms, A.W. Lemstra,\
@@ -158,8 +156,43 @@
   "title": "A Semi-supervised Large Margin Algorithm for White Matter Hyperintensity Segmentation"
   "url": null
   "workshop": "MLMI: Machine Learning in Medical Imaging"
+
 # Sotos.
 ## Books.
+
+- "authors": "I. Oksuz, A. Mukhopadhyay, R. Dharmakumar, and S. A. Tsaftaris"
+  "collection": "books"
+  "edition": "Diabetes and Cardiovascular Disease, pp. 185–225."
+  "other": null
+  "published": 2021-09-28
+  "series": "Lecture Notes in Computer Science"
+  "text": "https://doi.org/10.1016/B978-0-12-817428-9.00007-3"
+  "title": "Data-driven feature learning for myocardial registration and segmentation"
+  "url": null
+  "venue": "Elsevier"
+
+- "authors": "R. Dharmakumar, S.A. Tsaftaris, H.-J. Yang, D. Li"
+  "collection": "books"
+  "edition": "Cardiovascular Magnetic Resonance (Third Edition), pp. Pages 84-96.e3"
+  "other": null
+  "published": 2019-09-28
+  "series": "Lecture Notes in Computer Science"
+  "text": "https://doi.org/10.1016/B978-0-323-41561-3.00009-4"
+  "title": "Cardiovascular Magnetic Resonance Assessment of Myocardial Oxygenation"
+  "url": null
+  "venue": "Elsevier"
+
+- "authors": "H. Scharr, T. Pridmore, S.A. Tsaftaris"
+  "collection": "books"
+  "edition": "pp. 2020-2021"
+  "other": null
+  "published": 2017-10-10
+  "series": "Introduction to the CVPPP 2017 Workshop Papers"
+  "text": "http://openaccess.thecvf.com/content_ICCV_2017_workshops/w29/html/Scharr_Editorial_Computer_Vision_ICCV_2017_paper.html"
+  "title": "Computer Vision Problems in Plant Phenotyping, CVPPP 2017"
+  "url": null
+  "venue": "The IEEE International Conference on Computer Vision (ICCV)"
+
 - "authors": "S.A. Tsaftaris, A. Gooya, A Frangi, J. Prince"
   "collection": "books"
   "edition": "vol. 10557"
@@ -171,6 +204,7 @@
     \ SASHIMI 2017"
   "url": "http://www.cistib.org/sashimi/"
   "venue": "SASHIMI 2017, Held in Conjunction with MICCAI 2017, Quebec City"
+
 - "authors": "S.A. Tsaftaris, A. Gooya, A Frangi, J. Prince"
   "collection": "books"
   "edition": "vol. 9968"
@@ -184,6 +218,90 @@
   "venue": "SASHIMI 2016, Held in Conjunction with MICCAI 2016, Athens, Greece"
 
 ## Journals.
+
+
+- "authors": "X. Liu, P. Sanchez, S. Thermos, A.Q. O'Neil, S.A. Tsaftaris"
+  "code": null
+  "collection": "journals"
+  "img": null
+  "edition": "in progress"
+  "homepage": null
+  "journal": null
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2108.12043"
+  "project": null
+  "published": 2021-09-16
+  "text": null 
+  "title": "A Tutorial on Learning Disentangled Representations in the Imaging Domain"
+  "url": "https://github.com/vios-s/disentanglement_tutorial"
+
+
+- "authors": "M. Jegorova, C. Kaul, C. Mayor, A.Q. O'Neil, A. Weir, R. Murray-Smith, S.A. Tsaftaris"
+  "code": null
+  "collection": "journals"
+  "img": null
+  "edition": "submitted"
+  "homepage": null
+  "journal": null
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2107.01614"
+  "project": null
+  "published": 2021-07-04
+  "text": null 
+  "title": "Survey: Leakage and Privacy at Inference Time"
+  "url": null
+
+
+- "authors": "G. Valvano, A. Leo, S.A. Tsaftaris"
+  "code": null
+  "collection": "journals"
+  "img": null
+  "edition": "submitted"
+  "homepage": null
+  "journal": null
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2108.11926"
+  "project": null
+  "published": 2021-08-26
+  "text": null 
+  "title": "Re-using Adversarial Mask Discriminators for Test-time Training under Distribution Shifts"
+  "url": null
+
+- "authors": "A. Reinke et al"
+  "code": null
+  "collection": "journals"
+  "img": null
+  "edition": "in progress"
+  "homepage": null
+  "journal": null
+  "other": "Audience Award at MIDL 2021 https://2021.midl.io/awards.html"
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2104.05642"
+  "project": null
+  "published": 2021-08-26
+  "text": null 
+  "title": "Common Limitations of Image Processing Metrics: A Picture Story"
+  "url": null
+
+- "authors": "V. M. Campello et al."
+  "code": null
+  "collection": "journals"
+  "img": null
+  "edition": "in progress"
+  "homepage": null
+  "journal": "IEEE Transactions on Medical Imaging"
+  "other": null
+  "pdf": null
+  "preprint": null
+  "project": null
+  "published": 2021-06-17
+  "text": "https://doi.org/10.1109/TMI.2021.3090082" 
+  "title": "Multi-Centre, Multi-Vendor and Multi-Disease Cardiac Segmentation: The M&Ms Challenge"
+  "url": null
+
 
 - "authors": "C. Wang, G. Yang, G. Papanastasiou, S. A. Tsaftaris, D. E. Newby, C. Gray, G. Macnaught, T. J. MacGillivray"
   "code": null
@@ -233,6 +351,7 @@
   "text": null
   "title": "Learning to Segment from Scribbles using Multi-scale Adversarial Attention Gates"
   "url": "https://ieeexplore.ieee.org/document/9389796"
+
 - "authors": "T. Xia, A. Chartsias, S.A. Tsaftaris"
   "code": "https://github.com/vios-s/pseudo-healthy-synthesis"
   "collection": "journals"
@@ -1159,7 +1278,89 @@
   "published": 2003-11-30
   "publisher": "Springer US"
   "text": "https://link.springer.com/chapter/10.1007/0-306-48718-7_4"
+
 ## Conferences.
+
+
+- "authors": "X. Liu, S. Thermos, A. O'Neil, S.A. Tsaftaris"
+  "code": "https://github.com/vios-s/DGNet"
+  "img" : "liu_2021_metalearning.png"
+  "collection": "conferences"
+  "conference": "MICCAI 2021"
+  "homepage": true
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2106.13292"
+  "project": "raeng"
+  "published": 2021-10-01
+  "text": null
+  "title": "Semi-supervised Meta-learning with Disentanglement for Domain-generalised Medical Image Segmentation"
+  "url": null
+  "workshop": null
+
+- "authors": "S. Thermos, X. Liu, A. O'Neil, S.A. Tsaftaris"
+  "code": "https://github.com/spthermo/DAA-GAN"
+  "img": "thermos_2021_daa_gan.png"
+  "collection": "conferences"
+  "conference": "MICCAI 2021"
+  "homepage": true
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2107.01748"
+  "project": "raeng"
+  "published": 2021-10-01
+  "text": null
+  "title": "Controllable cardiac synthesis via disentangled anatomy arithmetic"
+  "url": null
+  "workshop": null
+
+- "authors": "B. Nichyporuk, J. Cardinell, J. Szeto, R. Mehta, S.A. Tsaftaris, D.L. Arnold, T. Arbel"
+  "code": null
+  "collection": "conferences"
+  "conference": "MICCAI workshop, 2021"
+  "homepage": true
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2108.00713"
+  "project": null
+  "published": 2021-09-30
+  "text": null
+  "title": "Cohort Bias Adaptation in Aggregated Datasets for Lesion Segmentation"
+  "url": null
+  "workshop": "DART"
+
+- "authors": "G. Valvano, A. Leo, S.A. Tsaftaris"
+  "code": "https://vios-s.github.io/adversarial-test-time-training/"
+  "img": "valvano_2021_stop.png"
+  "collection": "conferences"
+  "conference": "MICCAI workshop, 2021"
+  "homepage": true
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2108.12280"
+  "project": null
+  "published": 2021-09-30
+  "text": null
+  "title": "Stop Throwing Away Discriminators! Re-using Adversaries for Test-Time Training"
+  "url": null
+  "workshop": "DART"
+
+- "authors": "G. Valvano, A. Leo, S.A. Tsaftaris"
+  "code": "https://vios-s.github.io/multiscale-pyag"
+  "img": "valvano_2021_selfsupervision.png"
+  "collection": "conferences"
+  "conference": "MICCAI workshop, 2021"
+  "homepage": true
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2108.11900"
+  "project": null
+  "published": 2021-09-30
+  "text": null
+  "title": "Self-supervised Multi-scale Consistency for Weakly Supervised Segmentation Learning"
+  "url": null
+  "workshop": "DART"
+
 - "authors": "X. Liu, S.A. Tsaftaris"
   "code": null
   "collection": "conferences"
@@ -1174,6 +1375,7 @@
   "title": "Have you forgotten? A method to assess if machine learning models have forgotten data"
   "url": null
   "workshop": null
+
 - "authors": "X. Liu, S. Thermos, G. Valvano, A. Chartsias, A.Q. O'Neil, S.A. Tsaftaris"
   "code": "https://github.com/vios-s/CSDisentanglement_Metrics_Library"
   "collection": "conferences"
