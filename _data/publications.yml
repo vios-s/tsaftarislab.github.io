@@ -19,7 +19,7 @@
   code: "https://github.com/cq615/kt-Dynamic-MRI-Reconstruction"
   img: "qin_2020_MRI_rec.png"
   collection: "journals"
-  edition: "submitted"
+  edition: "July 2021"
   homepage: null
   journal: "Magnetic Resonance in Medicine"
   preprint: "https://arxiv.org/abs/2012.11974"
@@ -224,7 +224,7 @@
   "code": null
   "collection": "journals"
   "img": null
-  "edition": "in progress"
+  "edition": "2021 , in progress"
   "homepage": null
   "journal": null
   "other": null
@@ -241,7 +241,7 @@
   "code": null
   "collection": "journals"
   "img": null
-  "edition": "submitted"
+  "edition": "2021 , submitted"
   "homepage": null
   "journal": null
   "other": null
@@ -258,7 +258,7 @@
   "code": null
   "collection": "journals"
   "img": null
-  "edition": "submitted"
+  "edition": "2021 , submitted"
   "homepage": null
   "journal": null
   "other": null
@@ -274,7 +274,7 @@
   "code": null
   "collection": "journals"
   "img": null
-  "edition": "in progress"
+  "edition": "2021 , in progress"
   "homepage": null
   "journal": null
   "other": "Audience Award at MIDL 2021 https://2021.midl.io/awards.html"
@@ -290,7 +290,7 @@
   "code": null
   "collection": "journals"
   "img": null
-  "edition": "in progress"
+  "edition": "2021 , in progress"
   "homepage": null
   "journal": "IEEE Transactions on Medical Imaging"
   "other": null
@@ -340,7 +340,7 @@
   "code": "https://vios-s.github.io/multiscale-adversarial-attention-gates/"
   "collection": "journals"
   "img": "valvano_2021_TMI.png"
-  "edition": null
+  "edition": "vol. 40, no. 8, pp. 1990-2001, Aug. 2021"
   "homepage": null
   "journal": "IEEE Transactions on Medical Imaging"
   "other": null
@@ -400,10 +400,10 @@
 - "authors": "T. Xia, A. Chartsias,  C. Wang,  S.A. Tsaftaris"
   "code": "https://github.com/vios-s/BrainAgeing"
   "collection": "journals"
-  "edition": "submitted"
+  "edition": "vol. 73, 102169, October 2021"
   "homepage": false
   "img": "xia_2019_journal.png"
-  "journal": "TBA"
+  "journal": "Medical Image Analysis"
   "other": null
   "pdf": null
   "preprint": "https://arxiv.org/abs/1912.02620"
@@ -478,9 +478,9 @@
     \ P. Doerner"
   "code": null
   "collection": "journals"
-  "edition": "submitted"
+  "edition": "vol. 103, no. 6, Sept. 2020"
   "homepage": false
-  "journal": "TBA"
+  "journal": "The Plant Journal"
   "other": null
   "pdf": null
   "preprint": "https://www.biorxiv.org/content/10.1101/573139v1"
