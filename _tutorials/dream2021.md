@@ -42,6 +42,8 @@ In this **half-day** tutorial, a satellite event in conjunction with [MICCAI
 
 ![DREAM 2021 SCHEDULE]({{ base_path }}/assets/images/schedule2021.png)
 
+![DREAM 2021 PANEL]({{ base_path }}/assets/images/DREAM_Tutorial_2021_Panel_ST.png)
+
 <!---
 **Virtual Format**: On the MICCAI platform we have uploaded several videos that
 cover the material of the tutorial. Please send us your questions before the
