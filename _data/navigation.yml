@@ -1,8 +1,16 @@
+join_us:
+  - title: Join us
+    children:
+      - title: Current Opportunities
+        url: /join_us#opportunities
+      - title: General Information
+        url: /join_us#information
+      - title: Email
+        url: /join_us#email
+
 contact:
   - title: Contact
     children:
-      - title: Current Opportunities
-        url: /contact#opportunities
       - title: Contact
         url: /contact#contact
       - title: Postal Address
@@ -48,6 +56,8 @@ main:
     url: /publications/
   - title: Code and Data
     url: /code_and_data/
+  - title: Join us
+    url: /join_us/
   - title: Contact
     url: /contact/
   - title: MICCAI DREAM 2021
@@ -79,6 +89,8 @@ members:
     url: /team/jacenkow
   - title: Pedro Sanchez
     url: /team/sanchez
+  - title: Filippo Corponi
+    url: /team/filippo
   - title: Phivos Sofokleous
     url: /team/sofokleous
   - title: Tian Xia

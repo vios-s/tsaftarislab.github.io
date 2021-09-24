@@ -29,12 +29,19 @@ training data and is largely seen as a *black box*. In contrast we will:
 
 ## News
 
+* **Tutorial:** DREAM: Disentangled Representations for Efficient Algorithms for
+  Medical data, [MICCAI Tutorial](/tutorials/dream2021), MICCAI, September 2021. 
+  This year, the tutorial has an associated [paper](https://arxiv.org/abs/2108.12043).
+
 * **Keynote:** Doing More with Less by Disentangled Data Representations, Keynote
-   [DART](https://sites.google.com/view/dart2020/keynote-session), MICCAI,
-   October 2020.
+   [DART](https://sites.google.com/view/dart2021), MICCAI, September 2021.
 
 * **Tutorial:** DREAM: Disentangled Representations for Efficient Algorithms for
   Medical data, [MICCAI Tutorial](/tutorials/dream2020), MICCAI, October 2020.
+
+* **Keynote:** Doing More with Less by Disentangled Data Representations, Keynote
+   [DART](https://sites.google.com/view/dart2020/keynote-session), MICCAI,
+   October 2020.
 
 * **Event:** Sotos invited to present at [The Global AI
   Summit](https://www.theglobalaisummit.com/), organized by the Saudi Data and
@@ -85,6 +92,7 @@ training data and is largely seen as a *black box*. In contrast we will:
 * [Mr Agisilaos Chartsias](https://www.eng.ed.ac.uk/about/people/mr-agisilaos-chartsias) The University of Edinburgh (PhD Student)
 * [Mr Grzegorz Jacenków](https://www.eng.ed.ac.uk/about/people/mr-grzegorz-andrzej-jacenkow) The University of Edinburgh (PhD Student)
 * [Mr Xiao Liu](https://www.eng.ed.ac.uk/about/people/mr-xiao-liu) The University of Edinburgh (PhD Student)
+* [Mr Pedro Sanchez](https://www.eng.ed.ac.uk/about/people/mr-pedro-paulo-goncalves-sanchez) The University of Edinburgh (PhD Student)
 * [Dr Giorgos Papanastasiou](https://www.essex.ac.uk/people/papan14104/giorgos-papanastasiou) The University of Essex (Clinical Collaborator)
 * [Dr Ken Sutherland](https://www.linkedin.com/in/kensutherland/) Canon Research Europe Ltd. (President, Industry Partner)
 * [Dr Andy Smout](https://www.linkedin.com/in/andy-smout-4021ab4//) Canon Research Europe Ltd. (Vice-President, Industry Partner)
