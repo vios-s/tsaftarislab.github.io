@@ -4,5 +4,5 @@ date: 2021-09-27
 permalink: /posts/2021/09/hire
 ---
 
-We are looking for PostDocs and PhD students, see [here](/join_us/).
+We are looking for PostDocs and PhD students, see [here](/join_us/). An opening on Causal ML in healthcare is closing Nov 26, 2021.
 
