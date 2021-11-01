@@ -13,10 +13,10 @@ twitter: "https://twitter.com/stsaftaris"
 collection: team
 permalink: /team/tsaftaris
 ---
-Sotirios A. Tsaftaris is currently a Chair (Full Professor) in Machine Learning
-and Computer Vision at the University of Edinburgh. He also holds the Canon
-Medical/Royal Academy of Engineering Research Chair in Healthcare AI. He is also
-a Turing Fellow with the Alan Turing Institute.
+Sotirios A. Tsaftaris is currently Chair (Full Professor) in Machine Learning
+and Computer Vision at the University of Edinburgh. He also holds the [Canon
+Medical/Royal Academy of Engineering Research Chair in Healthcare AI](https://www.raeng.org.uk/grants-prizes/grants/support-for-research/research-chairs/current-and-recent-awards). He is also
+a Turing Fellow with the Alan Turing Institute and an ELLIS Fellow of the [European Lab for Learning and Intelligent Systems (ELLIS)](https://ellis.eu) of [Edinburgh's ELLIS Unit](https://web.inf.ed.ac.uk/ellis-edinburgh).
 
 He received the M.Sc. and Ph.D degrees in Electrical and Computer Engineering
 from [Northwestern University](http://www.northwestern.edu/), Evanston, IL, in
@@ -25,14 +25,14 @@ Engineering from the [Aristotle University of
 Thessaloniki](http://ee.auth.gr/en), Thessaloniki, Greece, in 2000.
 
 Previously he was an Assistant Professor with [IMT Institute for Advanced
-Studies](http://prian.imtlucca.it/), Lucca, Italy and the Director of the
+Studies](http://imtlucca.it/), Lucca, Italy and the Director of the
 Pattern Recognition and Image Analysis Unit at IMT. Prior to that, he held a
 joint Research Assistant Professor appointment at Northwestern University with
 the [Departments of Electrical Engineering and Computer Science
 (EECS)](http://www.eecs.northwestern.edu/) and [Radiology Feinberg School of
 Medicine](http://www.radiology.northwestern.edu/), working closely with
 Professors [Katsaggelos](http://ivpl.eecs.northwestern.edu/user/AKatsaggelos),
-[Dharmakumar](http://www.cedars-sinai.edu/Research-and-Education/Research-Labs/Dharmakumar-Lab/),
+[Dharmakumar](https://medicine.iu.edu/news/2021/08/Krannert-Cardiovascular-Research-Center-names-first-director),
 and
 [Li](http://www.cedars-sinai.edu/Research-and-Education/Research-Labs/Li-Lab/),
 respectively. He maintained an adjunct appointment with EECS (2011-2015), and an
@@ -42,23 +42,23 @@ directed by Prof. [Aggelos
 Katsaggelos](http://ivpl.eecs.northwestern.edu/user/AKatsaggelos).
 
 He has [published extensively]({{ base_path }}/publications/), particularly in
-interdisciplinary fields, with more than 140 journal and conference papers in
+interdisciplinary fields, with more than 180 journal and conference papers in
 his active record, with a variety of co-authors and collaborators.
 
 While he has served in many technical program committees of international
 conferences, and he actively reviews papers for several prestigious
-international journals, most notably he is an Associate Editor for the [IEEE
+international journals, most notably he currently is an Associate Editor (AE) for the [IEEE
 Transactions on Medical
-Imaging](http://https//ieee-tmi.org/editorial-board/associate-editors.asp) and
+Imaging](http://https//ieee-tmi.org/editorial-board/associate-editors.asp). He served as an AE for
 [IEEE Journal of Biomedical and Health
-Informatics](http://jbhi.embs.org/editorial-board/associate-editors/). He is
+Informatics (2011-2021)](http://jbhi.embs.org/editorial-board/associate-editors/) and Elsevier DSP (2014-2018). He was
 tutorial chair for ECCV 2020. He was Doctoral Symposium Chair for IEEE ICIP 2018
-(Athens). He has served as area chair for IEEE MICCAI 2018 (Granada), ICME 2018
+(Athens). He has served as area chair for CVPR 2021, MICCAI 2018 (Granada), ICME 2018
 (San Diego), ICCV 2017 (Venice), MMSP 2016 (Montreal), VCIP 2015 (Singapore). He
-has also co-organized workshops for ICCV (2017), ECCV (2014), BMVC (2015), and
-MICCAI (2016, 2017).
+has also co-organized workshops and tutorials for ECCV (2020, 2014), CVPR (2019), ICCV (2017), BMVC (2015), and
+MICCAI (2016, 2017, 2021).
 
-He is a member of the [IEEE](http://www.ieee.org/),
+He is a member of the [IEEE, Senior Member](http://www.ieee.org/),
 [ISMRM](http://www.ismrm.org/), and [SCMR](http://www.scmr.org/).
 
 His work has received several accolades, such as Best Paper Award (STACOM 2017),
@@ -68,7 +68,7 @@ in [journal
 covers](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=5753066) and
 attract significant media coverage.
 
-Prof. Tsaftaris is a [Murphy
+Prof. Tsaftaris is also a [Murphy
 Fellow](http://www.mccormick.northwestern.edu/students/graduate/fellowships-internships/)
 and a [Fellow of the Alexander S. Onassis](http://www.onassis.gr/en/) Public
 Beneﬁt Foundation.
