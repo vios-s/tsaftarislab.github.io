@@ -47,6 +47,7 @@ MSc or undergraduate student, drop Sotos an email to arrange a chat.
 
 ## Alumni {#alumni}
 
+* Phivos Sofokleous (PhD)
 * Dr Marija Jegorova (PostDoc) - Postdoctoral Researcher, Facebook AI Research, United Kingdom
 * Dr Haochuan Jiang (PostDoc) - Lecturer, Xi'an Jiaotong-Liverpool University, China
 * Dr Agisilaos Chartsias (PhD) - Deep Learning Resarch Scientist, Ultromics, United Kingdom
