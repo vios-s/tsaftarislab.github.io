@@ -47,8 +47,8 @@ MSc or undergraduate student, drop Sotos an email to arrange a chat.
 
 ## Alumni {#alumni}
 
-* Phivos Sofokleous (PhD)
-* Dr Marija Jegorova (PostDoc) - Postdoctoral Researcher, Facebook AI Research, United Kingdom
+* Mr Phivos Sofokleous (MSc)
+* Dr [Gabriele Valvano](https://www.linkedin.com/in/gabriele-valvano/?locale=en_US) (PhD) - Lead AI Specialist, Baker Hughes, Italy
 * Dr Haochuan Jiang (PostDoc) - Lecturer, Xi'an Jiaotong-Liverpool University, China
 * Dr Agisilaos Chartsias (PhD) - Deep Learning Resarch Scientist, Ultromics, United Kingdom
 * Mr [Hao Chen](https://www.linkedin.com/in/haochen97) (BEng) - MSc Student,
@@ -60,9 +60,9 @@ MSc or undergraduate student, drop Sotos an email to arrange a chat.
 * Dr [Massimo Minervini](https://www.linkedin.com/in/minervini/) (PhD/PostDoc) -
   CET Electronics, Italy
 * Dr [Cristian Rusu](https://www.ncirl.ie/About/A-Z-Staff-Directory/Staff/347)
-  (PostDoc) - Lecturer, National University of Ireland, Ireland
+  (PostDoc) - IIT
 * Dr [Marco Bevilacqua](https://www.linkedin.com/in/marcobevilacqua) (PostDoc) -
-  Cdiscount, France
+  Data Scientist, Cdiscount, France
 * Dr [Anirban Mukhopadhyay](https://sites.google.com/site/geometricanirban/)
   (PostDoc) - Head, Medical and Environmental Computing (MEC-Lab), TU Darmstadt,
   Germany
