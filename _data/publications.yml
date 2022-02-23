@@ -1125,6 +1125,38 @@
 ## Conferences.
 
 
+- "authors": "P. Sanchez, S.A. Tsaftaris"
+  "code": "https://github.com/vios-s/Diff-SCM"
+  "img" : "sanchez_2022_causal_diffusion.png"
+  "collection": "conferences"
+  "conference": "CLeaR 2022"
+  "homepage": true
+  "other": null
+  "pdf": null
+  "preprint": "http://arxiv.org/abs/2202.10166"
+  "project": "raeng"
+  "published": 2022-02-02
+  "text": null
+  "title": "Diffusion Causal Models for Counterfactual Estimation"
+  "url": null
+  "workshop": null
+
+  - "authors": "J. Hartley, S.A. Tsaftaris"
+  "code": "https://github.com/jasminium/unintended-memorisation"
+  "img" : "hartley_2022_measuring.png"
+  "collection": "conferences"
+  "conference": "2022"
+  "homepage": true
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2202.08099"
+  "project": null
+  "published": 2022-01-02
+  "text": null
+  "title": "Measuring Unintended Memorisation of Unique Private Features in Neural Networks."
+  "url": null
+  "workshop": null
+
 - "authors": "X. Liu, S. Thermos, A. O'Neil, S.A. Tsaftaris"
   "code": "https://github.com/vios-s/DGNet"
   "img" : "liu_2021_metalearning.png"
