@@ -63,6 +63,39 @@
 ## Journals.
 
 
+- "authors": "L. Li, et al"
+  "code": null
+  "collection": "journals"
+  "img": null
+  "edition": "2022 , submitted"
+  "homepage": null
+  "journal": null
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2201.03186"
+  "project": null
+  "published": 2022-01-15
+  "text": null 
+  "title": "MyoPS: A Benchmark of Myocardial Pathology Segmentation Combining Three-Sequence Cardiac Magnetic Resonance Images"
+  "url": null
+
+
+- "authors": "S. Pati, S. P. Thakur, M. Bhalerao, S. Thermos, U. Baid, K. Gotkowski, C. Gonzalez, O. Guley, I. Ethem Hamamci, S. Er, C. Grenko, B. Edwards, M. Sheller, J. Agraz, B. Baheti, V. Bashyam, P. Sharma, B. Haghighi, A. Gastounioti, M. Bergman, A. Mukhopadhyay, S. A. Tsaftaris, B. Menze, D. Kontos, C. Davatzikos, S. Bakas"
+  "code": null
+  "collection": "journals"
+  "img": null
+  "edition": "2021 , in progress"
+  "homepage": null
+  "journal": null
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2103.01006"
+  "project": null
+  "published": 2021-03-17
+  "text": null 
+  "title": "GaNDLF: A Generally Nuanced Deep Learning Framework for Scalable End-to-End Clinical Workflows in Medical Imaging"
+  "url": "https://github.com/CBICA/GaNDLF"
+
 - "authors": "X. Liu, P. Sanchez, S. Thermos, A.Q. O'Neil, S.A. Tsaftaris"
   "code": null
   "collection": "journals"
@@ -1124,6 +1157,23 @@
 
 ## Conferences.
 
+
+- "authors": "R. Su, X. Liu, S.A. Tsaftaris"
+  "code": null
+  "img" : null
+  "collection": "conferences"
+  "conference": "2022, submitted"
+  "homepage": true
+  "other": null
+  "pdf": null
+  "preprint": "https://openreview.net/forum?id=zee95vcdYbG"
+  "project": "raeng"
+  "published": 2022-02-09
+  "text": null
+  "title": "Why patient data cannot be easily forgotten?"
+  "url": null
+  "workshop": null
+  
 - "authors": "P. Sanchez, S.A. Tsaftaris"
   "code": "https://github.com/vios-s/Diff-SCM"
   "img" : "sanchez_2022_causal_diffusion.png"
@@ -1139,7 +1189,7 @@
   "title": "Diffusion Causal Models for Counterfactual Estimation"
   "url": null
   "workshop": null
-  
+
 - "authors": "J. Hartley, S.A. Tsaftaris"
   "code": "https://github.com/jasminium/unintended-memorisation"
   "img" : "hartley_2022_measuring.png"
