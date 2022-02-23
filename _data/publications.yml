@@ -1124,7 +1124,6 @@
 
 ## Conferences.
 
-
 - "authors": "P. Sanchez, S.A. Tsaftaris"
   "code": "https://github.com/vios-s/Diff-SCM"
   "img" : "sanchez_2022_causal_diffusion.png"
@@ -1140,8 +1139,8 @@
   "title": "Diffusion Causal Models for Counterfactual Estimation"
   "url": null
   "workshop": null
-
-  - "authors": "J. Hartley, S.A. Tsaftaris"
+  
+- "authors": "J. Hartley, S.A. Tsaftaris"
   "code": "https://github.com/jasminium/unintended-memorisation"
   "img" : "hartley_2022_measuring.png"
   "collection": "conferences"
