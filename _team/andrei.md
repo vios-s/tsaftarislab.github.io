@@ -10,7 +10,7 @@ linkedin: "https://www.linkedin.com/in/andreidobrescu/"
 collection: team
 permalink: /team/dobrescu
 ---
-Andrei Dobrescu is a third year PhD student supervised by Prof. Tsaftaris.
+Andrei Dobrescu is a PhD student supervised by Prof. Tsaftaris.
 The focus of his PhD is researching deep learning and computer vision algorithms
 for image-based plant phenotyping.
 

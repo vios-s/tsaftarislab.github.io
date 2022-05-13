@@ -7,7 +7,7 @@ profile: "tian.jpg"
 collection: team
 permalink: /team/xia
 ---
-Tian Xia is a third year PhD student at the Insititute for Digital
+Tian Xia is a PhD student at the Insititute for Digital
 Communications, School of Engineering, the University of Edinburgh. His
 principle supervisor is Prof. Sotirios A. Tsaftaris.
 

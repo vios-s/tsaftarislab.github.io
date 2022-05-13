@@ -77,8 +77,6 @@ members:
   children:
   - title: Nikolaos Dionelis
     url: /team/dionelis
-  - title: Spyridon Thermos
-    url: /team/thermos
   - title: John Hartley
     url: /team/hartley
 - title: PhD Students
@@ -89,18 +87,9 @@ members:
     url: /team/jacenkow
   - title: Pedro Sanchez
     url: /team/sanchez
-  - title: Filippo Corponi
-    url: /team/filippo
-  - title: Phivos Sofokleous
-    url: /team/sofokleous
-  - title: Tian Xia
-    url: /team/xia
   - title: Xiao Liu
     url: /team/liu
-- title: Visiting Students
-  children:
-  - title: Gabriele Valvano
-    url: /team/valvano
+
 news:
   - title: News
     children:

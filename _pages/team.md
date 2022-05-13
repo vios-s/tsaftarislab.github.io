@@ -47,11 +47,13 @@ MSc or undergraduate student, drop Sotos an email to arrange a chat.
 
 ## Alumni {#alumni}
 
+* Dr [Spyridon Thermos](https://spthermo.github.io/) (PostDoc) - Startup Founder
+* Dr [Tian Xia](https://www.linkedin.com/in/tian-xia-67b5b8109/) (PhD) - PostDoc at The University of Edinburgh, Scotland
 * Mr Phivos Sofokleous (MSc)
 * Dr [Gabriele Valvano](https://www.linkedin.com/in/gabriele-valvano/?locale=en_US) (PhD) - Lead AI Specialist, Baker Hughes, Italy
 * Dr Haochuan Jiang (PostDoc) - Lecturer, Xi'an Jiaotong-Liverpool University, China
 * Dr Agisilaos Chartsias (PhD) - Deep Learning Resarch Scientist, Ultromics, United Kingdom
-* Mr [Hao Chen](https://www.linkedin.com/in/haochen97) (BEng) - MSc Student,
+* Mr [Hao Chen](https://www.linkedin.com/in/haochen97) (BEng) - PhD Student,
   Carnegie Mellon University, United States
 * Dr [Thomas Joyce](https://biomed.ee.ethz.ch/institute/People/person-detail.MjU0MzMx.TGlzdC8yNTA2LC0xMTc1NTEzMTIz.html)
   (PostDoc) - PostDoc, ETH Zurich, Switzerland
