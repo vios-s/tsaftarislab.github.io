@@ -17,8 +17,7 @@ MICCAI day 1 - September 27, 2021 - 14h-18h [UTC time]
 
 ## Accompanying Material {#material}
 
-
-[![dream_paper_screenshot]({{ base_path }}/assets/images/dream_paper_screenshot.png)](https://doi.org/10.1016/j.media.2022.102516)  | [![github_logo]({{ base_path }}/assets/images/github_logo.png)](https://github.com/vios-s/disentanglement_tutorial)  | [![YouTube]({{ base_path }}/assets/images/youtube_logo.png)](https://www.youtube.com/watch?v=j5FkqQXpd3M&list=PLhBFvhTs6IB6FRX77QUomHiLaEo_nJ0Ti&index=2) | [![ppt_logo]({{ base_path }}/assets/images/ppt_logo.png)](https://drive.google.com/file/d/1jW8tp00sRq94Hv17jAZKmLdiYUN3jGhN/view?usp=sharing)
+[![dream_paper_screenshot]({{ base_path }}/assets/images/dream_paper_screenshot.PNG)](https://doi.org/10.1016/j.media.2022.102516)  | [![github_logo]({{ base_path }}/assets/images/github_logo.png)](https://github.com/vios-s/disentanglement_tutorial)  | [![YouTube]({{ base_path }}/assets/images/youtube_logo.png)](https://www.youtube.com/watch?v=j5FkqQXpd3M&list=PLhBFvhTs6IB6FRX77QUomHiLaEo_nJ0Ti&index=2) | [![ppt_logo]({{ base_path }}/assets/images/ppt_logo.png)](https://drive.google.com/file/d/1jW8tp00sRq94Hv17jAZKmLdiYUN3jGhN/view?usp=sharing)
 
 
 - The contents of this tutorial have been compiled into a [paper](https://doi.org/10.1016/j.media.2022.102516) published at the Medical Image Analysis journal;
