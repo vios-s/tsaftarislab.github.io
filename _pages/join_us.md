@@ -21,7 +21,7 @@ If you wish the join the group as a PhD student or a postdoc, read below about o
 
 * ~~**PhD student in Explainable machine learning for risk prediction in later life care** : The project aims to develop explainable machine learning algorithms to predict the risk of harms from common healthcare interventions in older people approaching the end of life. Project with [Advanced Care Research Centre](https://www.ed.ac.uk/usher/advanced-care-research-centre). Check [here](https://www.findaphd.com/phds/project/explainable-machine-learning-for-risk-prediction-in-later-life-care/?p135446) for details.~~
 
-* **PhD students for the CDT in Biomedical AI:** Prof. Tsaftaris are listed supervisors for the CDT in biomedical informatics so interested students that are interested in the intersection of healthcare and AI are more than welcome to contact them with an expression of interest before application. Information to apply is [here](https://web.inf.ed.ac.uk/cdt/biomedical-ai/apply). 
+* **PhD students for the CDT in Biomedical AI:** Prof. Tsaftaris is listed as a supervisor for the CDT in biomedical informatics so interested students that are interested in the intersection of healthcare and AI are more than welcome to contact them with an expression of interest before application. Information to apply is [here](https://web.inf.ed.ac.uk/cdt/biomedical-ai/apply). 
 
 * **PhD students for ELLIS:** Prof. Tsaftaris as a Fellow for ELLIS welcomes applications from interested candidates as part of this unique in the world PhD program. You are more than welcome to contact Sotos with an expression of interest but first review carefully the application page [here](https://ellis.eu/news/ellis-phd-program-call-for-applications-2022). Note the deadline is Nov 15 2022. 
 
@@ -50,7 +50,3 @@ Your English language qualification must be no more than three and a half years 
 ### Sotos
 
 E-Mail: S.Tsaftaris (at) ed.ac.uk  
-
-### Chen
-
-E-Mail: Chen.Qin (at) ed.ac.uk
