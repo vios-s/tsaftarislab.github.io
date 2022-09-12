@@ -1,6 +1,6 @@
 ---
 title: "Gabriele Valvano"
-role: "visiting"
+role: "None"
 subtitle: "Visiting PhD Student"
 profile: "gabriele.jpg"
 

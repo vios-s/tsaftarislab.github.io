@@ -1085,6 +1085,7 @@
   "title": "Fast watermarking of MPEG-1/2 streams using compressed-domain perceptual\
     \ embedding and a generalized correlator detector"
   "url": null
+
 ## Chapters.
 - "authors": "R. Dharmakumar, S.A. Tsaftaris, H.-J. Yang, D. Li"
   "book": "Cardiovascular Magnetic Resonance (Third Edition)"
@@ -1157,12 +1158,124 @@
 
 ## Conferences.
 
+- "authors": "G. Jacenków; A.Q. O’Neil, S.A. Tsaftaris"
+  "code": null
+  "img" : null
+  "collection": "conferences"
+  "conference": "ISBI 2022"
+  "homepage": true
+  "other": null
+  "pdf": null
+  "preprint": null
+  "project": "raeng"
+  "published": 2022-07-01
+  "text": null
+  "title": "Indication as Prior Knowledge for Multimodal Disease Classification in Chest Radiographs with Transformers"
+  "url": "https://ieeexplore.ieee.org/document/9761567"
+  "workshop": null
+
+- "authors": "N. Dionelis, S. A. Tsaftaris, M. Y. Vaighan"
+  "code": null
+  "img" : null
+  "collection": "conferences"
+  "conference": "ICPR 2022"
+  "homepage": true
+  "other": null
+  "pdf": null
+  "preprint": null
+  "project": "raeng"
+  "published": 2022-07-01
+  "text": null
+  "title": "CTR: Contrastive Training Recognition Classifier for Few-Shot Open-World Recognition"
+  "url": null
+  "workshop": null
+
+- "authors": "N. Dionelis, S. A. Tsaftaris, M. Y. Vaighan"
+  "code": null
+  "img" : null
+  "collection": "conferences"
+  "conference": "SSPD 2021"
+  "homepage": false
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2110.15273"
+  "project": "raeng"
+  "published": 2021-11-03
+  "text": null
+  "title": "OMASGAN: Out-of-distribution Minimum Anomaly Score GAN for Anomaly Detection"
+  "url": null
+  "workshop": null
+
+
+- "authors": "X. Liu, S. Thermos, P. Sanchez, A.Q. O'Neil, S.A. Tsaftaris"
+  "code": null
+  "img" : null
+  "collection": "conferences"
+  "conference": "MICCAI 2022"
+  "homepage": true
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2206.14538"
+  "project": "raeng"
+  "published": 2022-09-03
+  "text": null
+  "title": "vMFNet: Compositionality Meets Domain-generalised Segmentation"
+  "url": null
+  "workshop": null
+
+- "authors": "P. Sanchez, A. Kascenas, X. Liu, A.Q. O'Neil, S.A. Tsaftaris"
+  "code": null
+  "img" : null
+  "collection": "conferences"
+  "conference": "MICCAI Workshop 2022"
+  "homepage": true
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2208.03563"
+  "project": "raeng"
+  "published": 2022-08-02
+  "text": null
+  "title": "What is Healthy? Generative Counterfactual Diffusion for Lesion Localization"
+  "url": null
+  "workshop": "Deep Generative Models"
+
+- "authors": "X. Liu, S. Thermos, P. Sanchez, A.Q. O'Neil, S.A. Tsaftaris"
+  "code": null
+  "img" : null
+  "collection": "conferences"
+  "conference": "MICCAI Workshop 2022"
+  "homepage": false
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2208.03563"
+  "project": "raeng"
+  "published": 2022-08-01
+  "text": null
+  "title": "HSIC-InfoGAN: Learning Unsupervised Disentangled Representations by Maximising Approximated Mutual Information"
+  "url": null
+  "workshop": "Medical Applications with Disentanglements (MAD)"
+
+- "authors": "A. Kumar, A. Hu, B. Nichyporuk, J. R. Falet, D.L. Arnold, S.A. Tsaftaris, T. Arbel"
+  "code": null
+  "img" : null
+  "collection": "conferences"
+  "conference": "MICCAI workshop 2022"
+  "homepage": false
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2208.02311"
+  "project": null
+  "published": 2022-08-02
+  "text": null
+  "title": "Counterfactual Image Synthesis for Discovery of Personalized Predictive Image Markers"
+  "url": null
+  "workshop": "Medical Image Assisted BIomarkers’ Discovery"
 
 - "authors": "R. Su, X. Liu, S.A. Tsaftaris"
   "code": null
   "img" : null
   "collection": "conferences"
-  "conference": "2022, submitted"
+  "conference": "MICCAI 2022"
   "homepage": true
   "other": null
   "pdf": null
@@ -1211,7 +1324,7 @@
   "img" : "liu_2021_metalearning.png"
   "collection": "conferences"
   "conference": "MICCAI 2021"
-  "homepage": true
+  "homepage": false
   "other": null
   "pdf": null
   "preprint": "https://arxiv.org/abs/2106.13292"
@@ -1227,7 +1340,7 @@
   "img": "thermos_2021_daa_gan.png"
   "collection": "conferences"
   "conference": "MICCAI 2021"
-  "homepage": true
+  "homepage": false
   "other": null
   "pdf": null
   "preprint": "https://arxiv.org/abs/2107.01748"
@@ -1242,7 +1355,7 @@
   "code": null
   "collection": "conferences"
   "conference": "MICCAI workshop, 2021"
-  "homepage": true
+  "homepage": false
   "other": null
   "pdf": null
   "preprint": "https://arxiv.org/abs/2108.00713"
@@ -1258,7 +1371,7 @@
   "img": "valvano_2021_stop.png"
   "collection": "conferences"
   "conference": "MICCAI workshop, 2021"
-  "homepage": true
+  "homepage": false
   "other": null
   "pdf": null
   "preprint": "https://arxiv.org/abs/2108.12280"
@@ -1274,7 +1387,7 @@
   "img": "valvano_2021_selfsupervision.png"
   "collection": "conferences"
   "conference": "MICCAI workshop, 2021"
-  "homepage": true
+  "homepage": false
   "other": null
   "pdf": null
   "preprint": "https://arxiv.org/abs/2108.11900"
@@ -1289,7 +1402,7 @@
   "code": null
   "collection": "conferences"
   "conference": "MICCAI 2020"
-  "homepage": true
+  "homepage": false
   "other": null
   "pdf": null
   "preprint": "https://arxiv.org/abs/2004.10129"
@@ -1319,7 +1432,7 @@
   "code": "https://github.com/vios-s/inside"
   "collection": "conferences"
   "conference": "MICCAI 2020"
-  "homepage": true
+  "homepage": false
   "img": "jacenkow_2020_miccai.png"
   "other": null
   "pdf": null
@@ -1334,7 +1447,7 @@
   "code": "https://github.com/vios-s/RA_FA_Cardiac"
   "collection": "conferences"
   "conference": "MICCAI 2020"
-  "homepage": true
+  "homepage": false
   "img": "liu_2020_miccai.png"
   "other": null
   "pdf": null
@@ -1349,7 +1462,7 @@
   "code": "https://github.com/vios-s/MFU-Net"
   "collection": "conferences"
   "conference": "MICCAI 2020"
-  "homepage": true
+  "homepage": false
   "img": "jiang_2020_myops.png"
   "other": null
   "pdf": null
@@ -1360,12 +1473,13 @@
   "title": "Max-Fusion U-Net for Multi-Modal Pathology Segmentation with Attention and Dynamic Resampling"
   "url": null
   "workshop": "MyoPS: Multi-sequence CMR based Mycardial Pathology Segmentation Challenge"
+
 - "authors": "H. Jiang, A. Chartsias, X. Zhang, G. Panastasiou, S. Semple, M. Dweck,\
     \ D. Semple, R. Dharmakumar, S.A. Tsaftaris"
   "code": "https://github.com/vios-s/APDNet"
   "collection": "conferences"
   "conference": "MICCAI 2020"
-  "homepage": true
+  "homepage": false
   "other": null
   "img": "jiang_2020_dart.png"
   "pdf": null
@@ -2797,8 +2911,40 @@
     \ protection"
   "url": null
   "workshop": "Workshop on Digital & Computational Video"
-# Chen.
+
 ## Journals.
+
+
+
+- authors: "V. Campello, T. Xia, X. Liu, P. Sanchez, C. Martín-Isla, S.E. Petersen, S. Segui, S.A. Tsaftaris, K. Lekadir"
+  code: null
+  collection: "journals"
+  edition: "2022"
+  homepage: null
+  journal: "Frontiers in Cardiovascular Medicine"
+  other: null
+  pdf: null
+  preprint: null
+  published: 2022-09-01
+  text: null
+  title: "Cardiac aging synthesis from cross-sectional data with conditional generative adversarial networks"
+  url: null
+
+- authors: "P. Sanchez, J.P. Voisey, T. Xia, H.I. Watson, A.Q. O’Neil and S.A. Tsaftaris"
+  code: null
+  collection: "journals"
+  edition: "2022"
+  homepage: null
+  journal: "Royal Society Open Science"
+  other: null
+  pdf: null
+  preprint: null
+  published: 2022-08-01
+  text: "https://royalsocietypublishing.org/doi/full/10.1098/rsos.220638"
+  title: "Causal machine learning for healthcare and precision medicine"
+  url: null
+
+
 - authors: "C. Chen, C. Qin, H. Qiu, G. Tarroni, J. Duan, W. Bai, D. Rueckert"
   code: null
   collection: "journals"

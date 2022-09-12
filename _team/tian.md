@@ -1,6 +1,6 @@
 ---
 title: "Tian Xia"
-role: "phd"
+role: "None"
 subtitle: "PhD Student"
 profile: "tian.jpg"
 

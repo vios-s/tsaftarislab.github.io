@@ -1,6 +1,6 @@
 ---
 title: "Chen Qin"
-role: "staff"
+role: "None"
 subtitle: "Lecturer in Machine Learning and Computer Vision"
 profile: "chen.jpg"
 

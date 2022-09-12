@@ -17,7 +17,7 @@ mission is to address societal problems by solving key challenges in the life
 and natural sciences.
 
 ## News
-{% for post in site.posts limit:5 %}
+{% for post in site.posts limit:3 %}
   * **{{ post.title }}**: {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
 {% endfor %}
 

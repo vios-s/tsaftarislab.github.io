@@ -62,34 +62,18 @@ main:
     url: /contact/
   - title: MICCAI DREAM 2021
     url: /tutorials/dream2021
+    
 members:
 - title: Academic Staff
-  children:
-  - title: Sotirios A. Tsaftaris
-    url: /team/tsaftaris
-  - title: Alison O'Neil
-    url: /team/oneil
-  - title: Chen Qin
-    url: /team/qin
-  - title: Valerio Giuffrida
-    url: /team/giuffrida
+  url: /team#academic
 - title: Post-doctoral Researchers
-  children:
-  - title: Nikolaos Dionelis
-    url: /team/dionelis
-  - title: John Hartley
-    url: /team/hartley
+  url: /team#pdra
 - title: PhD Students
-  children:
-  - title: Andrei Dobrescu
-    url: /team/dobrescu
-  - title: Grzegorz Jacenków
-    url: /team/jacenkow
-  - title: Pedro Sanchez
-    url: /team/sanchez
-  - title: Xiao Liu
-    url: /team/liu
-
+  url: /team#phd
+- title: Visiting Students
+  url: /team#visiting
+- title: Alumni
+  url: /team#alumni
 news:
   - title: News
     children:

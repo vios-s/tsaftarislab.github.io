@@ -47,6 +47,7 @@ MSc or undergraduate student, drop Sotos an email to arrange a chat.
 
 ## Alumni {#alumni}
 
+* Dr [Chen Qin](https://sites.google.com/view/chen-qin/) (Lecturer) - Lecturer/Assistant Professor, Imperial College, London
 * Dr [Spyridon Thermos](https://spthermo.github.io/) (PostDoc) - Startup Founder
 * Dr [Tian Xia](https://www.linkedin.com/in/tian-xia-67b5b8109/) (PhD) - PostDoc at The University of Edinburgh, Scotland
 * Mr Phivos Sofokleous (MSc)
