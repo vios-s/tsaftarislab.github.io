@@ -1,6 +1,6 @@
 ---
 title: "Andrei Dobrescu"
-role: "phd"
+role: "none"
 subtitle: "PhD Student"
 profile: "andrei.jpg"
 
