@@ -52,11 +52,7 @@ MSc or undergraduate student, drop Sotos an email to arrange a chat.
 * Dr [Chen Qin](https://sites.google.com/view/chen-qin/) (Lecturer) - Lecturer/Assistant Professor, Imperial College, London
 * Dr [Spyridon Thermos](https://spthermo.github.io/) (PostDoc) - Startup Founder
 * Dr [Tian Xia](https://www.linkedin.com/in/tian-xia-67b5b8109/) (PhD) - PostDoc at The University of Edinburgh, Scotland
-<<<<<<< HEAD
 * Mr [Andrei Dobrescu](https://www.linkedin.com/in/andreidobrescu/) (PhD) - Computer Vision Researcher at CattleEye
-=======
-* Dr [Andrei Dobrescu](https://www.linkedin.com/in/andreidobrescu) (PhD) - Computer Vision Researcher at CattleEye
->>>>>>> 3bd74bb332bfa74abcd432d75794f66b9d570a7c
 * Mr Phivos Sofokleous (MSc)
 * Dr [Gabriele Valvano](https://www.linkedin.com/in/gabriele-valvano/?locale=en_US) (Visiting PhD) - Lead AI Specialist, Baker Hughes, Italy
 * Dr Haochuan Jiang (PostDoc) - Lecturer, Xi'an Jiaotong-Liverpool University, China
