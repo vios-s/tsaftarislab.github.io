@@ -100,16 +100,16 @@
   "code": null
   "collection": "journals"
   "img": null
-  "edition": "2021 , in progress"
+  "edition": "Volume 80, 2022"
   "homepage": null
-  "journal": null
+  "journal": "Medical Image Analysis"
   "other": null
   "pdf": null
   "preprint": "https://arxiv.org/abs/2108.12043"
   "project": null
-  "published": 2021-09-16
-  "text": null 
-  "title": "A Tutorial on Learning Disentangled Representations in the Imaging Domain"
+  "published": 2022-07-01
+  "text": "https://www.sciencedirect.com/science/article/pii/S1361841522001633" 
+  "title": "Learning Disentangled Representations in the Imaging Domain"
   "url": "https://github.com/vios-s/disentanglement_tutorial"
 
 
@@ -134,15 +134,15 @@
   "code": null
   "collection": "journals"
   "img": null
-  "edition": "2021 , submitted"
+  "edition": "MICCAI Special Issue, 2022"
   "homepage": null
-  "journal": null
+  "journal": "Machine Learning for Biomedical Imaging"
   "other": null
   "pdf": null
   "preprint": "https://arxiv.org/abs/2108.11926"
   "project": null
-  "published": 2021-08-26
-  "text": null 
+  "published": 2022-05-30
+  "text": "https://www.melba-journal.org/papers/2022:014.html" 
   "title": "Re-using Adversarial Mask Discriminators for Test-time Training under Distribution Shifts"
   "url": null
 
@@ -2926,7 +2926,7 @@
   pdf: null
   preprint: null
   published: 2022-09-01
-  text: null
+  text: "https://www.frontiersin.org/articles/10.3389/fcvm.2022.983091/full"
   title: "Cardiac aging synthesis from cross-sectional data with conditional generative adversarial networks"
   url: null
 
@@ -2963,7 +2963,7 @@
   code: "https://github.com/cq615/kt-Dynamic-MRI-Reconstruction"
   img: "qin_2020_MRI_rec.png"
   collection: "journals"
-  edition: "July 2021"
+  edition: "2021"
   homepage: null
   journal: "Magnetic Resonance in Medicine"
   preprint: "https://arxiv.org/abs/2012.11974"
