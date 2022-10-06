@@ -1208,8 +1208,8 @@
 
 
 - "authors": "X. Liu, S. Thermos, P. Sanchez, A.Q. O'Neil, S.A. Tsaftaris"
-  "code": null
-  "img" : null
+  "code": "https://github.com/vios-s/vMFNet"
+  "img" : "https://github.com/vios-s/vMFNet/blob/main/figures/model.png"
   "collection": "conferences"
   "conference": "MICCAI 2022"
   "homepage": true
@@ -1224,14 +1224,14 @@
   "workshop": null
 
 - "authors": "P. Sanchez, A. Kascenas, X. Liu, A.Q. O'Neil, S.A. Tsaftaris"
-  "code": null
+  "code": "https://github.com/vios-s/Diff-SCM"
   "img" : null
   "collection": "conferences"
   "conference": "MICCAI Workshop 2022"
   "homepage": true
   "other": null
   "pdf": null
-  "preprint": "https://arxiv.org/abs/2208.03563"
+  "preprint": "https://arxiv.org/abs/2207.12268"
   "project": "raeng"
   "published": 2022-08-02
   "text": null
@@ -1279,7 +1279,7 @@
   "homepage": true
   "other": null
   "pdf": null
-  "preprint": "https://openreview.net/forum?id=zee95vcdYbG"
+  "preprint": "https://arxiv.org/abs/2206.14541"
   "project": "raeng"
   "published": 2022-02-09
   "text": null
@@ -1416,7 +1416,7 @@
 - "authors": "X. Liu, S. Thermos, G. Valvano, A. Chartsias, A.Q. O'Neil, S.A. Tsaftaris"
   "code": "https://github.com/vios-s/CSDisentanglement_Metrics_Library"
   "collection": "conferences"
-  "conference": "submitted"
+  "conference": "BMVC, 2021"
   "homepage": null
   "img": "liu_2020_metrics.png"
   "other": null
@@ -1425,9 +1425,10 @@
   "project": "raeng"
   "published": 2020-08-31
   "text": null
-  "title": "Metrics for Exposing the Biases of Content-Style Disentanglement"
+  "title": "Measuring the Biases and Effectiveness of Content-Style Disentanglement"
   "url": null
   "workshop": null
+  
 - "authors": "G. Jacenków, A.Q. O'Neil, B. Mohr, S.A. Tsaftaris"
   "code": "https://github.com/vios-s/inside"
   "collection": "conferences"
