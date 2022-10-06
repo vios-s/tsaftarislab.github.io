@@ -14,9 +14,6 @@ E-Mail: S.Tsaftaris (at) ed.ac.uk
 Telephone: +44 (0)131 650 5796  
 Office: Room 2.06 (Alexander Graham Bell Building - see below)
 
-### Chen
-
-E-Mail: Chen.Qin (at) ed.ac.uk
 
 ## Postal Address {#address}
 
