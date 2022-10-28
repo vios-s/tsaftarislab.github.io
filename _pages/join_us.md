@@ -23,7 +23,7 @@ If you wish the join the group as a PhD student or a postdoc, read below about o
 
 * **PhD students for the CDT in Biomedical AI:** Prof. Tsaftaris is listed as a supervisor for the CDT in biomedical informatics so interested students that are interested in the intersection of healthcare and AI are more than welcome to contact Prof. Tsaftaris with an expression of interest before application. Stay clearly the purpose of contacting us and for which opportunity. Information to apply is [here](https://web.inf.ed.ac.uk/cdt/biomedical-ai/apply). 
 
-* ~~**PhD students for ELLIS:** Prof. Tsaftaris as a Fellow for ELLIS welcomes applications from interested candidates as part of this unique in the world PhD program. You are more than welcome to contact Sotos with an expression of interest but first review carefully the application page [here](https://ellis.eu/news/ellis-phd-program-call-for-applications-2022). Note the deadline is Nov 15 2022. ~~
+* ~~**PhD students for ELLIS:** Prof. Tsaftaris as a Fellow for ELLIS welcomes applications from interested candidates as part of this unique in the world PhD program. You are more than welcome to contact Sotos with an expression of interest but first review carefully the application page [here](https://ellis.eu/news/ellis-phd-program-call-for-applications-2022). Note the deadline is Nov 15 2022.~~
 
   
 ## General information for PhD students {#information}
