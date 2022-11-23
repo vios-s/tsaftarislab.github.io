@@ -44,7 +44,7 @@ Your English language qualification must be no more than three and a half years 
 ## Visiting students {#visiting}
 * We welcome visitors from all over the world and we have had succesful and rewarding experience from all our visitors.  Such visits must go through approval by the University and there are considerations w.r.t. visas, available visitor slots, etc. Hence we select unfortunately few of the applications that we receive. If you want to potential visit us do state this **clearly** in the subject line, attach a CV, mention a potential duration, potential start etc and of course a research direction that you are interested to pursue. 
 
-## Interns students {#inters}
+## Interns students {#interns}
 * At the moment we do not accept applications for paid internships externally from the UK (but we can host paid interns within the University and potentially the UK).  
 
 ## Email {#email}
