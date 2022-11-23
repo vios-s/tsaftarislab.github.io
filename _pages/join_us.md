@@ -9,7 +9,7 @@ sidebar:
 ![Team]({{ base_path }}/assets/images/team/team.jpg)
 
 
-If you wish the join the group as a PhD student or a postdoc, read below about open positions and funding opportunities.
+If you wish the join the group as a PhD student or a postdoc, read below about open positions and funding opportunities. Please read well the instructions on how to contact us. 
 
 ## Current opportunities {#opportunities}
 
@@ -38,8 +38,14 @@ If you wish the join the group as a PhD student or a postdoc, read below about o
     * CAE and CPE: total 176 with at least 169 in each paper
     * Trinity ISE: ISE II with distinctions in all four components
 Your English language qualification must be no more than three and a half years old from the start date of the programme you are applying to study, unless you are using IELTS, TOEFL, PTE Academic or Trinity ISE, in which case it must be no more than two years old.
-* **Making Informal Enquiries Informative**: Applications [for open positions] must be submitted through the online University system. Informal enquiries (excluding questions on the application process and scholarships) can be sent by email to Prof. Tsaftaris or any of the other supervisors). Please clearly state which position you are applying for and your questions in the email and confirm that you have read this webpage. Questions on the application process and scholarships should be directed to the Postgraduate Office of the School of Engineering: EngGradOffice@ed.ac.uk. Within your enquiry, it is strongly recommended that you attach a detailed CV and the following: Details of every qualification; Academic career history; Highlight any academic success; Ranking withing your cohort (including its size); If you have published any conference or journal papers, provide links to the publication(s) and state your contribution.
-* **Self-funded students**: We do accept students that are self-funded either via scholarship or own funds. Please do state this _clearly_ upon any informal inquiry made. 
+* **Making Informal Enquiries Informative**: Applications [for open positions] must be submitted through the online University system. Informal enquiries (excluding questions on the application process and scholarships) can be sent by email to Prof. Tsaftaris or any of the other supervisors). Please **clearly** state which position you are applying for in the subject line and your questions in the email and confirm that you have read this webpage. (Emails that do not clearly mention PhD topics from the ones listed above are not prioritised.) Questions on the application process and scholarships should be directed to the Postgraduate Office of the School of Engineering: EngGradOffice@ed.ac.uk. Within your enquiry, it is strongly recommended that you attach a detailed CV and the following: Details of every qualification; Academic career history; Highlight any academic success; Ranking withing your cohort (including its size); If you have published any conference or journal papers, provide links to the publication(s) and state your contribution.
+* **Self-funded students**: We do accept students that are self-funded either via scholarship or own funds. Please do state this **clearly** upon any informal inquiry made. 
+
+## Visiting students {#visiting}
+* We welcome visitors from all over the world and we have had succesful and rewarding experience from all our visitors.  Such visits must go through approval by the University and there are considerations w.r.t. visas, available visitor slots, etc. Hence we select unfortunately few of the applications that we receive. If you want to potential visit us do state this **clearly** in the subject line, attach a CV, mention a potential duration, potential start etc and of course a research direction that you are interested to pursue. 
+
+## Interns students {#inters}
+* At the moment we do not accept applications for paid internships externally from the UK (but we can host paid interns within the University and potentially the UK).  
 
 ## Email {#email}
 ### Sotos
