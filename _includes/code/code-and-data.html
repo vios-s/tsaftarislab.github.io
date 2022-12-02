@@ -1,8 +1,9 @@
 <div id="publications">
     <h2 id="code">Code</h2>
     {% assign code = site.data.publications | where_exp: "item", "item.code" != "" %}
+    {% assign code_sorted = code | sort: "published" | reverse %}
 
-    {% for publication in code %}
+    {% for publication in code_sorted %}
         {% if publication.collection == "journals" %}
         <div class="code">
             <div class="code__picture">

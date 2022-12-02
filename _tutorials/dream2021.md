@@ -1,6 +1,7 @@
 ---
-title: "DREAM: Disentangled Representations for Efficient Algorithms for Medical data"
-
+title: "DREAM 2021: Disentangled Representations for Efficient Algorithms for Medical data"
+shorttitle: "DREAM 2021"
+summary: At Miccai 2021, we introduce and motivate the use of disentangled representations in medical imaging and present the latest methods.
 collection: tutorials
 permalink: /tutorials/dream2021
 sidebar:

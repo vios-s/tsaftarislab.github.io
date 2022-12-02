@@ -1158,20 +1158,69 @@
 
 ## Conferences.
 
-- "authors": "G. Jacenków; A.Q. O’Neil, S.A. Tsaftaris"
+
+- "authors": "B. Nichyporuk, J. Cardinell, J. Szeto, R. Mehta, J. R. Falet, D. L. Arnold, S.A. Tsaftaris, T. Arbel"
   "code": null
   "img" : null
+  "collection": "conferences"
+  "conference": "preprint 2022"
+  "homepage": false
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2210.17398"
+  "project": null
+  "published": 2022-10-31
+  "text": null
+  "title": "Rethinking Generalization: The Impact of Annotation Style on Medical Image Segmentation"
+  "url": null
+  "workshop": null
+
+- "authors": "A. Hu, J. R. Falet, B. S. Nichyporuk, C. Shui, D. L. Arnold, S. A. Tsaftaris, T. Arbel"
+  "code": null
+  "img" : null
+  "collection": "conferences"
+  "conference": "preprint 2022"
+  "homepage": false
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2211.07820"
+  "project": null
+  "published": 2022-11-09
+  "text": null
+  "title": "Clinically Plausible Pathology-Anatomy Disentanglement in Patient Brain MRI with Structured Variational Priors"
+  "url": null
+  "workshop": null
+
+- "authors": " P. Sanchez, X. Liu, A.Q. O'Neil, S.A. Tsaftaris"
+  "code": "https://github.com/vios-s/DiffAN"
+  "img" : "sanchez_2022_topological.png"
+  "collection": "conferences"
+  "conference": "preprint 2022"
+  "homepage": true
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2210.06201"
+  "project": "raeng"
+  "published": 2022-10-03
+  "text": null
+  "title": "Diffusion Models for Causal Discovery via Topological Ordering"
+  "url": null
+  "workshop": null
+
+- "authors": "G. Jacenków; A.Q. O’Neil, S.A. Tsaftaris"
+  "code": "https://github.com/jacenkow/mmbt"
+  "img" : jacen_2022_indication.gif
   "collection": "conferences"
   "conference": "ISBI 2022"
   "homepage": true
   "other": null
   "pdf": null
-  "preprint": null
+  "preprint": "https://arxiv.org/abs/2202.06076"
   "project": "raeng"
   "published": 2022-07-01
-  "text": null
+  "text": "https://ieeexplore.ieee.org/document/9761567"
   "title": "Indication as Prior Knowledge for Multimodal Disease Classification in Chest Radiographs with Transformers"
-  "url": "https://ieeexplore.ieee.org/document/9761567"
+  "url": null
   "workshop": null
 
 - "authors": "N. Dionelis, S. A. Tsaftaris, M. Y. Vaighan"
@@ -1179,7 +1228,7 @@
   "img" : null
   "collection": "conferences"
   "conference": "ICPR 2022"
-  "homepage": true
+  "homepage": false
   "other": null
   "pdf": null
   "preprint": null
@@ -1209,7 +1258,7 @@
 
 - "authors": "X. Liu, S. Thermos, P. Sanchez, A.Q. O'Neil, S.A. Tsaftaris"
   "code": "https://github.com/vios-s/vMFNet"
-  "img" : "https://github.com/vios-s/vMFNet/blob/main/figures/model.png"
+  "img" : "liu_2022_vMFnet.png"
   "collection": "conferences"
   "conference": "MICCAI 2022"
   "homepage": true
@@ -1218,14 +1267,14 @@
   "preprint": "https://arxiv.org/abs/2206.14538"
   "project": "raeng"
   "published": 2022-09-03
-  "text": null
+  "text": "https://link.springer.com/chapter/10.1007/978-3-031-16449-1_67"
   "title": "vMFNet: Compositionality Meets Domain-generalised Segmentation"
   "url": null
   "workshop": null
 
 - "authors": "P. Sanchez, A. Kascenas, X. Liu, A.Q. O'Neil, S.A. Tsaftaris"
   "code": "https://github.com/vios-s/Diff-SCM"
-  "img" : null
+  "img" : "sanchez_2022_healthy.png"
   "collection": "conferences"
   "conference": "MICCAI Workshop 2022"
   "homepage": true
@@ -1234,7 +1283,7 @@
   "preprint": "https://arxiv.org/abs/2207.12268"
   "project": "raeng"
   "published": 2022-08-02
-  "text": null
+  "text": "https://dl.acm.org/doi/10.1007/978-3-031-18576-2_4"
   "title": "What is Healthy? Generative Counterfactual Diffusion for Lesion Localization"
   "url": null
   "workshop": "Deep Generative Models"
@@ -1282,7 +1331,7 @@
   "preprint": "https://arxiv.org/abs/2206.14541"
   "project": "raeng"
   "published": 2022-02-09
-  "text": null
+  "text": "https://link.springer.com/chapter/10.1007/978-3-031-16452-1_60"
   "title": "Why patient data cannot be easily forgotten?"
   "url": null
   "workshop": null
@@ -1292,7 +1341,7 @@
   "img" : "sanchez_2022_causal_diffusion.png"
   "collection": "conferences"
   "conference": "CLeaR 2022"
-  "homepage": true
+  "homepage": false
   "other": null
   "pdf": null
   "preprint": "http://arxiv.org/abs/2202.10166"
@@ -2918,7 +2967,8 @@
 
 
 - authors: "V. Campello, T. Xia, X. Liu, P. Sanchez, C. Martín-Isla, S.E. Petersen, S. Segui, S.A. Tsaftaris, K. Lekadir"
-  code: null
+  code: "https://github.com/vicmancr/CardiacAging"
+  img: "campello_2022_cardiac_age.jpg"
   collection: "journals"
   edition: "2022"
   homepage: null

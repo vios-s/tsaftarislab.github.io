@@ -1,10 +1,11 @@
 ---
-title: "DREAM: Disentangled Representations for Efficient Algorithms for Medical data"
-
+title: "DREAM 2020: Disentangled Representations for Efficient Algorithms for Medical data"
+shorttitle: "DREAM 2020"
+summary: At Miccai 2020, we introduce and motivate the use of disentangled representations in medical imaging and present the latest methods.
 collection: tutorials
 permalink: /tutorials/dream2020
 sidebar:
-  nav: "dream"
+  nav: "tutorials"
 ---
 A MICCAI 2020 (Peru) Tutorial by Sotirios A. Tsaftaris and Alison Q. O'Neil.
 

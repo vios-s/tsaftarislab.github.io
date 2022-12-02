@@ -25,9 +25,25 @@ code:
       - title: Datasets
         url: /code_and_data#datasets
 
+tutorials:
+  - title: Tutorials
+    children:
+      - title: Diffusion Models
+        url: /tutorials/diffusion
+      - title: DREAM 2021
+        url: /tutorials/dream2021
+      - title: DREAM 2020
+        url: /tutorials/dream2020
 
-        
 dream:
+  - title: Tutorials
+    children:
+      - title: Diffusion Models
+        url: /tutorials/diffusion
+      - title: DREAM 2021
+        url: /tutorials/dream2021
+      - title: DREAM 2020
+        url: /tutorials/dream2020
   - title: DREAM 2021 Tutorial
     children:
       - title: Outline
@@ -42,9 +58,7 @@ dream:
         url: /tutorials/dream2021#teachers
       - title: Support
         url: /tutorials/dream2021#support
-        
-      - title: DREAM 2020 Tutorial
-        url: /tutorials/dream2020
+
 main:
   - title: News
     url: /news/
@@ -60,8 +74,8 @@ main:
     url: /join_us/
   - title: Contact
     url: /contact/
-  - title: MICCAI DREAM 2021
-    url: /tutorials/dream2021
+  - title: Tutorials
+    url: /tutorials/
     
 members:
 - title: Academic Staff
@@ -74,6 +88,7 @@ members:
   url: /team#visiting
 - title: Alumni
   url: /team#alumni
+
 news:
   - title: News
     children:
@@ -85,6 +100,7 @@ news:
         url: /news#2020
       - title: 2019
         url: /news#2019
+
 publications:
   - title: Sort by Type
     children:
@@ -124,6 +140,7 @@ publications:
         url: /publications/year#2011
       - title: < 2010
         url: /publications/year#2010
+
 research:
   - title: Research
     children:
