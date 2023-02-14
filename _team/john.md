@@ -1,6 +1,6 @@
 ---
 title: "John Hartley"
-role: "postdoc"
+role: "None"
 subtitle: "Post-doctoral Researcher"
 profile: "john.png"
 

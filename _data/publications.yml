@@ -1195,7 +1195,7 @@
   "code": "https://github.com/vios-s/DiffAN"
   "img" : "sanchez_2022_topological.png"
   "collection": "conferences"
-  "conference": "preprint 2022"
+  "conference": "ICLR 2023"
   "homepage": true
   "other": null
   "pdf": null
@@ -2964,7 +2964,18 @@
 
 ## Journals.
 
-
+- authors: "A. Kascenas, P. Sanchez, P. Schrempf, C. Wang, W. Clackett, S.S. Mikhael, J.P. Voisey, K. Goatman, A. Weir, N. Pugeault, S.A. Tsaftaris, A.Q. O'Neil"
+  collection: "journals"
+  edition: "2023"
+  homepage: null
+  journal: "arxiv"
+  other: null
+  pdf: null
+  preprint: null
+  published: 2023-01-19
+  text: "https://arxiv.org/abs/2301.08330"
+  title: "The role of noise in denoising models for anomaly detection in medical images"
+  url: "https://arxiv.org/abs/2301.08330"
 
 - authors: "V. Campello, T. Xia, X. Liu, P. Sanchez, C. Martín-Isla, S.E. Petersen, S. Segui, S.A. Tsaftaris, K. Lekadir"
   code: "https://github.com/vicmancr/CardiacAging"

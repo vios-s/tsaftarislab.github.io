@@ -47,7 +47,7 @@ MSc or undergraduate student, drop Sotos an email to arrange a chat.
 
 ## Alumni {#alumni}
 
-
+* Dr [John Hartley](https://www.linkedin.com/in/john-hartley-4b37219b) (PostDoc) - Data Scientist at Natwest Group
 * Mr [Victor Campello](https://www.linkedin.com/in/v%C3%ADctor-m-campello-b3b635130) (Visiting PhD) - PhD at Universitat de Barcelona
 * Dr [Chen Qin](https://sites.google.com/view/chen-qin/) (Lecturer) - Lecturer/Assistant Professor, Imperial College, London
 * Dr [Spyridon Thermos](https://spthermo.github.io/) (PostDoc) - Startup Founder
