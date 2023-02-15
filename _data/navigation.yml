@@ -92,6 +92,8 @@ members:
 news:
   - title: News
     children:
+      - title: 2023
+        url: /news#2023
       - title: 2022
         url: /news#2022
       - title: 2021
@@ -114,6 +116,8 @@ publications:
         url: /publications#conferences
   - title: Sort by Year
     children:
+      - title: 2023
+        url: /publications/year#2023
       - title: 2022
         url: /publications/year#2022
       - title: 2021

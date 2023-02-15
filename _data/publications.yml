@@ -84,7 +84,7 @@
   "code": null
   "collection": "journals"
   "img": null
-  "edition": "2021 , in progress"
+  "edition": "2021, in progress"
   "homepage": null
   "journal": null
   "other": null
@@ -117,15 +117,15 @@
   "code": null
   "collection": "journals"
   "img": null
-  "edition": "2021 , submitted"
+  "edition": "no. 01, pp. 1-20, 5555"
   "homepage": null
-  "journal": null
+  "journal": "IEEE Transactions on Pattern Analysis & Machine Intelligence"
   "other": null
   "pdf": null
   "preprint": "https://arxiv.org/abs/2107.01614"
   "project": null
-  "published": 2021-07-04
-  "text": null 
+  "published": 2022-07-04
+  "text": "https://doi.ieeecomputersociety.org/10.1109/TPAMI.2022.3229593" 
   "title": "Survey: Leakage and Privacy at Inference Time"
   "url": null
 
@@ -1158,6 +1158,21 @@
 
 ## Conferences.
 
+- "authors": "R. Su, X. Liu ,S.A. Tsaftaris"
+  "code": null
+  "img" : "su_2022_forgotten.png"
+  "collection": "conferences"
+  "conference": "MICCAI 2022"
+  "homepage": false
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2206.14541"
+  "project": null
+  "published": 2022-10-31
+  "text": "https://link.springer.com/chapter/10.1007/978-3-031-16452-1_60"
+  "title": "Why Patient Data Cannot Be Easily Forgotten?"
+  "url": null
+  "workshop": null
 
 - "authors": "B. Nichyporuk, J. Cardinell, J. Szeto, R. Mehta, J. R. Falet, D. L. Arnold, S.A. Tsaftaris, T. Arbel"
   "code": null
@@ -1201,7 +1216,7 @@
   "pdf": null
   "preprint": "https://arxiv.org/abs/2210.06201"
   "project": "raeng"
-  "published": 2022-10-03
+  "published": 2023-02-01
   "text": null
   "title": "Diffusion Models for Causal Discovery via Topological Ordering"
   "url": null
@@ -2977,6 +2992,7 @@
   title: "The role of noise in denoising models for anomaly detection in medical images"
   url: "https://arxiv.org/abs/2301.08330"
 
+
 - authors: "V. Campello, T. Xia, X. Liu, P. Sanchez, C. Martín-Isla, S.E. Petersen, S. Segui, S.A. Tsaftaris, K. Lekadir"
   code: "https://github.com/vicmancr/CardiacAging"
   img: "campello_2022_cardiac_age.jpg"
@@ -2990,6 +3006,21 @@
   published: 2022-09-01
   text: "https://www.frontiersin.org/articles/10.3389/fcvm.2022.983091/full"
   title: "Cardiac aging synthesis from cross-sectional data with conditional generative adversarial networks"
+  url: null
+
+- authors: "T. Xia, P. Sanchez, C. Qin, S.A. Tsaftaris"
+  code: "https://github.com/xiat0616/adversarial_counterfactual_augmentation"
+  img: "xia_2022_counterfactual.jpg"
+  collection: "journals"
+  edition: "2022"
+  homepage: null
+  journal: "Frontiers in Radiology"
+  other: null
+  pdf: null
+  preprint: null
+  published: 2022-11-01
+  text: "https://www.frontiersin.org/articles/10.3389/fradi.2022.1039160/full"
+  title: "Adversarial counterfactual augmentation: application in Alzheimer’s disease classification"
   url: null
 
 - authors: "P. Sanchez, J.P. Voisey, T. Xia, H.I. Watson, A.Q. O’Neil and S.A. Tsaftaris"
