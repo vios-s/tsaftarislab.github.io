@@ -2986,11 +2986,11 @@
   journal: "arxiv"
   other: null
   pdf: null
-  preprint: null
+  preprint: "https://arxiv.org/abs/2301.08330"
   published: 2023-01-19
-  text: "https://arxiv.org/abs/2301.08330"
+  text: null
   title: "The role of noise in denoising models for anomaly detection in medical images"
-  url: "https://arxiv.org/abs/2301.08330"
+  url: null
 
 
 - authors: "V. Campello, T. Xia, X. Liu, P. Sanchez, C. Martín-Isla, S.E. Petersen, S. Segui, S.A. Tsaftaris, K. Lekadir"
