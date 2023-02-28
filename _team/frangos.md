@@ -1,6 +1,6 @@
 ---
 title: "Alexandros Frangos"
-role: "phd"
+role: "None"
 subtitle: "PhD Student"
 profile: "alex_frangos.png"
 
