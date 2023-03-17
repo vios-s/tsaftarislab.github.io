@@ -6,10 +6,10 @@ profile: "sotos.jpg"
 
 order: 1
 
+CV: "https://vios.science/assets/pdfs/SA_Tsaftaris_CV_2023_web.pdf"
 linkedin: "https://www.linkedin.com/in/sotost/"
 scholar: "https://scholar.google.co.uk/citations?user=jC1uFnYAAAAJ&hl=en"
 twitter: "https://twitter.com/stsaftaris"
-CV: "https://vios.science/assets/pdfs/SA_Tsaftaris_CV_2023_web.pdf"
 
 collection: team
 permalink: /team/tsaftaris
