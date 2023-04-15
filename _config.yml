@@ -4,8 +4,8 @@ title                    : "vios.science"
 title_separator          : "-"
 name                     : &name "VIOS Collaboratory"
 description              : &description "Machine Learning, Deep Learning, Medical Image Analysis"
-url                      : https://vios.science
-#url                      : http://localhost:4000
+#url                      : https://vios.science
+url                      : http://localhost:4000
 baseurl                  : ""
 future                   : true
 
