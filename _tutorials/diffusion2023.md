@@ -10,7 +10,7 @@ sidebar:
 ---
 
 
-A **MICCAI 2023** (Hybrid) Tutorial.
+A **MICCAI 2023** Tutorial.
 
 ![MICCAI 2023]({{ base_path }}/assets/images/miccai_brain.gif)
 *Animation based on [2]*
@@ -79,7 +79,7 @@ This tutorial presents an overview of generative modelling, focusing on diffusio
 
 - Prof. [Jorge Cardoso](https://amigos.ai/people/jorge_cardoso/) is a Reader in Artificial Medical Intelligence at King’s College London. Jorge is also the CTO of the new London Medical Imaging and AI Centre for Value-based Healthcare.
 
-- Prof [Sotirios A. Tsaftaris](https://vios.science/team/tsaftaris) is Chair in Machine Learning and Computer Vision with the University of Edinburgh, United Kingdom.
+- Prof [Sotirios A. Tsaftaris](https://vios.science/team/tsaftaris) is the Canon Medical / Royal Academy of Engineering Research Chair in Healthcare AI with the University of Edinburgh, United Kingdom.
 
 # Some Resources
 
