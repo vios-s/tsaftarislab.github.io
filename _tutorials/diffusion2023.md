@@ -42,7 +42,7 @@ This tutorial presents an overview of generative modelling, focusing on diffusio
 
 2. Advanced Topics [60 min]
   - Schedulers: How to accelerate sampling? Deterministic Sampling
-  - Conditioning: Classifier; Classifier-free; Super-resolution; Inpainting; Others.
+  - Conditioning: Classifier Guidance; Classifier-free Guidance; Super-resolution; Inpainting; Others.
   - MONAI Generative Models: DEMO on [Classifier-free guidance](https://github.com/Project-MONAI/GenerativeModels/tree/main/tutorials/generative/classifier_free_guidance)
     
 3. Coffee break (30mins)
