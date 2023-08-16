@@ -20,7 +20,7 @@ Gif was generated based on https://www.youtube.com/watch?v=eQbi41lZgy4&ab_channe
 
 # News 
 
-- 2023-30-07: The tutorial will happen on the 12th October 2023 - Thursday in the morning AM.
+- 2023-30-07: The tutorial will happen on the 12th October 2023 - Thursday afternoon (PM).
 - 2023-14-03: The tutorial **Diffusion Models for Medical Imaging** has been ACCEPTED for [MICCAI 2023](https://conferences.miccai.org/2023/en/default.asp)!
 
 # Outline
