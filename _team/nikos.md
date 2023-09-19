@@ -1,6 +1,6 @@
 ---
 title: "Nikolaos Dionelis"
-role: "postdoc"
+role: "None"
 subtitle: "Post-doctoral Researcher"
 profile: "nikos.jpg"
 

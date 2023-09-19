@@ -36,6 +36,13 @@ MSc or undergraduate student, drop Sotos an email to arrange a chat.
   {% endif %}
 {% endfor %}
 
+## Software Engineer {#sde}
+
+{% for member in site.team %}
+  {% if member.role == "sde" %}  
+    {% include team/member.html %}
+  {% endif %}
+{% endfor %}
 
 ## Visiting Students {#visiting}
 
@@ -46,7 +53,8 @@ MSc or undergraduate student, drop Sotos an email to arrange a chat.
 {% endfor %}
 
 ## Alumni {#alumni}
-
+* Dr [Grzegorz Jacenków](https://www.linkedin.com/in/jacenkow/) (PhD) - Data Scientist at Amazon
+* Dr [Nikolaos Dionelis](https://uk.linkedin.com/in/nikolaos-dionelis-60688279) (PostDoc) - Joint Research Centre, EU
 * Dr [John Hartley](https://www.linkedin.com/in/john-hartley-4b37219b) (PostDoc) - Data Scientist at Natwest Group
 * Mr [Victor Campello](https://www.linkedin.com/in/v%C3%ADctor-m-campello-b3b635130) (Visiting PhD) - PhD at Universitat de Barcelona
 * Dr [Chen Qin](https://sites.google.com/view/chen-qin/) (Lecturer) - Lecturer/Assistant Professor, Imperial College, London

@@ -21,7 +21,7 @@ training data and is largely seen as a *black box*. In contrast we will:
 
 1. learn from complex, multimodal, healthcare records with minimal supervision;
    and
-2. focus on problems underpinning learning data representations optimised to
+2. focus on problems underpinning learning causal data representations optimised to
    provide a transparent base for the desired diagnoses and predictions. We will
    then translate these techniques to automated estimation of cardiac
    biomarkers, disease diagnosis, and most ambitiously, cardiac episode

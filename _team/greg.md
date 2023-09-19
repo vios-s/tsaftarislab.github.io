@@ -1,6 +1,6 @@
 ---
 title: "Grzegorz Jacenków"
-role: "phd"
+role: "None"
 subtitle: "PhD Student"
 profile: "greg.jpg"
 
