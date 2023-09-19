@@ -161,6 +161,8 @@ team:
       url: /team#pdra
     - title: PhD Students
       url: /team#phd
+    - title: Software Engineer
+      url: /team#sde
     - title: Visiting Students
       url: /team#visiting
     - title: Alumni
