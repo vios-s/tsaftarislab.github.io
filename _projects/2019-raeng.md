@@ -29,6 +29,17 @@ training data and is largely seen as a *black box*. In contrast we will:
 
 ## News
 
+* **Tutorial:** Diffusion Models for Medical Imaging [MICCAI Tutorial](/tutorials/diffusion), MICCAI, October 2023. 
+
+* **Workshop:** Co-organizing “Medical Applications with Disentanglements”, Workshop, MICCAI, 2022. [link](https://mad.ikim.nrw/)
+
+* **Workshop:** Co-organizing “Domain Adaptation and Representation Transfer”, Workshop, MICCAI, 2022. [link](https://sites.google.com/view/dart2022/home) 
+
+* **Invited talks:** Big AI in healthcare, Upenn (May 2021), DKFZ (March 2022)
+
+* **Keynote:** Algorithms to do more with less?, International Conference 
+on Image and Vision Engineering [IMPROVE](https://improve.scitevents.org/KeynoteSpeakers.aspx) 2021.
+
 * **Tutorial:** DREAM: Disentangled Representations for Efficient Algorithms for
   Medical data, [MICCAI Tutorial](/tutorials/dream2021), MICCAI, September 2021. 
   This year, the tutorial has an associated [paper](https://arxiv.org/abs/2108.12043).
