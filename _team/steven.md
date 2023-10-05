@@ -8,9 +8,10 @@ linkedin: "https://www.linkedin.com/in/steven-mcdonagh-6212bb109/"
 scholar: "https://scholar.google.co.uk/citations?user=k8-q2AoAAAAJ"
 twitter: "https://twitter.com/steve_mcdonagh"
 
+order: 2
 
 collection: team
-permalink: /team/sanchez
+permalink: /team/mcdonagh
 ---
 
 Steven McDonagh is a Senior Lecturer in IDCOM, University of Edinburgh where he works on Computer Vision and Machine Learning problems. Recent research directions include multi-modal, multi-task learning and medical imaging applications.
