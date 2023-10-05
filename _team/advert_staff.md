@@ -1,6 +1,6 @@
 ---
 title: "This could be you"
-role: "staff"
+role: "none"
 subtitle: "Lecturer"
 profile: "advert.jpg"
 
