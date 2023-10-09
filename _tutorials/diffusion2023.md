@@ -19,7 +19,9 @@ Gif was generated based on https://www.youtube.com/watch?v=eQbi41lZgy4&ab_channe
 -->
 
 # News 
-- 2023-10-01: Tutorial location: Vancouver Convention Center East Building Level 1 - Meeting Room 8.
+- 2023-10-09: Slides available [here]({{ base_path }}/assets/pdfs/Miccai2023_Tutorial_Diffusion_Models_slide_deck.pdf).
+- 2023-10-08: Thank you everyone who contributed to the tutorial! We had a great time and we hope you did too! We will be uploading the slides and the code soon. Stay tuned!
+- 2023-10-01: Tutorial location: Vanpdfscouver Convention Center East Building Level 1 - Meeting Room 8.
 - 2023-30-07: The tutorial will happen on 8 October 2023 - Sunday afternoon (PM).
 - 2023-14-03: The tutorial **Diffusion Models for Medical Imaging** has been ACCEPTED for [MICCAI 2023](https://conferences.miccai.org/2023/en/default.asp)!
 
