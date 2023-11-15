@@ -1,7 +1,7 @@
 ---
 title: "Valerio Giuffrida"
 role: "staff"
-subtitle: "Lecturer in Data Science (Edinburgh Napier University)"
+subtitle: "Assistant Professor in Computer Vision (The University of Nottingham) "
 profile: "valerio.jpg"
 
 order: 4
@@ -9,7 +9,7 @@ order: 4
 collection: team
 permalink: /team/giuffrida
 ---
-Valerio Giuffrida is a Lecturer in Data Science at Edinburgh Napier University.
+Valerio Giuffrida is a  Assistant Professor in Computer Vision  at The University of Nottingham. 
 
 He obtained the Ph.D. from IMT School For Advanced Studies Lucca (supervisor
 Prof. Sotirios A. Tsaftaris based at the University of Edinburgh). He has
