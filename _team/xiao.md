@@ -1,6 +1,6 @@
 ---
 title: "Xiao Liu"
-role: "phd"
+role: "None"
 subtitle: "PhD Student"
 profile: "xiao.jpg"
 
