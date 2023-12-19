@@ -38,9 +38,9 @@ and
 [Li](http://www.cedars-sinai.edu/Research-and-Education/Research-Labs/Li-Lab/),
 respectively. He maintained an adjunct appointment with EECS (2011-2015), and an
 affiliation with the [Image and Video Processing Laboratory
-(IVPL)](http://ivpl.eecs.northwestern.edu/), at Northwestern University,
+(IVPL)](https://sites.northwestern.edu/ivpl), at Northwestern University,
 directed by Prof. [Aggelos
-Katsaggelos](http://ivpl.eecs.northwestern.edu/user/AKatsaggelos).
+Katsaggelos](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/katsaggelos-aggelos.html).
 
 He has [published extensively]({{ base_path }}/publications/), particularly in
 interdisciplinary fields, with more than 180 journal and conference papers in
