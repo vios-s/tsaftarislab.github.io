@@ -12,9 +12,9 @@ permalink: /
 VIOS (pronounced vEEOs) means life (Βίος) in Greek; its common English
 equivalent *bio* abounds in science as the word denoting everything about life
 (biology, biomedicine, bioimaging...). Life is central to our mission. With
-advances in artificial intelligence, computer vision and inverse problems, our
+advances in artificial intelligence (AI), computer vision and inverse problems, our
 mission is to address societal problems by solving key challenges in the life
-and natural sciences.
+and natural sciences. This mission inspires our drive in interdisciplinary AI, where we use motivating applications to propose new AI-driven solutions. 
 
 ## News
 {% for post in site.posts limit:3 %}
