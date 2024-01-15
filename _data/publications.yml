@@ -62,37 +62,6 @@
 
 ## Journals.
 
-- "authors": "J. Hartley, P.P. Sanchez, F. Haider, S.A. Tsaftaris"
-  "code": null
-  "collection": "journals"
-  "img": null
-  "edition": "Volume 13, Number 1, 2023"
-  "homepage": null
-  "journal": "Nature Scientific Reports"
-  "other": null
-  "pdf": null
-  "preprint": "https://arxiv.org/abs/2202.08099"
-  "project": null
-  "published": 2023-12-04  # Replace with actual publication date if known
-  "text": null  
-  "title": "Neural networks memorise personal information from one sample"
-  "url": "https://www.nature.com/articles/s41598-023-48034-3"  
-
-- "authors": "A. Kascenas, P. Sanchez, P. Schrempf, C. Wang, W. Clackett, S.S. Mikhael, J.P. Voisey, K. Goatman, A. Weir, N. Pugeault, et al."
-  "code": null
-  "collection": "journals"
-  "img": null
-  "edition": "Volume 90, 2023"
-  "homepage": null
-  "journal": "Medical Image Analysis"
-  "other": null
-  "pdf": null
-  "preprint": "https://arxiv.org/abs/2301.08330"
-  "project": null
-  "published": "2023-12-01"  # Replace with actual publication date if known
-  "text": null  # Replace with article URL if known
-  "title": "The role of noise in denoising models for anomaly detection in medical images"
-  "url": "https://www.sciencedirect.com/science/article/pii/S1361841523002232"  # Replace with project URL if available
 
 - "authors": "L. Li, et al"
   "code": null
