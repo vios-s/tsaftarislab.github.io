@@ -1324,6 +1324,21 @@
 
 ## Conferences.
 
+- authors: "X. Liu, A. Kascenas, H. Watson, S.A. Tsaftaris, A.Q. O'Neil"
+  code: null
+  img: null
+  collection: "conference"
+  conference: "MICCAI 2023"
+  homepage: null
+  other: null
+  pdf: null
+  preprint: null
+  project: null
+  published: 2023-10-14  # Placeholder, adjust to the actual publication date
+  text: "https://link.springer.com/chapter/10.1007/978-3-031-45857-6_5"  # Placeholder, use if there is relevant text or a description to add
+  title: "Compositional Representation Learning for Brain Tumour Segmentation"
+  url: null  # Placeholder, add URL if available
+  workshop: "Workshop on Domain Adaptation and Representation Transfer"
 
 - authors: "C. Qin, S. Wang, C. Chen, H. Qiu, W. Bai, and D. Rueckert."
   code: "https://github.com/cq615/Biomechanics-informed-motion-tracking"
