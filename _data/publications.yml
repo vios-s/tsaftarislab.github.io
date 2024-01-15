@@ -67,7 +67,7 @@
   code: null
   collection: "journals"
   img: null
-  edition: "vol. 13, no. 1, pp. 21366"
+  edition: "vol. 13, no. 1, pp. 21366, 2023"
   homepage: null
   journal: "Scientific Reports"
   other: null
@@ -96,7 +96,7 @@
   code: null
   collection: "journals"
   img: null
-  edition: "vol. 2, no. 1, pp. 23"
+  edition: "vol. 2, no. 1, pp. 23, 2023"
   homepage: null
   journal: "Communications Engineering"
   other: null
@@ -112,7 +112,7 @@
   code: null
   collection: "journals"
   img: null
-  edition: "vol. 87, pp. 102808"
+  edition: "vol. 87, pp. 102808, 2023"
   homepage: null
   journal: "Medical Image Analysis"
   other: null
@@ -1327,7 +1327,7 @@
 - authors: "X. Liu, A. Kascenas, H. Watson, S.A. Tsaftaris, A.Q. O'Neil"
   code: null
   img: null
-  collection: "conference"
+  collection: "conferences"
   conference: "MICCAI 2023"
   homepage: null
   other: null
@@ -1342,7 +1342,7 @@
 
 - authors: "K. Vilouras, X. Liu, P. Sanchez, A.Q. O'Neil, S.A. Tsaftaris"
   title: "Group Distributionally Robust Knowledge Distillation"
-  collection: "conference"
+  collection: "conferences"
   conference: "MICCAI 2023"
   workshop: "International Workshop on Machine Learning in Medical Imaging"
   pages: "234-242"
@@ -1356,6 +1356,76 @@
   preprint: "https://arxiv.org/abs/2311.00476"
   project: null
   url: null
+
+- authors: "Y. Du, Y. Xue, R. Dharmakumar, S.A. Tsaftaris"
+  title: "Unveiling Fairness Biases in Deep Learning-Based Brain MRI Reconstruction"
+  collection: "conferences"
+  conference: "MICCAI 2023"
+  workshop: "Workshop on Clinical Image-Based Procedures"
+  pages: "102-111"
+  year: 2023
+  organization: "Springer"
+  published: 2023-10-15  # Placeholder, replace with the actual publication date once known
+  code: "https://github.com/ydu0117/ReconFairness"
+  img: null
+  homepage: null
+  pdf: null
+  preprint: "https://arxiv.org/abs/2309.14392"
+  project: null
+  url: null
+  text: "https://link.springer.com/chapter/10.1007/978-3-031-45249-9_10"
+
+- authors: "A. Kumar, N. Fathi, R. Mehta, B. Nichyporuk, J.-P. R. Falet, S. Tsaftaris, T. Arbel"
+  title: "Debiasing Counterfactuals in the Presence of Spurious Correlations"
+  collection: "conferences"
+  conference: "MICCAI 2023"
+  workshop: "Workshop on Clinical Image-Based Procedures"
+  pages: "276-286"
+  year: 2023
+  organization: "Springer"
+  published: 2023-10-09  # Placeholder, update when publication date is known
+  code: null
+  img: null
+  homepage: null
+  pdf: null
+  preprint: "https://arxiv.org/abs/2308.10984"
+  project: null
+  url: null
+  text: "https://link.springer.com/chapter/10.1007/978-3-031-45249-9_27"
+
+- authors: "N. Dionelis, R. Jackson, S.A. Tsaftaris, M. Yaghoobi"
+  title: "SLX: Similarity Learning for X-Ray Screening and Robust Automated Disassembled Object Detection"
+  collection: "conferences"
+  conference: "IJCNN 2023"
+  pages: "1-8"
+  year: 2023
+  organization: "IEEE"
+  published: 2023-08-02  # Placeholder, replace when publication date is known
+  code: null
+  img: null
+  homepage: null
+  pdf: null
+  preprint: null
+  project: null
+  url: null
+  text: "https://ieeexplore.ieee.org/abstract/document/10190997"
+
+- authors: "F. Chen, M.V. Giuffrida, S.A. Tsaftaris"
+  title: "Adapting Vision Foundation Models for Plant Phenotyping"
+  collection: "conferences"
+  conference: "IEEE/CVF International Conference on Computer Vision 2023"
+  pages: "604-613"
+  year: 2023
+  organization: "IEEE"
+  published: 2023-10-02  # Placeholder, replace when publication date is known
+  code: null
+  img: null
+  homepage: null
+  pdf: null
+  preprint: null
+  project: null
+  url: null
+  text: "https://openaccess.thecvf.com/content/ICCV2023W/CVPPA/html/Chen_Adapting_Vision_Foundation_Models_for_Plant_Phenotyping_ICCVW_2023_paper.html"
 
 - authors: "C. Qin, S. Wang, C. Chen, H. Qiu, W. Bai, and D. Rueckert."
   code: "https://github.com/cq615/Biomechanics-informed-motion-tracking"
