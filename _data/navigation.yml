@@ -70,12 +70,13 @@ main:
     url: /publications/
   - title: Code and Data
     url: /code_and_data/
+  - title: Tutorials
+    url: /tutorials/
   - title: Join us
     url: /join_us/
   - title: Contact
     url: /contact/
-  - title: Tutorials
-    url: /tutorials/
+  
     
 members:
 - title: Academic Staff
@@ -92,6 +93,8 @@ members:
 news:
   - title: News
     children:
+      - title: 2024
+        url: /news#2024
       - title: 2023
         url: /news#2023
       - title: 2022
@@ -116,6 +119,8 @@ publications:
         url: /publications#conferences
   - title: Sort by Year
     children:
+      - title: 2024
+        url: /publications/year#2024
       - title: 2023
         url: /publications/year#2023
       - title: 2022
