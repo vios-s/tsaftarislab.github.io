@@ -1340,6 +1340,23 @@
   url: null  # Placeholder, add URL if available
   workshop: "Workshop on Domain Adaptation and Representation Transfer"
 
+- authors: "K. Vilouras, X. Liu, P. Sanchez, A.Q. O'Neil, S.A. Tsaftaris"
+  title: "Group Distributionally Robust Knowledge Distillation"
+  collection: "conference"
+  conference: "MICCAI 2023"
+  workshop: "International Workshop on Machine Learning in Medical Imaging"
+  pages: "234-242"
+  published: 2023-10-15  # Placeholder, adjust to the actual publication date if known
+  text: "https://link.springer.com/chapter/10.1007/978-3-031-45676-3_24"  # Placeholder, add any relevant text or description if available
+  code: null
+  img: null
+  homepage: null
+  other: null
+  pdf: null
+  preprint: "https://arxiv.org/abs/2311.00476"
+  project: null
+  url: null
+
 - authors: "C. Qin, S. Wang, C. Chen, H. Qiu, W. Bai, and D. Rueckert."
   code: "https://github.com/cq615/Biomechanics-informed-motion-tracking"
   img: "qin_2020_biomecha_tracking.png"
