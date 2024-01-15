@@ -70,12 +70,12 @@ main:
     url: /publications/
   - title: Code and Data
     url: /code_and_data/
+  - title: Tutorials
+    url: /tutorials/
   - title: Join us
     url: /join_us/
   - title: Contact
     url: /contact/
-  - title: Tutorials
-    url: /tutorials/
     
 members:
 - title: Academic Staff
