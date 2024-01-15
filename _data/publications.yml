@@ -21,7 +21,7 @@
   published: 2019-09-28
   series: "Lecture Notes in Computer Science"
   text: "https://doi.org/10.1016/B978-0-323-41561-3.00009-4"
-  title: Cardiovascular Magnetic Resonance Assessment of Myocardial Oxygenation
+  title: "Cardiovascular Magnetic Resonance Assessment of Myocardial Oxygenation"
   url: null
   venue: "Elsevier"
 
@@ -32,7 +32,7 @@
   published: 2017-10-10
   series: "Introduction to the CVPPP 2017 Workshop Papers"
   text: "http://openaccess.thecvf.com/content_ICCV_2017_workshops/w29/html/Scharr_Editorial_Computer_Vision_ICCV_2017_paper.html"
-  title: Computer Vision Problems in Plant Phenotyping, CVPPP 2017
+  title: "Computer Vision Problems in Plant Phenotyping, CVPPP 2017"
   url: null
   venue: "The IEEE International Conference on Computer Vision (ICCV)"
 
@@ -43,7 +43,7 @@
   published: 2017-09-28
   series: "Lecture Notes in Computer Science"
   text: "https://www.springer.com/la/book/9783319681269"
-  title: Simulation and Synthesis in Medical Imaging: Second International Workshop, SASHIMI 2017
+  title: "Simulation and Synthesis in Medical Imaging: Second International Workshop, SASHIMI 2017"
   url: "http://www.cistib.org/sashimi/"
   venue: "SASHIMI 2017, Held in Conjunction with MICCAI 2017, Quebec City"
 
@@ -62,6 +62,21 @@
 
 ## Journals.
 
+- "authors": "J. Hartley, P.P. Sanchez, F. Haider, S.A. Tsaftaris"
+  "code": null
+  "collection": "journals"
+  "img": null
+  "edition": "Volume 13, Number 1, 2023"
+  "homepage": null
+  "journal": "Nature Scientific Reports"
+  "other": null
+  "pdf": null
+  "preprint": "https://arxiv.org/abs/2202.08099"
+  "project": null
+  "published": 2023-12-04  # Replace with actual publication date if known
+  "text": null  
+  "title": "Neural networks memorise personal information from one sample"
+  "url": "https://www.nature.com/articles/s41598-023-48034-3"
 
 - "authors": "L. Li, et al"
   "code": null
