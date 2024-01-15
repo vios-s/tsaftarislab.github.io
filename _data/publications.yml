@@ -1,6 +1,7 @@
 ---
 
 # Sotos.
+
 ## Books.
 
 - "authors": "I. Oksuz, A. Mukhopadhyay, R. Dharmakumar, and S. A. Tsaftaris"
@@ -62,6 +63,21 @@
 
 ## Journals.
 
+- authors: "J. Hartley, P.P. Sanchez, F. Haider, S.A. Tsaftaris"
+  code: null
+  collection: "journals"
+  img: null
+  edition: "vol. 13, no. 1, pp. 21366"
+  homepage: null
+  journal: "Scientific Reports"
+  other: null
+  pdf: null
+  preprint: "https://arxiv.org/abs/2202.08099"
+  project: null
+  published: 2023-12-04
+  text: null
+  title: "Neural Networks Memorise Personal Information from One Sample"
+  url: "https://www.nature.com/articles/s41598-023-48034-3"
 
 - authors: "A. Kascenas, P. Sanchez, P. Schrempf, C. Wang, W. Clackett, S.S. Mikhael, J.P. Voisey, K. Goatman, A. Weir, N. Pugeault, S.A. Tsaftaris, A.Q. O'Neil"
   collection: "journals"
