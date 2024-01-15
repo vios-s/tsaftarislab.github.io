@@ -4,17 +4,6 @@
 
 ## Books.
 
-- authors: "L. Koch, M. J. Cardoso, E. Ferrante, K. Kamnitsas, M. Islam, M. Jiang, N. Rieke, S.A. Tsaftaris, D. Yang"
-  collection: "books"  # Books are not typically part of a collection
-  img: null
-  edition: "Domain Adaptation and Representation Transfer"  # No edition given, and volume number is specified below
-  other: null
-  published: "2023-10-12"  # Specific date provided in the title for the workshop event
-  text: null
-  title: "Domain Adaptation and Representation Transfer: 5th MICCAI Workshop, DART 2023, \
-  \ Held in Conjunction with MICCAI 2023, Vancouver, BC, Canada, October 12, 2023, Proceedings"
-  url: "https://link.springer.com/book/10.1007/978-3-031-45857-6"  # Replace with the URL if available
-
 - "authors": "I. Oksuz, A. Mukhopadhyay, R. Dharmakumar, and S. A. Tsaftaris"
   "collection": "books"
   "edition": "Diabetes and Cardiovascular Disease, pp. 185–225."
