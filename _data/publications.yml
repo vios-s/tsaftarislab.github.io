@@ -63,6 +63,157 @@
 ## Journals.
 
 
+- authors: "A. Kascenas, P. Sanchez, P. Schrempf, C. Wang, W. Clackett, S.S. Mikhael, J.P. Voisey, K. Goatman, A. Weir, N. Pugeault, S.A. Tsaftaris, A.Q. O'Neil"
+  collection: "journals"
+  edition: "2023"
+  homepage: null
+  journal: "Medical Image Analysis"
+  other: null
+  pdf: null
+  preprint: "https://arxiv.org/abs/2301.08330"
+  published: 2023-09-11
+  text: "https://www.sciencedirect.com/science/article/abs/pii/S1361841523002232"
+  title: "The role of noise in denoising models for anomaly detection in medical images"
+  url: "https://www.sciencedirect.com/science/article/abs/pii/S1361841523002232"
+
+
+- authors: "V. Campello, T. Xia, X. Liu, P. Sanchez, C. Martín-Isla, S.E. Petersen, S. Segui, S.A. Tsaftaris, K. Lekadir"
+  code: "https://github.com/vicmancr/CardiacAging"
+  img: "campello_2022_cardiac_age.jpg"
+  collection: "journals"
+  edition: "2022"
+  homepage: null
+  journal: "Frontiers in Cardiovascular Medicine"
+  other: null
+  pdf: null
+  preprint: null
+  published: 2022-09-01
+  text: "https://www.frontiersin.org/articles/10.3389/fcvm.2022.983091/full"
+  title: "Cardiac aging synthesis from cross-sectional data with conditional generative adversarial networks"
+  url: null
+
+- authors: "T. Xia, P. Sanchez, C. Qin, S.A. Tsaftaris"
+  code: "https://github.com/xiat0616/adversarial_counterfactual_augmentation"
+  img: "xia_2022_counterfactual.jpg"
+  collection: "journals"
+  edition: "2022"
+  homepage: null
+  journal: "Frontiers in Radiology"
+  other: null
+  pdf: null
+  preprint: null
+  published: 2022-11-01
+  text: "https://www.frontiersin.org/articles/10.3389/fradi.2022.1039160/full"
+  title: "Adversarial counterfactual augmentation: application in Alzheimer’s disease classification"
+  url: null
+
+- authors: "P. Sanchez, J.P. Voisey, T. Xia, H.I. Watson, A.Q. O’Neil and S.A. Tsaftaris"
+  code: null
+  collection: "journals"
+  edition: "2022"
+  homepage: null
+  journal: "Royal Society Open Science"
+  other: null
+  pdf: null
+  preprint: null
+  published: 2022-08-01
+  text: "https://royalsocietypublishing.org/doi/full/10.1098/rsos.220638"
+  title: "Causal machine learning for healthcare and precision medicine"
+  url: null
+
+
+- authors: "C. Chen, C. Qin, H. Qiu, G. Tarroni, J. Duan, W. Bai, D. Rueckert"
+  code: null
+  collection: "journals"
+  edition: "vol. 7, 2020"
+  homepage: null
+  journal: "Frontiers in Cardiovascular Medicine"
+  other: null
+  pdf: null
+  preprint: null
+  published: 2020-03-05
+  text: "https://www.frontiersin.org/articles/10.3389/fcvm.2020.00025/full"
+  title: "Deep Learning for Cardiac Image Segmentation: A Review"
+  url: null
+
+- authors: "C. Qin, J. Duan, K. Hammernik, J. Schlemper, T. Küstner, R. Botnar, C. Prieto, A. N. Price, J. V. Hajnal, and D. Rueckert"
+  code: "https://github.com/cq615/kt-Dynamic-MRI-Reconstruction"
+  img: "qin_2020_MRI_rec.png"
+  collection: "journals"
+  edition: "2021"
+  homepage: null
+  journal: "Magnetic Resonance in Medicine"
+  preprint: "https://arxiv.org/abs/2012.11974"
+  other: null
+  pdf: null
+  preprint: null
+  published: 2021-06-13
+  text: "https://doi.org/10.1002/mrm.28917"
+  title: "Complementary Time-Frequency Domain Networks for Dynamic Parallel MR Image Reconstruction"
+  url: null
+
+- authors: "C. Qin, J. Schlemper, J. Caballero, A.N. Price, J.V. Hajnal, and D. Rueckert"
+  code: "https://github.com/cq615/Deep-MRI-Reconstruction"
+  collection: "journals"
+  edition: "vol. 38, 2019"
+  img: "qin_2017_crnn_mri.png"
+  homepage: null
+  journal: "IEEE Transactions on Medical Imaging"
+  other: null
+  pdf: null
+  preprint: "https://arxiv.org/pdf/1704.02422.pdf"
+  published: 2017-04-01
+  text: "https://ieeexplore.ieee.org/abstract/document/8425639/"
+  title: "Convolutional Recurrent Neural Networks for Dynamic MR Image Reconstruction"
+  url: null
+
+
+- "authors": "C. Bowles, C. Qin, R. Guerrero, R. Gunn, A. Hammers, D.A. Dickie,\
+    \ M. Valdés Hernández, J. Wardlaw, D. Rueckert"
+  "code": null
+  "collection": "journals"
+  "edition": "vol. 16, 2017"
+  "homepage": null
+  "journal": "NeuroImage: Clinical"
+  "other": null
+  "pdf": null
+  "preprint": null
+  "published": 2018-09-08
+  "text": "https://doi.org/10.1016/j.nicl.2017.09.003"
+  "title": "Brain lesion segmentation through image synthesis and outlier detection"
+  "url": null
+
+- "authors": "R. Guerrero, C. Qin, O. Oktay, C. Bowles, L. Chen, R. Joules,\
+    \ R. Wolz, M.C. Valdés-Hernández, D.A. Dickie, J. Wardlaw, D. Rueckert"
+  "code": null
+  "collection": "journals"
+  "edition": "vol. 17, 2018"
+  "homepage": null
+  "journal": "NeuroImage: Clinical"
+  "other": null
+  "pdf": null
+  "preprint": null
+  "published": 2017-12-20
+  "text": "https://doi.org/10.1016/j.nicl.2017.12.022"
+  "title": "White matter hyperintensity and stroke lesion segmentation and\
+    \ differentiation using convolutional neural networks"
+  "url": null
+
+- authors: "C. Qin, R. Guerrero, C. Bowles, L. Chen, D.A. Dickie, M. del C. Valdes-Hernandez,\
+    \ J. Wardlaw, D. Rueckert"
+  code: null
+  collection: "journals"
+  edition: "vol. 77, 2018"
+  homepage: null
+  journal: "Pattern Recognition"
+  other: null
+  pdf: null
+  preprint: null
+  published: 2017-12-18
+  text: "https://www.sciencedirect.com/science/article/pii/S0031320317305022"
+  title: "A large margin algorithm for automated segmentation of white matter hyperintensity"
+  url: null
+
 - "authors": "L. Li, et al"
   "code": null
   "collection": "journals"
@@ -1157,6 +1308,69 @@
   "text": "https://link.springer.com/chapter/10.1007/0-306-48718-7_4"
 
 ## Conferences.
+
+
+- authors: "C. Qin, S. Wang, C. Chen, H. Qiu, W. Bai, and D. Rueckert."
+  code: "https://github.com/cq615/Biomechanics-informed-motion-tracking"
+  img: "qin_2020_biomecha_tracking.png"
+  collection: "conferences"
+  conference: "MICCAI 2020"
+  edition: "vol 12263. Springer"
+  homepage: null
+  journal: null
+  preprint: "https://arxiv.org/abs/2006.04725"
+  other: null
+  pdf: null
+  published: 2020-09-29
+  text: ""
+  title: "Biomechanics-Informed Neural Networks for Myocardial Motion Tracking in MRI"
+  url: "https://link.springer.com/chapter/10.1007/978-3-030-59716-0_29"
+
+- authors: "C. Qin, W. Bai, J. Schlemper, S. E. Petersen, S. K. Piechnik, S. Neubauer, and D. Rueckert"
+  code: "https://github.com/cq615/Biomechanics-informed-motion-tracking"
+  img: "qin_2018_motion_seg.png"
+  collection: "conferences"
+  conference: "MICCAI 2018"
+  edition: "pp. 472-480, Springer"
+  homepage: null
+  journal: null
+  preprint: "https://arxiv.org/abs/1806.04066"
+  other: null
+  pdf: null
+  published: 2018-09-26
+  text: ""
+  title: "Joint learning of motion estimation and segmentation for cardiac MR image sequences."
+  url: "https://link.springer.com/chapter/10.1007/978-3-030-00934-2_53"
+
+- "authors": "C. Bowles, C. Qin, C. Ledig, R. Guerrero, R. Gunn, A. Hammers, E. Sakka, D.A. Dickie,\
+    \ M. Valdés Hernández, N. Royle, J. Wardlaw, H. Rhodius-Meester, B. Tijms, A.W. Lemstra,\
+    \ W. van der Flier, F. Barkhof, P. Scheltens, D. Rueckert"
+  "code": null
+  "collection": "conferences"
+  "conference": "MICCAI 2016"
+  "homepage": null
+  "other": null
+  "pdf": null
+  "preprint": null
+  "published": 2016-10-01
+  "text": "https://link.springer.com/chapter/10.1007/978-3-319-46630-9_9"
+  "title": "Pseudo-healthy Image Synthesis for White Matter Lesion Segmentation"
+  "url": null
+  "workshop": "SASHIMI: Simulation and Synthesis in Medical Imaging"
+- "authors": "C. Qin, R. Moreno, C. Bowles, C. Ledig, P. Scheltens, F. Barkhof, H. Rhodius-Meester,\
+    \ B. Tijms, A.W. Lemstra, W.M. van der Flier, B. Glocker, D. Rueckert"
+  "code": null
+  "collection": "conferences"
+  "conference": "MICCAI 2016"
+  "homepage": null
+  "other": null
+  "pdf": null
+  "preprint": null
+  "published": 2016-10-01
+  "text": "https://link.springer.com/chapter/10.1007/978-3-319-47157-0_13"
+  "title": "A Semi-supervised Large Margin Algorithm for White Matter Hyperintensity Segmentation"
+  "url": null
+  "workshop": "MLMI: Machine Learning in Medical Imaging"
 
 - "authors": "R. Su, X. Liu ,S.A. Tsaftaris"
   "code": null
@@ -2976,220 +3190,3 @@
     \ protection"
   "url": null
   "workshop": "Workshop on Digital & Computational Video"
-
-## Journals.
-
-- authors: "A. Kascenas, P. Sanchez, P. Schrempf, C. Wang, W. Clackett, S.S. Mikhael, J.P. Voisey, K. Goatman, A. Weir, N. Pugeault, S.A. Tsaftaris, A.Q. O'Neil"
-  collection: "journals"
-  edition: "2023"
-  homepage: null
-  journal: "Medical Image Analysis"
-  other: null
-  pdf: null
-  preprint: "https://arxiv.org/abs/2301.08330"
-  published: 2023-09-11
-  text: "https://www.sciencedirect.com/science/article/abs/pii/S1361841523002232"
-  title: "The role of noise in denoising models for anomaly detection in medical images"
-  url: "https://www.sciencedirect.com/science/article/abs/pii/S1361841523002232"
-
-
-- authors: "V. Campello, T. Xia, X. Liu, P. Sanchez, C. Martín-Isla, S.E. Petersen, S. Segui, S.A. Tsaftaris, K. Lekadir"
-  code: "https://github.com/vicmancr/CardiacAging"
-  img: "campello_2022_cardiac_age.jpg"
-  collection: "journals"
-  edition: "2022"
-  homepage: null
-  journal: "Frontiers in Cardiovascular Medicine"
-  other: null
-  pdf: null
-  preprint: null
-  published: 2022-09-01
-  text: "https://www.frontiersin.org/articles/10.3389/fcvm.2022.983091/full"
-  title: "Cardiac aging synthesis from cross-sectional data with conditional generative adversarial networks"
-  url: null
-
-- authors: "T. Xia, P. Sanchez, C. Qin, S.A. Tsaftaris"
-  code: "https://github.com/xiat0616/adversarial_counterfactual_augmentation"
-  img: "xia_2022_counterfactual.jpg"
-  collection: "journals"
-  edition: "2022"
-  homepage: null
-  journal: "Frontiers in Radiology"
-  other: null
-  pdf: null
-  preprint: null
-  published: 2022-11-01
-  text: "https://www.frontiersin.org/articles/10.3389/fradi.2022.1039160/full"
-  title: "Adversarial counterfactual augmentation: application in Alzheimer’s disease classification"
-  url: null
-
-- authors: "P. Sanchez, J.P. Voisey, T. Xia, H.I. Watson, A.Q. O’Neil and S.A. Tsaftaris"
-  code: null
-  collection: "journals"
-  edition: "2022"
-  homepage: null
-  journal: "Royal Society Open Science"
-  other: null
-  pdf: null
-  preprint: null
-  published: 2022-08-01
-  text: "https://royalsocietypublishing.org/doi/full/10.1098/rsos.220638"
-  title: "Causal machine learning for healthcare and precision medicine"
-  url: null
-
-
-- authors: "C. Chen, C. Qin, H. Qiu, G. Tarroni, J. Duan, W. Bai, D. Rueckert"
-  code: null
-  collection: "journals"
-  edition: "vol. 7, 2020"
-  homepage: null
-  journal: "Frontiers in Cardiovascular Medicine"
-  other: null
-  pdf: null
-  preprint: null
-  published: 2020-03-05
-  text: "https://www.frontiersin.org/articles/10.3389/fcvm.2020.00025/full"
-  title: "Deep Learning for Cardiac Image Segmentation: A Review"
-  url: null
-
-- authors: "C. Qin, J. Duan, K. Hammernik, J. Schlemper, T. Küstner, R. Botnar, C. Prieto, A. N. Price, J. V. Hajnal, and D. Rueckert"
-  code: "https://github.com/cq615/kt-Dynamic-MRI-Reconstruction"
-  img: "qin_2020_MRI_rec.png"
-  collection: "journals"
-  edition: "2021"
-  homepage: null
-  journal: "Magnetic Resonance in Medicine"
-  preprint: "https://arxiv.org/abs/2012.11974"
-  other: null
-  pdf: null
-  preprint: null
-  published: 2021-06-13
-  text: "https://doi.org/10.1002/mrm.28917"
-  title: "Complementary Time-Frequency Domain Networks for Dynamic Parallel MR Image Reconstruction"
-  url: null
-
-- authors: "C. Qin, J. Schlemper, J. Caballero, A.N. Price, J.V. Hajnal, and D. Rueckert"
-  code: "https://github.com/cq615/Deep-MRI-Reconstruction"
-  collection: "journals"
-  edition: "vol. 38, 2019"
-  img: "qin_2017_crnn_mri.png"
-  homepage: null
-  journal: "IEEE Transactions on Medical Imaging"
-  other: null
-  pdf: null
-  preprint: "https://arxiv.org/pdf/1704.02422.pdf"
-  published: 2017-04-01
-  text: "https://ieeexplore.ieee.org/abstract/document/8425639/"
-  title: "Convolutional Recurrent Neural Networks for Dynamic MR Image Reconstruction"
-  url: null
-
-
-- "authors": "C. Bowles, C. Qin, R. Guerrero, R. Gunn, A. Hammers, D.A. Dickie,\
-    \ M. Valdés Hernández, J. Wardlaw, D. Rueckert"
-  "code": null
-  "collection": "journals"
-  "edition": "vol. 16, 2017"
-  "homepage": null
-  "journal": "NeuroImage: Clinical"
-  "other": null
-  "pdf": null
-  "preprint": null
-  "published": 2018-09-08
-  "text": "https://doi.org/10.1016/j.nicl.2017.09.003"
-  "title": "Brain lesion segmentation through image synthesis and outlier detection"
-  "url": null
-
-- "authors": "R. Guerrero, C. Qin, O. Oktay, C. Bowles, L. Chen, R. Joules,\
-    \ R. Wolz, M.C. Valdés-Hernández, D.A. Dickie, J. Wardlaw, D. Rueckert"
-  "code": null
-  "collection": "journals"
-  "edition": "vol. 17, 2018"
-  "homepage": null
-  "journal": "NeuroImage: Clinical"
-  "other": null
-  "pdf": null
-  "preprint": null
-  "published": 2017-12-20
-  "text": "https://doi.org/10.1016/j.nicl.2017.12.022"
-  "title": "White matter hyperintensity and stroke lesion segmentation and\
-    \ differentiation using convolutional neural networks"
-  "url": null
-
-- authors: "C. Qin, R. Guerrero, C. Bowles, L. Chen, D.A. Dickie, M. del C. Valdes-Hernandez,\
-    \ J. Wardlaw, D. Rueckert"
-  code: null
-  collection: "journals"
-  edition: "vol. 77, 2018"
-  homepage: null
-  journal: "Pattern Recognition"
-  other: null
-  pdf: null
-  preprint: null
-  published: 2017-12-18
-  text: "https://www.sciencedirect.com/science/article/pii/S0031320317305022"
-  title: "A large margin algorithm for automated segmentation of white matter hyperintensity"
-  url: null
-
-## Conferences.
-
-- authors: "C. Qin, S. Wang, C. Chen, H. Qiu, W. Bai, and D. Rueckert."
-  code: "https://github.com/cq615/Biomechanics-informed-motion-tracking"
-  img: "qin_2020_biomecha_tracking.png"
-  collection: "conferences"
-  conference: "MICCAI 2020"
-  edition: "vol 12263. Springer"
-  homepage: null
-  journal: null
-  preprint: "https://arxiv.org/abs/2006.04725"
-  other: null
-  pdf: null
-  published: 2020-09-29
-  text: ""
-  title: "Biomechanics-Informed Neural Networks for Myocardial Motion Tracking in MRI"
-  url: "https://link.springer.com/chapter/10.1007/978-3-030-59716-0_29"
-
-- authors: "C. Qin, W. Bai, J. Schlemper, S. E. Petersen, S. K. Piechnik, S. Neubauer, and D. Rueckert"
-  code: "https://github.com/cq615/Biomechanics-informed-motion-tracking"
-  img: "qin_2018_motion_seg.png"
-  collection: "conferences"
-  conference: "MICCAI 2018"
-  edition: "pp. 472-480, Springer"
-  homepage: null
-  journal: null
-  preprint: "https://arxiv.org/abs/1806.04066"
-  other: null
-  pdf: null
-  published: 2018-09-26
-  text: ""
-  title: "Joint learning of motion estimation and segmentation for cardiac MR image sequences."
-  url: "https://link.springer.com/chapter/10.1007/978-3-030-00934-2_53"
-
-- "authors": "C. Bowles, C. Qin, C. Ledig, R. Guerrero, R. Gunn, A. Hammers, E. Sakka, D.A. Dickie,\
-    \ M. Valdés Hernández, N. Royle, J. Wardlaw, H. Rhodius-Meester, B. Tijms, A.W. Lemstra,\
-    \ W. van der Flier, F. Barkhof, P. Scheltens, D. Rueckert"
-  "code": null
-  "collection": "conferences"
-  "conference": "MICCAI 2016"
-  "homepage": null
-  "other": null
-  "pdf": null
-  "preprint": null
-  "published": 2016-10-01
-  "text": "https://link.springer.com/chapter/10.1007/978-3-319-46630-9_9"
-  "title": "Pseudo-healthy Image Synthesis for White Matter Lesion Segmentation"
-  "url": null
-  "workshop": "SASHIMI: Simulation and Synthesis in Medical Imaging"
-- "authors": "C. Qin, R. Moreno, C. Bowles, C. Ledig, P. Scheltens, F. Barkhof, H. Rhodius-Meester,\
-    \ B. Tijms, A.W. Lemstra, W.M. van der Flier, B. Glocker, D. Rueckert"
-  "code": null
-  "collection": "conferences"
-  "conference": "MICCAI 2016"
-  "homepage": null
-  "other": null
-  "pdf": null
-  "preprint": null
-  "published": 2016-10-01
-  "text": "https://link.springer.com/chapter/10.1007/978-3-319-47157-0_13"
-  "title": "A Semi-supervised Large Margin Algorithm for White Matter Hyperintensity Segmentation"
-  "url": null
-  "workshop": "MLMI: Machine Learning in Medical Imaging"
