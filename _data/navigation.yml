@@ -116,8 +116,6 @@ publications:
         url: /publications#conferences
   - title: Sort by Year
     children:
-      - title: 2024
-        url: /publications/year#2024
       - title: 2023
         url: /publications/year#2023
       - title: 2022
