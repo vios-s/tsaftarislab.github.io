@@ -1316,7 +1316,7 @@
   homepage: true
   other: null
   pdf: null
-  preprint: null
+  preprint: "https://arxiv.org/abs/2310.06562"
   project: null
   published: 2023-10-14  # Placeholder, adjust to the actual publication date
   text: "https://link.springer.com/chapter/10.1007/978-3-031-45857-6_5"  # Placeholder, use if there is relevant text or a description to add
