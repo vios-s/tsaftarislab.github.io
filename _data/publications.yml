@@ -1351,7 +1351,7 @@
   organization: "Springer"
   published: 2023-10-15  # Placeholder, replace with the actual publication date once known
   code: "https://github.com/ydu0117/ReconFairness"
-  img: null
+  img: "du_2023_unveil.png"
   homepage: true
   pdf: null
   preprint: "https://arxiv.org/abs/2309.14392"
