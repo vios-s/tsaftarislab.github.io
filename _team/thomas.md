@@ -2,7 +2,7 @@
 title: "Thomas Melistas"
 role: "phd"
 subtitle: "PhD Student"
-profile: "thomas.jpeg"
+profile: "thomas.jpg"
 
 github: "https://github.com/gulnazaki"
 linkedin: "https://www.linkedin.com/in/thomas-melistas/"
