@@ -1,6 +1,6 @@
 ---
 title: "Spyridon Thermos"
-role: "None"
+role: "phd"
 subtitle: "Post-doctoral Researcher"
 profile: "spiros.jpg"
 

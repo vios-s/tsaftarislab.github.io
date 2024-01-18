@@ -20,4 +20,4 @@ Previously he was a Principal Research Scientist with Huawei R&D, UK and has als
 
 His research interests span topics in Computer Vision, Machine Learning and Medical Image Analysis. You can occasionally find him up a mountain; running or cycling.
 
-Please visit his [his personal website](https://smcdonagh.github.io/) for more information.
+Please visit his [personal website](https://smcdonagh.github.io/) for more information.
