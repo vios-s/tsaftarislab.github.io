@@ -16,10 +16,8 @@ permalink: /team/tsaftaris
 ---
 Sotirios A. Tsaftaris is currently Chair (Full Professor) in Machine Learning
 and Computer Vision at the University of Edinburgh. He also holds the [Canon
-Medical/Royal Academy of Engineering Research Chair in Healthcare AI](https://www.raeng.org.uk/grants-prizes/grants/support-for-research/research-chairs/current-and-recent-awards).  
-He is the Director for the EPSRC-funded AI Hub for Causality in Healthcare AI with Real Data (CHAI). 
-He is an ELLIS Fellow of the [European Lab for Learning and Intelligent Systems (ELLIS)](https://ellis.eu) of [Edinburgh's ELLIS Unit](https://web.inf.ed.ac.uk/ellis-edinburgh).
-Since 2023 he is a visiting researcher with [Archimedes RC](https://www.archimedesai.gr/en/) a research centre of excellence in AI in Athens, Greece. Between 2016 and 2023 he was a Turing Fellow with the Alan Turing Institute.  
+Medical/Royal Academy of Engineering Research Chair in Healthcare AI](https://www.raeng.org.uk/grants-prizes/grants/support-for-research/research-chairs/current-and-recent-awards).  He is an ELLIS Fellow of the [European Lab for Learning and Intelligent Systems (ELLIS)](https://ellis.eu) of [Edinburgh's ELLIS Unit](https://web.inf.ed.ac.uk/ellis-edinburgh).
+Since 2023 he is a visiting researcher with [Archimedes RC](https://www.archimedesai.gr/en/) a research centre of excellence in AI in Athens, Greece. Between 2016 and 2023 he was a Turing Fellow with the Alan Turing Institute.
 
 He received the M.Sc. and Ph.D degrees in Electrical and Computer Engineering
 from [Northwestern University](http://www.northwestern.edu/), Evanston, IL, in
@@ -34,16 +32,18 @@ joint Research Assistant Professor appointment at Northwestern University with
 the [Departments of Electrical Engineering and Computer Science
 (EECS)](http://www.eecs.northwestern.edu/) and [Radiology Feinberg School of
 Medicine](http://www.radiology.northwestern.edu/), working closely with
-colleagues such as Profs. [Katsaggelos](http://ivpl.eecs.northwestern.edu/user/AKatsaggelos),
+Professors [Katsaggelos](http://ivpl.eecs.northwestern.edu/user/AKatsaggelos),
 [Dharmakumar](https://medicine.iu.edu/news/2021/08/Krannert-Cardiovascular-Research-Center-names-first-director),
 and
-[Li](http://www.cedars-sinai.edu/Research-and-Education/Research-Labs/Li-Lab/). 
-He maintained an adjunct appointment with EECS (2011-2015), and an
+[Li](http://www.cedars-sinai.edu/Research-and-Education/Research-Labs/Li-Lab/),
+respectively. He maintained an adjunct appointment with EECS (2011-2015), and an
 affiliation with the [Image and Video Processing Laboratory
-(IVPL)](https://sites.northwestern.edu/ivpl), at Northwestern University, upon his return to Europe.
+(IVPL)](https://sites.northwestern.edu/ivpl), at Northwestern University,
+directed by Prof. [Aggelos
+Katsaggelos](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/katsaggelos-aggelos.html).
 
 He has [published extensively]({{ base_path }}/publications/), particularly in
-interdisciplinary fields, with more than 200 journal and conference papers in
+interdisciplinary fields, with more than 180 journal and conference papers in
 his active record, with a variety of co-authors and collaborators.
 
 While he has served in many technical program committees of international
