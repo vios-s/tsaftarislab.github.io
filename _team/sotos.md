@@ -16,7 +16,9 @@ permalink: /team/tsaftaris
 ---
 Sotirios A. Tsaftaris is currently Chair (Full Professor) in Machine Learning
 and Computer Vision at the University of Edinburgh. He also holds the [Canon
-Medical/Royal Academy of Engineering Research Chair in Healthcare AI](https://www.raeng.org.uk/grants-prizes/grants/support-for-research/research-chairs/current-and-recent-awards).  He is the Director for the EPSRC-funded AI Hub for Causality in Healthcare AI with Real Data (CHAI). He is an ELLIS Fellow of the [European Lab for Learning and Intelligent Systems (ELLIS)](https://ellis.eu) of [Edinburgh's ELLIS Unit](https://web.inf.ed.ac.uk/ellis-edinburgh).
+Medical/Royal Academy of Engineering Research Chair in Healthcare AI](https://www.raeng.org.uk/grants-prizes/grants/support-for-research/research-chairs/current-and-recent-awards).  
+He is the Director for the EPSRC-funded AI Hub for Causality in Healthcare AI with Real Data (CHAI). 
+He is an ELLIS Fellow of the [European Lab for Learning and Intelligent Systems (ELLIS)](https://ellis.eu) of [Edinburgh's ELLIS Unit](https://web.inf.ed.ac.uk/ellis-edinburgh).
 Since 2023 he is a visiting researcher with [Archimedes RC](https://www.archimedesai.gr/en/) a research centre of excellence in AI in Athens, Greece. Between 2016 and 2023 he was a Turing Fellow with the Alan Turing Institute.  
 
 He received the M.Sc. and Ph.D degrees in Electrical and Computer Engineering
@@ -35,7 +37,8 @@ Medicine](http://www.radiology.northwestern.edu/), working closely with
 colleagues such as Profs. [Katsaggelos](http://ivpl.eecs.northwestern.edu/user/AKatsaggelos),
 [Dharmakumar](https://medicine.iu.edu/news/2021/08/Krannert-Cardiovascular-Research-Center-names-first-director),
 and
-[Li](http://www.cedars-sinai.edu/Research-and-Education/Research-Labs/Li-Lab/). He maintained an adjunct appointment with EECS (2011-2015), and an
+[Li](http://www.cedars-sinai.edu/Research-and-Education/Research-Labs/Li-Lab/). 
+He maintained an adjunct appointment with EECS (2011-2015), and an
 affiliation with the [Image and Video Processing Laboratory
 (IVPL)](https://sites.northwestern.edu/ivpl), at Northwestern University, upon his return to Europe.
 
