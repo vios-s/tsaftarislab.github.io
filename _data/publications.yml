@@ -63,54 +63,6 @@
 
 ## Journals.
 
-- authors: "Reinke, Annika and Tizabi, Minu D and Baumgartner and others"
-  code: null
-  collection: "journals"
-  img: null
-  edition: "1--13"
-  homepage: true
-  journal: "Nature Methods"
-  other: null
-  pdf: null
-  preprint: "https://arxiv.org/abs/2302.01790"
-  project: null
-  published: 2024-02-12
-  text: "https://www.nature.com/articles/s41592-023-02150-0"
-  title: "Understanding metric-related pitfalls in image analysis validation"
-  url: null
-
-- authors: "Liu, Xiao and Sanchez, Pedro and Thermos, Spyridon and O’Neil, Alison Q and Tsaftaris, Sotirios A"
-  code: null
-  collection: "journals"
-  img: null
-  edition: "1-1"
-  homepage: true
-  journal: "IEEE Transactions on Medical Imaging"
-  other: null
-  pdf: null
-  preprint: "https://arxiv.org/abs/2306.07783"
-  project: null
-  published: 2024-01-26
-  text: "https://ieeexplore.ieee.org/abstract/document/10415220"
-  title: "Compositionally Equivariant Representation Learning"
-  url: null
-
-- authors: "Maier-Hein, Lena and Reinke, Annika and Godau, Patrick and others"
-  code: null
-  collection: "journals"
-  img: null
-  edition: "1--18"
-  homepage: true
-  journal: "Nature Methods"
-  other: null
-  pdf: null
-  preprint: "https://arxiv.org/abs/2206.01653"
-  project: null
-  published: 2024-02-12
-  text: "https://www.nature.com/articles/s41592-023-02151-z"
-  title: "Metrics reloaded: recommendations for image analysis validation"
-  url: null
-
 - authors: "J. Hartley, P.P. Sanchez, F. Haider, S.A. Tsaftaris"
   code: null
   collection: "journals"
@@ -1361,7 +1313,7 @@
   img: null
   collection: "conferences"
   conference: "MICCAI 2023"
-  homepage: false
+  homepage: true
   other: null
   pdf: null
   preprint: "https://arxiv.org/abs/2310.06562"
@@ -1382,7 +1334,7 @@
   text: "https://link.springer.com/chapter/10.1007/978-3-031-45676-3_24"  # Placeholder, add any relevant text or description if available
   code: null
   img: null
-  homepage: false
+  homepage: true
   other: null
   pdf: null
   preprint: "https://arxiv.org/abs/2311.00476"
@@ -1400,7 +1352,7 @@
   published: 2023-10-15  # Placeholder, replace with the actual publication date once known
   code: "https://github.com/ydu0117/ReconFairness"
   img: "du_2023_unveil.png"
-  homepage: false
+  homepage: true
   pdf: null
   preprint: "https://arxiv.org/abs/2309.14392"
   project: null
