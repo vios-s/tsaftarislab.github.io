@@ -8,8 +8,7 @@ sidebar:
 
 ![Team]({{ base_path }}/assets/images/joinbanner.jpg)
 
-We are hosting an open house for prospective PhD students on 24 November at 1pm GMT – [register here](https://events.teams.microsoft.com/event/9ac6a80f-cf08-4f40-877e-ebcb73e4bc88@2e9f06b0-1669-4589-8789-10a06934dc61) 
-
+Currently we have 3 open positions for PhD students, see below. 
 
 ## Why Join VIOS {#vios}
 We are an elite team of investigators at the University of Edinburgh --a powerhouse in AI.  There are several reasons to join our team:
