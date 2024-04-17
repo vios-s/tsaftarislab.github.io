@@ -1,10 +1,10 @@
 ---
 title: "DiMEDIA:Diffusion Models in Medical Imaging and Analysis"
-shorttitle: "DiMEDIA"
+shorttitle: "DiMEDIA-2024"
 summary: Diffusion Models in Medical Imaging and Analysis
 
 collection: tutorials
-permalink: /tutorials/DiMEDIA
+permalink: /tutorials/DiMEDIA-2024
 sidebar:
   nav: "tutorials"
 ---

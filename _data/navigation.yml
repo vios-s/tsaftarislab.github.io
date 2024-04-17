@@ -28,36 +28,14 @@ code:
 tutorials:
   - title: Tutorials
     children:
+      - title: DiMEDIA 2024
+        url: /tutorials/DiMEDIA-2024
       - title: Diffusion Models
         url: /tutorials/diffusion
       - title: DREAM 2021
         url: /tutorials/dream2021
       - title: DREAM 2020
         url: /tutorials/dream2020
-
-dream:
-  - title: Tutorials
-    children:
-      - title: Diffusion Models
-        url: /tutorials/diffusion
-      - title: DREAM 2021
-        url: /tutorials/dream2021
-      - title: DREAM 2020
-        url: /tutorials/dream2020
-  - title: DREAM 2021 Tutorial
-    children:
-      - title: Outline
-        url: /tutorials/dream2021#outline
-      - title: Program
-        url: /tutorials/dream2021#program
-      - title: Learning Objectives
-        url: /tutorials/dream2021#objectives
-      - title: Motivation
-        url: /tutorials/dream2021#motivation
-      - title: Teachers
-        url: /tutorials/dream2021#teachers
-      - title: Support
-        url: /tutorials/dream2021#support
 
 main:
   - title: News
