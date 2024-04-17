@@ -5,7 +5,7 @@ summary: At Miccai 2021, we introduce and motivate the use of disentangled repre
 collection: tutorials
 permalink: /tutorials/dream2021
 sidebar:
-  nav: "dream"
+  nav: "tutorials"
 ---
 
 A **MICCAI 2021** (Virtual) Tutorial by Sotirios A. Tsaftaris, Alison Q. O'Neil, Spyridon Thermos, Xiao Liu and Pedro Sanchez.

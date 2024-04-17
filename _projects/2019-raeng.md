@@ -28,8 +28,7 @@ training data and is largely seen as a *black box*. In contrast we will:
    prediction, thus opening roads to preventive care.
 
 ## News
-
-* **Tutorial:** Diffusion Models for Medical Imaging [MICCAI Tutorial](/tutorials/diffusion), MICCAI, October 2023. 
+* **Tutorial:** Diffusion Models for Medical Imaging [MICCAI Tutorial](/tutorials/diffusion-2023), MICCAI, October 2023. 
 
 * **Workshop:** Co-organizing “Medical Applications with Disentanglements”, Workshop, MICCAI, 2022. [link](https://mad.ikim.nrw/)
 
