@@ -30,7 +30,7 @@ tutorials:
     children:
       - title: DiMEDIA 2024
         url: /tutorials/DiMEDIA-2024
-      - title: Diffusion Models
+      - title: Diffusion Models 2023
         url: /tutorials/diffusion
       - title: DREAM 2021
         url: /tutorials/dream2021

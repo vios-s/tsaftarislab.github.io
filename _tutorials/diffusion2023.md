@@ -4,7 +4,7 @@ shorttitle: "Diffusion Models For Medical Imaging"
 summary: Diffusion Models for Medical Imaging
 
 collection: tutorials
-permalink: /tutorials/diffusion
+permalink: /tutorials/diffusion-2023
 sidebar:
   nav: "tutorials"
 ---
