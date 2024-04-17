@@ -19,7 +19,7 @@ A **ISBI 2024** Tutorial.
 
 # News 
 - 2024-16-04: The tutorial will happen on 28 May 2024 - Tuesday afternoon (PM).
-- 2024-09-01: The tutorial **DDiMEDIA:Diffusion Models in Medical Imaging and Analysis** has been ACCEPTED for [ISBI 2024](https://biomedicalimaging.org/2024/tutorials-final/)!
+- 2024-09-01: The tutorial **DiMEDIA:Diffusion Models in Medical Imaging and Analysis** has been ACCEPTED for [ISBI 2024](https://biomedicalimaging.org/2024/tutorials-final/)!
 
 # Outline
 
