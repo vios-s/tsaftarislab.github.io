@@ -71,8 +71,7 @@ There has been an explosion of developments in generative models in machine lear
 # Some Resources
 
 1. Kazerouni, Amirhossein, et al. "Diffusion models for medical image analysis: A comprehensive survey." arXiv preprint arXiv:2211.07804 (2022).
-2. Pinaya, Walter HL, et al. "Brain imaging generation with latent diffusion models." Deep Generative Models: Second MICCAI Workshop, DGM4MICCAI 2022 (2022).
-3. https://github.com/heejkoo/Awesome-Diffusion-Models is a great github repository with up to date information on published diffusion model papers.
+2. https://github.com/heejkoo/Awesome-Diffusion-Models is a great github repository with up to date information on published diffusion model papers.
 
 
 <!---
