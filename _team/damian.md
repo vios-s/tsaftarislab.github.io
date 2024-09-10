@@ -1,7 +1,7 @@
 ---
 title: "Damian Machlanski"
-role: "phd"
-subtitle: "PhD Student"
+role: "postdoc"
+subtitle: "Post-doctoral Researcher"
 profile: "damian.jpg"
 
 
