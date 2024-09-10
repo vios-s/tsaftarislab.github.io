@@ -63,6 +63,22 @@
 
 ## Journals.
 
+- authors: "Z Liu, B Yang, Y Shen, X Ni, SA Tsaftaris, H Zhou"
+  code: null
+  collection: "journals"
+  img: null
+  edition: "1--13"
+  homepage: null
+  journal: "Medical Image Analysis"
+  other: null
+  pdf: null
+  preprint: "https://arxiv.org/abs/2302.01790"
+  project: null
+  published: 2024-05-21
+  text: "https://www.sciencedirect.com/science/article/pii/S136184152400063X"
+  title: "Long-short diffeomorphism memory network for weakly-supervised ultrasound landmark tracking"
+  url: null
+
 - authors: "Reinke, Annika and Tizabi, Minu D and Baumgartner and others"
   code: null
   collection: "journals"
@@ -1355,6 +1371,70 @@
   "text": "https://link.springer.com/chapter/10.1007/0-306-48718-7_4"
 
 ## Conferences.
+
+- authors: "Y Du, R Dharmakumar, SA Tsaftaris"
+  code: null
+  img: null
+  collection: "conferences"
+  conference: "MICCAI 2024"
+  homepage: false
+  other: null
+  pdf: null
+  preprint: "https://arxiv.org/pdf/2406.16754"
+  project: null
+  published: 2024-06-24  # Placeholder, adjust to the actual publication date
+  text: null  # Placeholder, use if there is relevant text or a description to add
+  title: "The MRI Scanner as a Diagnostic: Image-less Active Sampling"
+  url: null  # Placeholder, add URL if available
+  workshop: null
+
+- authors: "Y Xue, J Yan, R Dutt, F Haider, J Liu, S McDonagh, SA Tsaftaris"
+  code: "https://github.com/vios-s/BMFT"
+  img: null
+  collection: "conferences"
+  conference: "MICCAI 2024"
+  homepage: false
+  other: null
+  pdf: null
+  preprint: "https://arxiv.org/pdf/2408.06890"
+  project: null
+  published: 2024-08-13  # Placeholder, adjust to the actual publication date
+  text: null  # Placeholder, use if there is relevant text or a description to add
+  title: "BMFT: Achieving Fairness via Bias-based Weight Masking Fine-tuning"
+  url: null  # Placeholder, add URL if available
+  workshop: "Workshop on Fairness of AI in Medical Imaging"
+
+- authors: "Y Xue, J Liu, S McDonagh, SA Tsaftaris"
+  code: "https://github.com/vios-s/Erase-to-Enhance-MRI-Recon-Unlearning"
+  img: null
+  collection: "conferences"
+  conference: "MIDL 2024"
+  homepage: false
+  other: null
+  pdf: null
+  preprint: "https://arxiv.org/pdf/2405.15517"
+  project: null
+  published: 2024-05-24  # Placeholder, adjust to the actual publication date
+  text: null  # Placeholder, use if there is relevant text or a description to add
+  title: "Erase to Enhance: Data-Efficient Machine Unlearning in MRI Reconstruction"
+  url: null  # Placeholder, add URL if available
+  workshop: null
+
+- authors: "Y Xue, C Qin, SA Tsaftaris"
+  code: "https://github.com/vios-s/Inference_Denoising_MRI_Recon"
+  img: null
+  collection: "conferences"
+  conference: "ISBI 2024"
+  homepage: false
+  other: null
+  pdf: null
+  preprint: "https://arxiv.org/pdf/2402.08692"
+  project: null
+  published: 2024-02-12  # Placeholder, adjust to the actual publication date
+  text: null  # Placeholder, use if there is relevant text or a description to add
+  title: "Inference Stage Denoising for Undersampled MRI Reconstruction"
+  url: null  # Placeholder, add URL if available
+  workshop: null
 
 - authors: "X. Liu, A. Kascenas, H. Watson, S.A. Tsaftaris, A.Q. O'Neil"
   code: null
