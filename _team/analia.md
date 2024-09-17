@@ -2,7 +2,7 @@
 title: "Analía Cabello Cano"
 role: "phd"
 subtitle: "PhD Student"
-profile: "analia.jpg"
+profile: "analia-a.jpg"
 
 github: "https://github.com/Analia7"
 linkedin: "https://www.linkedin.com/in/anal%C3%ADa-cabello-cano-4278a7266/"
