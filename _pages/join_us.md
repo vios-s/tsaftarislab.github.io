@@ -8,10 +8,10 @@ sidebar:
 
 ![Team]({{ base_path }}/assets/images/joinbanner.jpg)
 
-Currently we have 4 open positions for PDRAs and 1 PhD student, see below. 
+Currently we have no open positions, see below. 
 
 ## Why Join VIOS {#vios}
-We are an elite team of investigators at the University of Edinburgh, the University of Nottingham and Canon Medical---powerhouses in AI, healthcare and natural sciences.  There are several reasons to join our team:
+We are an elite team of investigators at the University of Edinburgh, the University of Nottingham and Canon Medical---powerhouses in AI, healthcare, natural sciences and industry.  There are several reasons to join our team:
 1.  **Full funding to do world-leading research**
 We typically offer full funding (home and international fees and living costs/stipend) for several positions thanks to several sponsors.  
 2.  **World-leading research and team**
@@ -25,9 +25,11 @@ Join our vibrant community of thought leaders and embark on a rewarding career p
 If you wish the join the group as a PhD student or a postdoc, read below about open positions and funding opportunities. Please read well the instructions on how to contact us. 
 
 ## Current opportunities {#opportunities}
-We currently do not have any open positions. However, we will be opening in early 2025 several new PhD positions as part of the [CHAI AI Hub](https://chai.ac.uk). These positions will be advertised in various venues including this and the CHAI website. 
+We currently do not have any open positions. 
 
-* **AI4BI CDT** The new CDT in AI for biomedical innovation has distinct themes and recruiting rounds advertising specific projects. Next round of applications will open in October 2024  Keep an eye on the [CDT website](https://www.ai4biomed.io/how-to-apply/)
+* **CHAI PhD positions** We will be opening in early 2025 several new PhD positions as part of the [CHAI AI Hub](https://chai.ac.uk) on causality. These positions will be advertised in various venues including this and the CHAI website. Please do not email us about these positions before they are announced.
+
+* **AI4BI CDT** The new CDT in AI for biomedical innovation has distinct themes and recruiting rounds advertising specific projects. Next round of applications will open in October 2024. Keep an eye on the [CDT website](https://www.ai4biomed.io/how-to-apply/). Please do not email us about these positions, and follow the procedure on the CDT website. 
   
 
 
@@ -66,8 +68,8 @@ We currently do not have any open positions. However, we will be opening in earl
     * CAE and CPE: total 176 with at least 169 in each paper
     * Trinity ISE: ISE II with distinctions in all four components
 Your English language qualification must be no more than three and a half years old from the start date of the programme you are applying to study, unless you are using IELTS, TOEFL, PTE Academic or Trinity ISE, in which case it must be no more than two years old.
-* **Making Informal Enquiries Informative**: Applications [for open positions] must be submitted through the online University system. Informal enquiries (excluding questions on the application process and scholarships) can be sent by email to Prof. Tsaftaris or any of the other supervisors). Please **clearly** state which position you are applying for in the subject line and your questions in the email and confirm that you have read this webpage. (Emails that do not clearly mention PhD topics from the ones listed above are not prioritised.) Questions on the application process and scholarships should be directed to the Postgraduate Office of the School of Engineering: EngGradOffice@ed.ac.uk. Within your enquiry, it is strongly recommended that you attach a detailed CV and the following: Details of every qualification; Academic career history; Highlight any academic success; Ranking withing your cohort (including its size); If you have published any conference or journal papers, provide links to the publication(s) and state your contribution.
-* **Self-funded students**: We do accept students that are self-funded either via scholarship or own funds. Please do state this **clearly** upon any informal inquiry made. 
+* **Making Informal Enquiries Informative**: Applications [for open positions] must be submitted through the online University system. Informal enquiries about open positions (excluding questions on the application process and scholarships) can be sent by email to Prof. Tsaftaris or any of the other supervisors). Please **clearly** state which position you are applying for in the subject line and your questions in the email and **confirm** that you have read this webpage. (Emails that do not clearly mention PhD topics from the ones listed above will not receive a timely response.) Questions on the application process and scholarships should be directed to the Postgraduate Office of the School of Engineering: EngGradOffice@ed.ac.uk. Within your enquiry, it is strongly recommended that you attach a detailed CV and the following: Details of every qualification; Academic career history; Highlight any academic success; Ranking within your cohort (including its size); If you have published any conference or journal papers, provide links to the publication(s) and state your contribution.
+* **Self-funded students**: We occasionally accept strong students that are self-funded preferrably via scholarship and extremely rarely on own funds. Please do state this **clearly** upon any informal inquiry made on the subject line. 
 
 ## Visiting students {#visiting}
 * We welcome visitors from all over the world and we have had succesful and rewarding experience from all our visitors.  Such visits must go through approval by the University and there are considerations w.r.t. visas, available visitor slots, etc. Hence we select unfortunately few of the applications that we receive. If you want to potential visit us do state this **clearly** in the subject line, attach a CV, mention a potential duration, potential start etc and of course a research direction that you are interested to pursue. 
