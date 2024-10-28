@@ -1388,6 +1388,22 @@
   url: null  # Placeholder, add URL if available
   workshop: null
 
+- authors: "C Boland, O Anderson, KA Goatman, J Hipwell, SA Tsaftaris, S Dahdouh"
+  code: null
+  img: null
+  collection: "conferences"
+  conference: "MICCAI 2024"
+  homepage: false
+  other: null
+  pdf: null
+  preprint: null
+  project: null
+  published: 2024-10-13  # Placeholder, adjust to the actual publication date
+  text: null  # Placeholder, use if there is relevant text or a description to add
+  title: "All You Need Is a Guiding Hand: Mitigating Shortcut Bias in Deep Learning Models for Medical Imaging"
+  url: "https://link.springer.com/chapter/10.1007/978-3-031-72787-0_7"  # Placeholder, add URL if available
+  workshop: "Workshop on Fairness of AI in Medical Imaging"
+
 - authors: "Y Xue, J Yan, R Dutt, F Haider, J Liu, S McDonagh, SA Tsaftaris"
   code: "https://github.com/vios-s/BMFT"
   img: null
