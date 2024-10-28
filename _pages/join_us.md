@@ -25,7 +25,7 @@ Join our vibrant community of thought leaders and embark on a rewarding career p
 If you wish the join the group as a PhD student or a postdoc, read below about open positions and funding opportunities. Please read well the instructions on how to contact us. 
 
 ## Current opportunities {#opportunities}
-We currently do not have any open positions. 
+We currently **do not** have any open positions. 
 
 * **CHAI PhD positions** We will be opening in early 2025 several new PhD positions as part of the [CHAI AI Hub](https://chai.ac.uk) on causality. These positions will be advertised in various venues including this and the CHAI website. Please do not email us about these positions before they are announced.
 
