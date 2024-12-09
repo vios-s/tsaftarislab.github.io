@@ -8,7 +8,7 @@ sidebar:
 
 ![Team]({{ base_path }}/assets/images/joinbanner.jpg)
 
-Currently we have no open positions, see below. 
+Currently we have open positions, see below. 
 
 ## Why Join VIOS {#vios}
 We are an elite team of investigators at the University of Edinburgh, the University of Nottingham and Canon Medical---powerhouses in AI, healthcare, natural sciences and industry.  There are several reasons to join our team:
