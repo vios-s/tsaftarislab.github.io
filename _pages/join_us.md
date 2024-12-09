@@ -22,7 +22,7 @@ We train the next generation of thought leaders to not only create ground breaki
 4. **Future career prospects that match your aspirations**
 Join our vibrant community of thought leaders and embark on a rewarding career path, following in the footsteps of our esteemed alumni who have excelled in industry and academia worldwide. Examples include: Google, Apple, FAIR, University of Nottingham, CMU, Ultromics, TU Darmstadt and many more.
 
-If you wish the join the group as a PhD student or a postdoc, read below about open positions and funding opportunities. Please read well the instructions on how to contact us. 
+If you wish to join the group as a PhD student or a postdoc, read below about open positions and funding opportunities. Please read well the instructions on how to contact us. 
 
 ## Current opportunities {#opportunities}
 We currently have two open positions. 
