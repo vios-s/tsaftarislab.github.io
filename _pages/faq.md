@@ -1,5 +1,6 @@
 ---
-title: "faq"
+title: "Frequently asked questions for applying for
+PhD positions in Causal AI in understanding medical images"
 
 permalink: /faq/
 sidebar:
