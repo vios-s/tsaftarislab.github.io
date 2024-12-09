@@ -25,12 +25,9 @@ Join our vibrant community of thought leaders and embark on a rewarding career p
 If you wish the join the group as a PhD student or a postdoc, read below about open positions and funding opportunities. Please read well the instructions on how to contact us. 
 
 ## Current opportunities {#opportunities}
-We currently **do not** have any open positions. 
+We currently have two open positions. 
 
-* **CHAI PhD positions** We will be opening in early 2025 several new PhD positions as part of the [CHAI AI Hub](https://chai.ac.uk) on causality. These positions will be advertised in various venues including this and the CHAI website. Please do not email us about these positions before they are announced.
-
-* **AI4BI CDT** The new CDT in AI for biomedical innovation has distinct themes and recruiting rounds advertising specific projects. Next round of applications will open in October 2024. Keep an eye on the [CDT website](https://www.ai4biomed.io/how-to-apply/). Please do not email us about these positions, and follow the procedure on the CDT website. 
-  
+* **CHAI PhD positions** We are now recruiting for two PhD positions as part of the [CHAI AI Hub](https://chai.ac.uk) on causal AI for medical imaging in partnership with Canon Medical. The positions are described [here](https://www.eng.ed.ac.uk/studying/degrees/postgraduate-research/phd/causal-ai-understanding-medical-images) alongside information on how to apply. Please note that we will be reviewing applications as early as January 10, 2025. We have also collated questions on a [FAQ document](https://vios.science/faq/) which we advise you look over. 
 
 
 
