@@ -12,4 +12,4 @@ collection: team
 permalink: /team/kurt
 ---
 
-Kurt is a CHAI Postdoctoral Scholar at the University of Edinburgh working under the supervision of Prof. Sotirios Tsaftaris. His research interests broadly include causality, machine learning and signal processing. Particular topics of interest include causal discovery, Bayesian inference, probabilistic reasoning, explainable machine learning (XAI), and time series. For more details, please visit his personal website.
+Kurt is a CHAI Postdoctoral Scholar at the University of Edinburgh working under the supervision of Prof. Sotirios Tsaftaris. His research interests broadly include causality, machine learning and signal processing. Particular topics of interest include causal discovery, Bayesian inference, probabilistic reasoning, explainable machine learning (XAI), and time series. For more details, please visit his [personal website](https://sites.google.com/view/kurt-butler/home).
