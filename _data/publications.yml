@@ -63,6 +63,22 @@
 
 ## Journals.
 
+- authors: "Jinghan Sun, Dong Wei, Zhe Xu, Donghuan Lu, Hong Liu, Hong Wang, Sotirios A Tsaftaris, Steven McDonagh, Yefeng Zheng, Liansheng Wang"
+  code: null
+  collection: "journals"
+  img: null
+  edition: "1--13"
+  homepage: null
+  journal: "IEEE Transactions on Medical Imaging"
+  other: null
+  pdf: null
+  preprint: null
+  project: null
+  published: 2024-12-13
+  text: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10798513"
+  title: "Unlocking the Potential of Weakly Labeled Data: A Co-Evolutionary Learning Framework for Abnormality Detection and Report Generation"
+  url: null
+
 - authors: "Z Liu, B Yang, Y Shen, X Ni, SA Tsaftaris, H Zhou"
   code: null
   collection: "journals"
@@ -1371,6 +1387,22 @@
   "text": "https://link.springer.com/chapter/10.1007/0-306-48718-7_4"
 
 ## Conferences.
+
+- authors: "Gianluca Carloni, Sotirios A Tsaftaris, Sara Colantonio"
+  code: null
+  img: null
+  collection: "conferences"
+  conference: "MICCAI 2024"
+  homepage: false
+  other: null
+  pdf: null
+  preprint: null
+  project: null
+  published: 2025-01-01  # Placeholder, adjust to the actual publication date
+  text: null  # Placeholder, use if there is relevant text or a description to add
+  title: "CROCODILE: Causality Aids Robustness via Contrastive Disentangled"
+  url: "https://www.google.co.uk/books/edition/Uncertainty_for_Safe_Utilization_of_Mach/3TMmEQAAQBAJ?hl=en&gbpv=0"  # Placeholder, add URL if available
+  workshop: null
 
 - authors: "Y Du, R Dharmakumar, SA Tsaftaris"
   code: null
