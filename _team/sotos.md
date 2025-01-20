@@ -15,9 +15,9 @@ collection: team
 permalink: /team/tsaftaris
 ---
 Sotirios A. Tsaftaris is currently Chair (Full Professor) in Machine Learning
-and Computer Vision at the University of Edinburgh. He also holds the [Canon
-Medical/Royal Academy of Engineering Research Chair in Healthcare AI](https://www.raeng.org.uk/grants-prizes/grants/support-for-research/research-chairs/current-and-recent-awards).  
-He is the Director for the EPSRC-funded AI Hub for Causality in Healthcare AI with Real Data (CHAI). 
+and Computer Vision at the University of Edinburgh. He holds the Canon
+Medical/Royal Academy of Engineering Chair in Healthcare AI (since 2019).  
+Since 2024, he is the Director for the EPSRC-funded [Causality in Healthcare AI Hub with Real Data (CHAI)](https:/chai.ac.uk). 
 He is an ELLIS Fellow of the [European Lab for Learning and Intelligent Systems (ELLIS)](https://ellis.eu) of [Edinburgh's ELLIS Unit](https://web.inf.ed.ac.uk/ellis-edinburgh).
 Since 2023 he is a visiting researcher with [Archimedes RC](https://www.archimedesai.gr/en/) a research centre of excellence in AI in Athens, Greece. Between 2016 and 2023 he was a Turing Fellow with the Alan Turing Institute.  
 
