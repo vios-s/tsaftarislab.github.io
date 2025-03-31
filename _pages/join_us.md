@@ -27,7 +27,7 @@ If you wish to join the group as a PhD student or a postdoc, read below about op
 ## Current opportunities {#opportunities}
 We currently have two open positions. 
 
-* **CHAI PhD positions** We are now recruiting for two PhD positions as part of the [CHAI AI Hub](https://chai.ac.uk) on causal AI for medical imaging in partnership with Canon Medical. The positions are described [here](https://www.eng.ed.ac.uk/studying/degrees/postgraduate-research/phd/causal-ai-understanding-medical-images) alongside information on how to apply. Please note that we will be reviewing applications as early as January 10, 2025. We have also collated questions on a [FAQ document](https://vios.science/faq/) which we advise you look over. 
+* ~~**CHAI PhD positions** We are now recruiting for two PhD positions as part of the [CHAI AI Hub](https://chai.ac.uk) on causal AI for medical imaging in partnership with Canon Medical. The positions are described [here](https://www.eng.ed.ac.uk/studying/degrees/postgraduate-research/phd/causal-ai-understanding-medical-images) alongside information on how to apply. Please note that we will be reviewing applications as early as January 10, 2025. We have also collated questions on a [FAQ document](https://vios.science/faq/) which we advise you look over.~~
 
 
 
