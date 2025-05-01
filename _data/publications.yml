@@ -63,6 +63,54 @@
 
 ## Journals.
 
+- authors: "Lisa Asciak, Justicia Kyeremeh, Xichun Luo, Asimina Kazakidi, Patricia Connolly, Frederic Picard, Kevin O’Neill, Sotirios A Tsaftaris, Grant D Stewart, Wenmiao Shu"
+  code: null
+  collection: "journals"
+  img: null
+  edition: "8"
+  homepage: null
+  journal: "npj Digital Medicine"
+  other: null
+  pdf: null
+  preprint: null
+  project: null
+  published: 2025-01-15
+  text: "https://www.nature.com/articles/s41746-024-01413-0"
+  title: "Digital twin assisted surgery, concept, opportunities, and challenges"
+  url: null
+
+- authors: "Kenneth A McLean, Alessandro Sgrò, Leo R Brown, Louis F Buijs, Katie E Mountain, Catherine A Shaw, Thomas M Drake, Riinu Pius, Stephen R Knight, Cameron J Fairfield, Richard JE Skipworth, Sotirios A Tsaftaris, Stephen J Wigmore, Mark A Potter, Matt-Mouley Bouamrane, Ewen M Harrison"
+  code: null
+  collection: "journals"
+  img: null
+  edition: "106"
+  homepage: null
+  journal: "npj Digital Medicine"
+  other: null
+  pdf: null
+  preprint: null
+  project: null
+  published: 2025-01-16
+  text: "https://www.nature.com/articles/s41746-024-01419-8"
+  title: "Multimodal machine learning to predict surgical site infection with healthcare workload impact assessment"
+  url: null
+
+- authors: "Mohammed Qais, Desen Kirli, Edward Moroshko, Aristides Kiprakis, Sotirios Tsaftaris"
+  code: null
+  collection: "journals"
+  img: null
+  edition: "106"
+  homepage: null
+  journal: "Journal of Energy Storage"
+  other: null
+  pdf: null
+  preprint: null
+  project: null
+  published: 2025-01-16
+  text: "https://www.sciencedirect.com/science/article/pii/S2352152X24044918"
+  title: "A virtual power plant for coordinating batteries and EVs of distributed zero-energy houses considering the distribution system constraints"
+  url: null
+
 - authors: "Jinghan Sun, Dong Wei, Zhe Xu, Donghuan Lu, Hong Liu, Hong Wang, Sotirios A Tsaftaris, Steven McDonagh, Yefeng Zheng, Liansheng Wang"
   code: null
   collection: "journals"
@@ -1387,6 +1435,70 @@
   "text": "https://link.springer.com/chapter/10.1007/0-306-48718-7_4"
 
 ## Conferences.
+
+- authors: "Ilias Stogiannidis, Steven McDonagh, Sotirios A Tsaftaris"
+  code: null
+  img: null
+  collection: "conferences"
+  conference: "ICCV 2025"
+  homepage: false
+  other: null
+  pdf: null
+  preprint: "https://arxiv.org/abs/2503.19707"
+  project: null
+  published: 2025-03-25  # Placeholder, adjust to the actual publication date
+  text: null  # Placeholder, use if there is relevant text or a description to add
+  title: "Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models"
+  url: "https://arxiv.org/abs/2503.19707"  # Placeholder, add URL if available
+  workshop: null
+
+- authors: "Yuyang Xue, Edward Moroshko, Feng Chen, Steven McDonagh, Sotirios A Tsaftaris"
+  code: null
+  img: null
+  collection: "conferences"
+  conference: "ICCV 2025"
+  homepage: false
+  other: null
+  pdf: null
+  preprint: "https://arxiv.org/abs/2503.14232"
+  project: null
+  published: 2025-03-18  # Placeholder, adjust to the actual publication date
+  text: null  # Placeholder, use if there is relevant text or a description to add
+  title: "CRCE: Coreference-Retention Concept Erasure in Text-to-Image Diffusion Models"
+  url: "https://arxiv.org/abs/2503.14232"  # Placeholder, add URL if available
+  workshop: null
+
+- authors: "Feng Chen, Sotirios A Tsaftaris, Mario Valerio Giuffrida"
+  code: null
+  img: null
+  collection: "conferences"
+  conference: "WACV 2025"
+  homepage: false
+  other: null
+  pdf: null
+  preprint: null
+  project: null
+  published: 2025-02-26  # Placeholder, adjust to the actual publication date
+  text: null  # Placeholder, use if there is relevant text or a description to add
+  title: "GMT: Guided Mask Transformer for Leaf Instance Segmentation"
+  url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10943194"  # Placeholder, add URL if available
+  workshop: null
+
+- authors: "Raman Dutt, Ondrej Bohdal, Pedro Sanchez, Sotirios A Tsaftaris, Timothy Hospedales"
+  code: null
+  img: null
+  collection: "conferences"
+  conference: "WACV 2025"
+  homepage: false
+  other: null
+  pdf: null
+  preprint: null
+  project: null
+  published: 2025-02-26  # Placeholder, adjust to the actual publication date
+  text: null  # Placeholder, use if there is relevant text or a description to add
+  title: "MemControl: Mitigating Memorization in Diffusion Models via Automated Parameter Selection"
+  url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10944194"  # Placeholder, add URL if available
+  workshop: null
 
 - authors: "Gianluca Carloni, Sotirios A Tsaftaris, Sara Colantonio"
   code: null
