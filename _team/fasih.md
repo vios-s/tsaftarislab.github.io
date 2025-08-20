@@ -1,6 +1,6 @@
 ---
 title: "Fasih Haider"
-role: "postdoc"
+role: "None"
 subtitle: "Post-doctoral Researcher"
 profile: "fasih.jpg"
 

@@ -1,6 +1,6 @@
 ---
 title: "Pedro Sanchez"
-role: "phd"
+role: "None"
 subtitle: "PhD Student"
 profile: "pedro.jpg"
 

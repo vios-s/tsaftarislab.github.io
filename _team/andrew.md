@@ -1,6 +1,6 @@
 ---
 title: "Andrew Wood"
-role: "sde"
+role: "None"
 subtitle: "Software Engineer"
 profile: "wood.jpg"
 collection: team

@@ -1,6 +1,6 @@
 ---
 title: "Jinghan Sun"
-role: "visiting"
+role: "None"
 subtitle: "Visiting Student"
 profile: "jinghan.jpg"
 

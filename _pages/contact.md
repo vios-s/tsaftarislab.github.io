@@ -12,17 +12,16 @@ sidebar:
 
 E-Mail: S.Tsaftaris (at) ed.ac.uk  
 Telephone: +44 (0)131 650 5796  
-Office: Room 2.06 (Alexander Graham Bell Building - see below)
+Office: Partnerspace D, 1st Floor (Usher Building at Edinburgh BioQuarter)
+
+#### Postal Address {#address}
+
+> Usher Building, The University of Edinburgh
+> 5-7 Little France Road
+> Edinburgh BioQuarter - Gate 3
+> EDINBURGH
+> EH16 4UX, United Kingdom
+
+To find the building use the university's [campus map](https://usher.ed.ac.uk/contact/find-us).
 
 
-## Postal Address {#address}
-
-> Institute for Digital Communications  
-> Alexander Graham Bell Building  
-> The School of Engineering  
-> The University of Edinburgh  
-> Edinburgh  
-> EH9 3FG, United Kingdom
-
-To find the building use the university's
-[campus map](https://www.ed.ac.uk/maps/maps?building=alexander-graham-bell-building).

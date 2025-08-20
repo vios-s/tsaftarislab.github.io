@@ -1,6 +1,6 @@
 ---
 title: "Jingshuai Liu"
-role: "postdoc"
+role: "None"
 subtitle: "Post-doctoral Researcher"
 profile: "jingshuai.png"
 
