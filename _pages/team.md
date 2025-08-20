@@ -6,7 +6,7 @@ sidebar:
   nav: "team"
 ---
 
-{% assign banners = "team.jpg|team4.jpg|team5.jpg|team6.jpg" | split: "|" %}
+{% assign banners = "team2.jpg|team4.jpg|team6.jpg" | split: "|" %}
 
 <link rel="stylesheet" href="https://unpkg.com/swiper@11/swiper-bundle.min.css">
 

@@ -17,9 +17,13 @@ Office: Partnerspace D, 1st Floor (Usher Building at Edinburgh BioQuarter)
 #### Postal Address {#address}
 
 > Usher Building, The University of Edinburgh
+> 
 > 5-7 Little France Road
+> 
 > Edinburgh BioQuarter - Gate 3
+> 
 > EDINBURGH
+> 
 > EH16 4UX, United Kingdom
 
 To find the building use the university's [campus map](https://usher.ed.ac.uk/contact/find-us).
