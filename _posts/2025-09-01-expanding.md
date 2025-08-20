@@ -1,5 +1,5 @@
 ---
-title: New CHAI PhD positions in partnership with Canon Medical 
+title: Expanding 
 date: 2025-09-01
 permalink: /posts/2025/09/expanding
 ---

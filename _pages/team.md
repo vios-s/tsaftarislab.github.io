@@ -5,7 +5,51 @@ permalink: /team/
 sidebar:
   nav: "team"
 ---
-![Team]({{ base_path }}/assets/images/team/team6.jpg)
+
+{% assign banners = "team.jpg|team4.jpg|team5.jpg|team6.jpg" | split: "|" %}
+<div class="team-banner">
+  <div id="teamSlider" data-index="0" aria-live="polite">
+    {% for img in banners %}
+      <img
+        src="{{ base_path }}/assets/images/team/{{ img }}"
+        alt="Team banner {{ forloop.index }}"
+        class="team-slide"
+        loading="lazy"
+        style="display:{% if forloop.first %}block{% else %}none{% endif %};width:100%;height:auto;"
+      >
+    {% endfor %}
+  </div>
+  {% assign banners_count = banners | size %}
+  <div class="team-slider-controls" {% if banners_count <= 1 %}style="display:none"{% endif %}>
+    <button type="button" data-dir="-1" aria-label="Previous banner">‹ Prev</button>
+    <button type="button" data-dir="1" aria-label="Next banner">Next ›</button>
+  </div>
+</div>
+<script>
+(function(){
+  if (window.__teamSliderInitDone) return;
+  window.__teamSliderInitDone = true;
+  var slider = document.getElementById('teamSlider');
+  if (!slider) return;
+
+  function move(dir){
+    var slides = slider.querySelectorAll('.team-slide');
+    if (!slides.length) return;
+    var i = parseInt(slider.getAttribute('data-index') || '0', 10);
+    slides[i].style.display = 'none';
+    i = (i + (dir > 0 ? 1 : -1) + slides.length) % slides.length;
+    slides[i].style.display = 'block';
+    slider.setAttribute('data-index', i);
+  }
+
+  document.addEventListener('click', function(e){
+    var btn = e.target.closest('.team-slider-controls [data-dir]');
+    if (!btn) return;
+    var dir = parseInt(btn.getAttribute('data-dir'), 10);
+    move(dir);
+  }, true);
+})();
+</script>
 
 If you want to join the team as a PhD student or a PostDoc, read about open
 positions [here]({{ base_path }}/join_us/). If you wish to join the group as an
