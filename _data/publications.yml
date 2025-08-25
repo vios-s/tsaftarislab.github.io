@@ -130,7 +130,7 @@
 - authors: "Jinghan Sun, Dong Wei, Zhe Xu, Donghuan Lu, Hong Liu, Hong Wang, Sotirios A Tsaftaris, Steven McDonagh, Yefeng Zheng, Liansheng Wang"
   code: "https://github.com/jinghanSunn/CoE-DG"
   collection: "journals"
-  img: null
+  img: "jinghan_2024_tmi.png"
   edition: "1--13"
   homepage: null
   journal: "IEEE Transactions on Medical Imaging"
@@ -146,7 +146,7 @@
 - authors: "Konstantinos Vilouras, Pedro Sanchez, Alison Q O'neil, Sotirios A Tsaftaris"
   code: "https://github.com/vios-s/ldm-phrase-grounding"
   collection: "journals"
-  img: "kostas_2025_jbhi"
+  img: "kostas_2025_jbhi.png"
   edition: "1--13"
   homepage: null
   journal: "IEEE Journal of Biomedical and Health Informatics"
@@ -156,8 +156,8 @@
   project: null
   published: 2024-11-08
   text: null
-  title: "Unlocking the Potential of Weakly Labeled Data: A Co-Evolutionary Learning Framework for Abnormality Detection and Report Generation"
-  url: "https://ieeexplore.ieee.org/iel8/6221020/6363502/10747387.pdf"
+  title: "Zero-shot medical phrase grounding with off-the-shelf diffusion models"
+  url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10747387"
 
 - authors: "Z Liu, B Yang, Y Shen, X Ni, SA Tsaftaris, H Zhou"
   code: null
@@ -255,7 +255,7 @@
 - authors: "S. Pati, S.P. Thakur, İ. E. Hamamcı, U. Baid, B. Baheti, M. Bhalerao, O. Güley, S. Mouchtaris, D. Lang, S.A. Tsaftaris, et al."
   code: "https://github.com/CBICA/GaNDLF"
   collection: "journals"
-  img: null
+  img: "pati_2023_ce.png"
   edition: "vol. 2, no. 1, pp. 23, 2023"
   homepage: null
   journal: "Communications Engineering"
@@ -1502,7 +1502,7 @@
 
 - authors: "Thomas Melistas, Nikos Spyrou, Nefeli Gkouti, Pedro Sanchez, Athanasios Vlontzos, Yannis Panagakis, Giorgos Papanastasiou, Sotirios A Tsaftaris"
   code: "https://github.com/gulnazaki/counterfactual-benchmark"
-  img: "thomas_2024_nips"
+  img: "thomas_2024_nips.png"
   collection: "conferences"
   conference: "NeurIPS 2025"
   homepage: false
@@ -1534,7 +1534,7 @@
 
 - authors: "Feng Chen, Sotirios A Tsaftaris, Mario Valerio Giuffrida"
   code: "https://github.com/vios-s/gmt-leaf-ins-seg"
-  img: "feng_2025_wacv"
+  img: "feng_2025_wacv.png"
   collection: "conferences"
   conference: "WACV 2025"
   homepage: false
@@ -1614,39 +1614,39 @@
 
 - authors: "Y Xue, J Yan, R Dutt, F Haider, J Liu, S McDonagh, SA Tsaftaris"
   code: "https://github.com/vios-s/BMFT"
-  img: null
+  img: "xue_bmft_miccai.png"
   collection: "conferences"
   conference: "MICCAI 2024"
   homepage: false
   other: null
   pdf: null
-  preprint: "https://arxiv.org/pdf/2408.06890"
+  preprint: null
   project: null
   published: 2024-08-13  # Placeholder, adjust to the actual publication date
   text: null  # Placeholder, use if there is relevant text or a description to add
   title: "BMFT: Achieving Fairness via Bias-based Weight Masking Fine-tuning"
-  url: null  # Placeholder, add URL if available
+  url: "https://arxiv.org/pdf/2408.06890"  # Placeholder, add URL if available
   workshop: "Workshop on Fairness of AI in Medical Imaging"
 
 - authors: "Y Xue, J Liu, S McDonagh, SA Tsaftaris"
   code: "https://github.com/vios-s/Erase-to-Enhance-MRI-Recon-Unlearning"
-  img: null
+  img: "xue_2024_midl.png"
   collection: "conferences"
   conference: "MIDL 2024"
   homepage: false
   other: null
   pdf: null
-  preprint: "https://arxiv.org/pdf/2405.15517"
+  preprint: null
   project: null
   published: 2024-05-24  # Placeholder, adjust to the actual publication date
   text: null  # Placeholder, use if there is relevant text or a description to add
   title: "Erase to Enhance: Data-Efficient Machine Unlearning in MRI Reconstruction"
-  url: null  # Placeholder, add URL if available
+  url: "https://arxiv.org/pdf/2405.15517"  # Placeholder, add URL if available
   workshop: null
 
 - authors: "Y Xue, C Qin, SA Tsaftaris"
   code: "https://github.com/vios-s/Inference_Denoising_MRI_Recon"
-  img: null
+  img: "xue_2024_isbi.png"
   collection: "conferences"
   conference: "ISBI 2024"
   homepage: false
@@ -1657,7 +1657,7 @@
   published: 2024-02-12  # Placeholder, adjust to the actual publication date
   text: null  # Placeholder, use if there is relevant text or a description to add
   title: "Inference Stage Denoising for Undersampled MRI Reconstruction"
-  url: null  # Placeholder, add URL if available
+  url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10635766"  # Placeholder, add URL if available
   workshop: null
 
 - authors: "X. Liu, A. Kascenas, H. Watson, S.A. Tsaftaris, A.Q. O'Neil"
