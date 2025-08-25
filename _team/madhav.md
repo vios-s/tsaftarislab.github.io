@@ -10,7 +10,7 @@ scholar: "https://scholar.google.com/citations?user=t8VdoRYAAAAJ&hl=en"
 
 
 collection: team
-permalink: /team/yuyang
+permalink: /team/madhav
 ---
 
 Madhav Agarwal is a PhD student at the University of Edinburgh supervised by Dr. Steven McDonagh and Dr. Laura Sevilla. His research focuses on Multimodal Learning, Spatial-Temporal Understanding in Foundation Models, and Generative AI. 
