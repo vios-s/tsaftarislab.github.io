@@ -4,7 +4,7 @@ role: "sde"
 subtitle: "Software Engineer"
 profile: "danilo.jpg"
 
-linkedin: "https://www.linkedin.com/in/danilobueno89/"
+linkedin: "https://www.linkedin.com/in/danilohrb/"
 github: "https://github.com/danilobueno"
 collection: team
 permalink: /team/bueno
