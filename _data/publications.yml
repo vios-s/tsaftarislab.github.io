@@ -1468,6 +1468,23 @@
 
 ## Conferences.
 
+- authors: "Damian Machlanski, Stephanie Riley, Edward Moroshko, Kurt Butler, Panagiotis Dimitrakopoulos, Thomas Melistas, Akchunya Chanchal, Steven McDonagh, Ricardo Silva, Sotirios A. Tsaftaris"
+  title: "A Shift in Perspective on Causality in Domain Generalization"                                                   # The title of your paper
+  url: ""                                                      # The published paper website page
+  preprint: "https://arxiv.org/abs/2508.12798"                                           # The arxiv page
+  code: ""                                                 # The open-sourced code 
+  project: ""                                             # The project/funding source, refer to Research page
+  published: 2025-08-18                   # The pulished date
+  text: ""                                                     # A very short description in one sentence
+  journal: ""                                              # The published journal/conferences/book/etc name
+  workshop: ""                                        # If its not a workshop, leave null
+  collection: ""                                        # journal/conference/book/
+  img: ""                                                      # teaser image
+  edition: "1"                                            # edition, or leave "1"
+  homepage: "https://chai-uk.github.io/ukairs25-causal-predictors/"                                       # the home page or demo page web link
+  pdf: null                                                  # leave null to save space
+  other: null                                              # miscs, or leave null
+
 - authors: "Yuyang Xue, Edward Moroshko, Feng Chen, Steven McDonagh, Sotirios A Tsaftaris"
   code: null
   img: null
