@@ -1485,7 +1485,7 @@
   pdf: null                                                  # leave null to save space
   other: null                                              # miscs, or leave null
 
-- authors: "Yuyang Xue, Edward Moroshko, Feng Chen, Steven McDonagh, Sotirios A Tsaftaris"
+- authors: "Raman Dutt, Ondrej Bohdal, Pedro Sanchez, Sotirios A. Tsaftaris, Timothy Hospedales"
   code: null
   img: null
   collection: "conferences"
