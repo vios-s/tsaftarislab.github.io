@@ -68,7 +68,7 @@
   collection: "journals"
   img: "jun_2025_melba.png"
   edition: "3"
-  homepage: null
+  homepage: true
   journal: "Machine Learning for Biomedical Imaging"
   other: null
   pdf: null
