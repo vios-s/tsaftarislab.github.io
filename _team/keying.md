@@ -2,7 +2,7 @@
 title: "Keying Guo"
 role: "phd"
 subtitle: "PhD Student"
-profile: "keying.jpeg"
+profile: "keying.jpg"
 
 linkedin: "https://www.linkedin.com/in/keying-guo-202837194/"
 
