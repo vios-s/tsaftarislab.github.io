@@ -8,7 +8,7 @@ sidebar:
 
 ![Team]({{ base_path }}/assets/images/joinbanner.jpg)
 
-Currently we have open positions, see below. 
+For any current open positions, see below.
 
 ## Why Join VIOS {#vios}
 We are an elite team of investigators at the University of Edinburgh, the University of Nottingham and Canon Medical---powerhouses in AI, healthcare, natural sciences and industry.  There are several reasons to join our team:
@@ -54,6 +54,7 @@ We currently have **NO** open positions.
 
   
 ## Important information for PhD students applying {#information}
+* If we have any open positions, we welcome applications from outstanding and ambitious students, with the potential of becoming extraordinary scholars. We select unfortunately few of the applications that we receive, and the only selection criterion is excellence.
 * We welcome applications from outstanding and ambitious students, with the potential of becoming extraordinary scholars. We select unfortunately few of the applications that we receive, and the only selection criterion is excellence.
 * Successful applicants have a very diverse background, including engineering, computer science, mathematics, physics, etc. Our research group is very diverse for gender, race, nationality, career ambition, etc. We strongly value the diversity in our group, and thus applicants from groups typically under-represented in academia are strongly encouraged to apply.  
 * Being fluent in both spoken and written English is essential. We accept the following English language qualifications at the minimum grades specified:
@@ -63,7 +64,7 @@ We currently have **NO** open positions.
     * CAE and CPE: total 176 with at least 169 in each paper
     * Trinity ISE: ISE II with distinctions in all four components
 Your English language qualification must be no more than three and a half years old from the start date of the programme you are applying to study, unless you are using IELTS, TOEFL, PTE Academic or Trinity ISE, in which case it must be no more than two years old.
-* **Making Informal Enquiries Informative**: Applications [for open positions] must be submitted through the online University system. Informal enquiries about open positions (excluding questions on the application process and scholarships) can be sent by email to Prof. Tsaftaris or any of the other supervisors). Please **clearly** state which position you are applying for in the subject line and your questions in the email and **confirm** that you have read this webpage. (Emails that do not clearly mention PhD topics from the ones listed above will not receive a timely response.) Questions on the application process and scholarships should be directed to the Postgraduate Office of the School of Engineering: EngGradOffice@ed.ac.uk. Within your enquiry, it is strongly recommended that you attach a detailed CV and the following: Details of every qualification; Academic career history; Highlight any academic success; Ranking within your cohort (including its size); If you have published any conference or journal papers, provide links to the publication(s) and state your contribution.
+* **Making Informal Enquiries Informative**: Applications [for open positions] must be submitted through the online University system. Informal enquiries about open positions (excluding questions on the application process and scholarships) can be sent by email to Prof. Tsaftaris or any of the other supervisors). Please **clearly** state which position you are applying for in the subject line and your questions in the email and **confirm** that you have read this webpage. (Emails that do **not** clearly mention PhD topics from the ones listed above will **not** receive a timely response.) Questions on the application process and scholarships should be directed to the Postgraduate Office of the School of Engineering: <EngGradOffice@ed.ac.uk>. Within your enquiry, it is strongly recommended that you attach a detailed CV and the following: Details of every qualification; Academic career history; Highlight any academic success; Ranking within your cohort (including its size); If you have published any conference or journal papers, provide links to the publication(s) and state your contribution.
 * **Self-funded students**: We occasionally accept strong students that are self-funded preferrably via scholarship and extremely rarely on own funds. Please do state this **clearly** upon any informal inquiry made on the subject line. 
 
 ## Visiting students {#visiting}
