@@ -10,6 +10,8 @@ CV: "https://vios.science/assets/pdfs/SA_Tsaftaris_CV.pdf"
 linkedin: "https://www.linkedin.com/in/sotost/"
 scholar: "https://scholar.google.co.uk/citations?user=jC1uFnYAAAAJ&hl=en"
 twitter: "https://twitter.com/stsaftaris"
+Short bio: "https://vios.science/assets/pdfs/SA_Tsaftaris_bio.docx"
+HighResPhoto: "https://eng.ed.ac.uk/sites/default/files/styles/no_crop_full_width/public/2024-12/Tsaftaris_0.jpg.webp?itok=wjgtCAAP"
 
 collection: team
 permalink: /team/tsaftaris
@@ -17,15 +19,15 @@ permalink: /team/tsaftaris
 Sotirios A. Tsaftaris is currently Chair (Full Professor) in Machine Learning
 and Computer Vision at the University of Edinburgh. He holds the Canon
 Medical/Royal Academy of Engineering Chair in Healthcare AI (since 2019).  
-Since 2024, he is the Director for the EPSRC-funded [Causality in Healthcare AI Hub with Real Data (CHAI)](https:/chai.ac.uk). 
-He is an ELLIS Fellow of the [European Lab for Learning and Intelligent Systems (ELLIS)](https://ellis.eu) of [Edinburgh's ELLIS Unit](https://web.inf.ed.ac.uk/ellis-edinburgh).
+Since 2024, he is the Director for the EPSRC-funded [Causality in Healthcare AI Hub (CHAI)](https:/chai.ac.uk). 
+He is an ELLIS Fellow of the [European Lab for Learning and Intelligent Systems (ELLIS)](https://ellis.eu) of [Edinburgh's ELLIS Unit](https://web.inf.ed.ac.uk/ellis-edinburgh). He is currently service as an Expert Adviser on AI for Science, in the UK's Department of Science, Innovation, and Technology ([DSIT](https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology)). 
 Since 2023 he is a visiting researcher with [Archimedes RC](https://www.archimedesai.gr/en/) a research centre of excellence in AI in Athens, Greece. Between 2016 and 2023 he was a Turing Fellow with the Alan Turing Institute.  
 
 He received the M.Sc. and Ph.D degrees in Electrical and Computer Engineering
 from [Northwestern University](http://www.northwestern.edu/), Evanston, IL, in
 2003 and 2006, respectively, and the Diploma degree in Electrical and Computer
 Engineering from the [Aristotle University of
-Thessaloniki](http://ee.auth.gr/en), Thessaloniki, Greece, in 2000.
+Thessaloniki](https://ece.auth.gr), Thessaloniki, Greece, in 2000.
 
 Previously he was an Assistant Professor with [IMT Institute for Advanced
 Studies](http://imtlucca.it/), Lucca, Italy and the Director of the
@@ -34,10 +36,10 @@ joint Research Assistant Professor appointment at Northwestern University with
 the [Departments of Electrical Engineering and Computer Science
 (EECS)](http://www.eecs.northwestern.edu/) and [Radiology Feinberg School of
 Medicine](http://www.radiology.northwestern.edu/), working closely with
-colleagues such as Profs. [Katsaggelos](http://ivpl.eecs.northwestern.edu/user/AKatsaggelos),
-[Dharmakumar](https://medicine.iu.edu/news/2021/08/Krannert-Cardiovascular-Research-Center-names-first-director),
+colleagues such as Profs. [Katsaggelos](https://sites.northwestern.edu/ivpl/),
+[Dharmakumar](https://medicine.iu.edu/faculty/60337/dharmakumar-rohan),
 and
-[Li](http://www.cedars-sinai.edu/Research-and-Education/Research-Labs/Li-Lab/). 
+[Li](https://researchers.cedars-sinai.edu/Debiao.Li). 
 He maintained an adjunct appointment with EECS (2011-2015), and an
 affiliation with the [Image and Video Processing Laboratory
 (IVPL)](https://sites.northwestern.edu/ivpl), at Northwestern University, upon his return to Europe.
@@ -66,10 +68,10 @@ His work has received several accolades, such as Best Paper Award (STACOM 2017),
 twice a Magna Cum Laude Award (ISMRM), a finalist for the Early Career Award
 (SCMR, 2011; SCMR, 2019 (Chartsias as PhD student)), and has had his work appear
 in [journal
-covers](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=5753066) and
+covers](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5753085) and
 attract significant media coverage.
 
 Prof. Tsaftaris is also a [Murphy
 Fellow](http://www.mccormick.northwestern.edu/students/graduate/fellowships-internships/)
-and a [Fellow of the Alexander S. Onassis](http://www.onassis.gr/en/) Public
+and a [Fellow of the Alexander S. Onassis](https://www.onassis.org) Public
 Beneﬁt Foundation.
