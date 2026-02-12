@@ -69,4 +69,4 @@ Fellow](http://www.mccormick.northwestern.edu/students/graduate/fellowships-inte
 and a [Fellow of the Alexander S. Onassis](https://www.onassis.org) Public
 Beneﬁt Foundation.
 
-Short bio for media engagements and seminars including high res photographs [here](https://vios.science/assets/pdfs/SA_Tsaftaris_bio.docx).
+Short bio for media engagements and seminars including high res photographs in docx format [here](https://vios.science/assets/pdfs/SA_Tsaftaris_bio.docx) (it will download a file directly).
