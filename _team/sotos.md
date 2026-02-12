@@ -10,13 +10,11 @@ CV: "https://vios.science/assets/pdfs/SA_Tsaftaris_CV.pdf"
 linkedin: "https://www.linkedin.com/in/sotost/"
 scholar: "https://scholar.google.co.uk/citations?user=jC1uFnYAAAAJ&hl=en"
 twitter: "https://twitter.com/stsaftaris"
-Short bio: "https://vios.science/assets/pdfs/SA_Tsaftaris_bio.docx"
-HighResPhoto: "https://eng.ed.ac.uk/sites/default/files/styles/no_crop_full_width/public/2024-12/Tsaftaris_0.jpg.webp?itok=wjgtCAAP"
 
 collection: team
 permalink: /team/tsaftaris
 ---
-Sotirios A. Tsaftaris is currently Chair (Full Professor) in Machine Learning
+Sotirios A. Tsaftaris (Sotos) is currently Chair (Full Professor) in Machine Learning
 and Computer Vision at the University of Edinburgh. He holds the Canon
 Medical/Royal Academy of Engineering Chair in Healthcare AI (since 2019).  
 Since 2024, he is the Director for the EPSRC-funded [Causality in Healthcare AI Hub (CHAI)](https:/chai.ac.uk). 
@@ -75,3 +73,5 @@ Prof. Tsaftaris is also a [Murphy
 Fellow](http://www.mccormick.northwestern.edu/students/graduate/fellowships-internships/)
 and a [Fellow of the Alexander S. Onassis](https://www.onassis.org) Public
 Beneﬁt Foundation.
+
+Short bio for media engagements and seminars including high res photographs [here](https://vios.science/assets/pdfs/SA_Tsaftaris_bio.docx).
