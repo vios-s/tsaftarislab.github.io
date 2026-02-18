@@ -89,48 +89,56 @@ news:
 publications:
   - title: Sort by Type
     children:
+      - title: All
+        url: /publications/#all
       - title: Journals
-        url: /publications#journals
+        url: /publications/#journals
       - title: Books
-        url: /publications#books
-      - title: Chapters
-        url: /publications#chapters
+        url: /publications/#books
       - title: Conferences
-        url: /publications#conferences
+        url: /publications/#conferences
+      - title: Preprints
+        url: /publications/#preprints
+      - title: Articles
+        url: /publications/#articles
+      - title: Others
+        url: /publications/#others
   - title: Sort by Year
     children:
+      - title: 2026
+        url: /publications/#2026
       - title: 2025
-        url: /publications/year#2025
+        url: /publications/#2025
       - title: 2024
-        url: /publications/year#2024
+        url: /publications/#2024
       - title: 2023
-        url: /publications/year#2023
+        url: /publications/#2023
       - title: 2022
-        url: /publications/year#2022
+        url: /publications/#2022
       - title: 2021
-        url: /publications/year#2021
+        url: /publications/#2021
       - title: 2020
-        url: /publications/year#2020
+        url: /publications/#2020
       - title: 2019
-        url: /publications/year#2019
+        url: /publications/#2019
       - title: 2018
-        url: /publications/year#2018
+        url: /publications/#2018
       - title: 2017
-        url: /publications/year#2017
+        url: /publications/#2017
       - title: 2016
-        url: /publications/year#2016
+        url: /publications/#2016
       - title: 2015
-        url: /publications/year#2015
+        url: /publications/#2015
       - title: 2014
-        url: /publications/year#2014
+        url: /publications/#2014
       - title: 2013
-        url: /publications/year#2013
+        url: /publications/#2013
       - title: 2012
-        url: /publications/year#2012
+        url: /publications/#2012
       - title: 2011
-        url: /publications/year#2011
+        url: /publications/#2011
       - title: < 2010
-        url: /publications/year#2010
+        url: /publications/#2010
 
 research:
   - title: Research
