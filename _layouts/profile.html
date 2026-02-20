@@ -49,6 +49,14 @@ layout: default
                         </div>
                     </div>
                 </div>
+                {% if page.skill %}
+                <div class="profile__skills">
+                    <strong>Skills:</strong>
+                    {% for skill in page.skill %}
+                    <span class="skill__tag">{{ skill }}</span>
+                    {% endfor %}
+                </div>
+                {% endif %}
             </header>
 
             <section class="page__content" itemprop="text">
