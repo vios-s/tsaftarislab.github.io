@@ -55,7 +55,6 @@ We currently have **NO** open positions.
   
 ## Important information for PhD students applying {#information}
 * If we have any open positions, we welcome applications from outstanding and ambitious students, with the potential of becoming extraordinary scholars. We select unfortunately few of the applications that we receive, and the only selection criterion is excellence.
-* We welcome applications from outstanding and ambitious students, with the potential of becoming extraordinary scholars. We select unfortunately few of the applications that we receive, and the only selection criterion is excellence.
 * Successful applicants have a very diverse background, including engineering, computer science, mathematics, physics, etc. Our research group is very diverse for gender, race, nationality, career ambition, etc. We strongly value the diversity in our group, and thus applicants from groups typically under-represented in academia are strongly encouraged to apply.  
 * Being fluent in both spoken and written English is essential. We accept the following English language qualifications at the minimum grades specified:
     * IELTS Academic: total 6.5 with at least 6.0 in each component
