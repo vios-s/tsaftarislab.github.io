@@ -6,6 +6,11 @@ profile: "jingshuai.png"
 
 linkedin: "https://www.linkedin.com/in/jingshuai-liu-39a4422a2/"
 
+skill:
+  - MRI Reconstruction
+  - Deep Learning
+  - Medical Imaging
+
 collection: team
 permalink: /team/jingshuai
 ---
