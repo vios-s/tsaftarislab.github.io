@@ -10,6 +10,11 @@ twitter: "https://x.com/istogiannidis"
 github: "https://github.com/stogiannidis"
 linkedin: "https://www.linkedin.com/in/stogiannidis/"
 
+skill:
+  - Computer Vision
+  - Machine Learning
+  - Natural Language Processing
+
 collection: team
 permalink: /team/ilias
 ---
